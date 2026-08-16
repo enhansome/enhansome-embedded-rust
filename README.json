@@ -19,7 +19,7 @@
             "last_commit": "2024-02-10T03:24:45Z",
             "owner": "rust-embedded",
             "repo": "rust-raspberrypi-OS-tutorials",
-            "stars": 14718
+            "stars": 14720
           }
         },
         {
@@ -112,7 +112,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T22:03:06Z",
+            "last_commit": "2026-08-15T09:42:43Z",
             "owner": "probe-rs",
             "repo": "probe-rs",
             "stars": 2903
@@ -214,7 +214,7 @@
             "last_commit": "2026-08-07T07:24:38Z",
             "owner": "probe-rs",
             "repo": "embedded-test",
-            "stars": 183
+            "stars": 184
           }
         },
         {
@@ -1157,10 +1157,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T17:32:48Z",
+            "last_commit": "2026-08-15T15:02:04Z",
             "owner": "embassy-rs",
             "repo": "embassy",
-            "stars": 9700
+            "stars": 9708
           }
         },
         {
@@ -1194,7 +1194,7 @@
             "last_commit": "2026-08-14T13:26:31Z",
             "owner": "esp-rs",
             "repo": "esp-hal",
-            "stars": 2055
+            "stars": 2056
           }
         },
         {
@@ -2181,10 +2181,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T17:11:11Z",
+            "last_commit": "2026-08-15T10:06:24Z",
             "owner": "rmk-rs",
             "repo": "rmk",
-            "stars": 1726
+            "stars": 1728
           }
         },
         {
@@ -2226,7 +2226,7 @@
             "last_commit": "2026-08-15T01:41:52Z",
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 366
+            "stars": 371
           }
         },
         {
@@ -2240,7 +2240,7 @@
             "last_commit": "2025-03-28T07:29:17Z",
             "owner": "cbruiz",
             "repo": "printhor",
-            "stars": 223
+            "stars": 224
           }
         },
         {
@@ -2268,7 +2268,7 @@
             "last_commit": "2026-08-07T18:35:13Z",
             "owner": "card-io-ecg",
             "repo": "card-io-fw",
-            "stars": 53
+            "stars": 54
           }
         },
         {
@@ -2365,7 +2365,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T02:40:37.746Z",
+    "last_updated": "2026-08-16T02:48:34.000Z",
     "original_repository": "rust-embedded/awesome-embedded-rust",
     "original_repository_sha": "6e235e70b93f622a917d48078e91426323b94e8c",
     "enhanced_repository": "enhansome/enhansome-embedded-rust",
