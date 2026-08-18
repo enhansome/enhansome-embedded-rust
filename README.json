@@ -112,10 +112,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T01:43:25Z",
+            "last_commit": "2026-08-17T06:25:04Z",
             "owner": "probe-rs",
             "repo": "probe-rs",
-            "stars": 2905
+            "stars": 2906
           }
         },
         {
@@ -129,7 +129,7 @@
             "last_commit": "2024-05-10T06:22:24Z",
             "owner": "RazrFalcon",
             "repo": "cargo-bloat",
-            "stars": 2759
+            "stars": 2760
           }
         },
         {
@@ -214,7 +214,7 @@
             "last_commit": "2026-08-07T07:24:38Z",
             "owner": "probe-rs",
             "repo": "embedded-test",
-            "stars": 184
+            "stars": 185
           }
         },
         {
@@ -253,10 +253,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-03T21:05:49Z",
+            "last_commit": "2026-08-17T16:33:51Z",
             "owner": "matheuswhite",
             "repo": "scope-rs",
-            "stars": 59
+            "stars": 60
           }
         },
         {
@@ -467,10 +467,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T20:54:31Z",
+            "last_commit": "2026-08-17T21:53:16Z",
             "owner": "oxidecomputer",
             "repo": "hubris",
-            "stars": 3575
+            "stars": 3577
           }
         },
         {
@@ -590,7 +590,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-04T21:29:52Z",
+            "last_commit": "2026-08-17T19:31:39Z",
             "owner": "Rahix",
             "repo": "avr-device",
             "stars": 236
@@ -1157,10 +1157,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T15:02:04Z",
+            "last_commit": "2026-08-18T01:11:22Z",
             "owner": "embassy-rs",
             "repo": "embassy",
-            "stars": 9710
+            "stars": 9712
           }
         },
         {
@@ -1191,10 +1191,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T13:26:31Z",
+            "last_commit": "2026-08-17T17:15:31Z",
             "owner": "esp-rs",
             "repo": "esp-hal",
-            "stars": 2057
+            "stars": 2058
           }
         },
         {
@@ -1208,7 +1208,7 @@
             "last_commit": "2026-08-11T16:50:38Z",
             "owner": "esp-rs",
             "repo": "esp-idf-hal",
-            "stars": 747
+            "stars": 748
           }
         }
       ],
@@ -1301,7 +1301,7 @@
             "last_commit": "2026-08-13T21:33:31Z",
             "owner": "rust-embedded",
             "repo": "cortex-m",
-            "stars": 1000
+            "stars": 999
           }
         },
         {
@@ -1808,7 +1808,7 @@
             "last_commit": "2026-08-17T01:48:16Z",
             "owner": "smoltcp-rs",
             "repo": "smoltcp",
-            "stars": 4569
+            "stars": 4570
           }
         },
         {
@@ -1836,7 +1836,7 @@
             "last_commit": "2026-08-10T15:13:43Z",
             "owner": "lora-rs",
             "repo": "lora-rs",
-            "stars": 465
+            "stars": 466
           }
         },
         {
@@ -1850,7 +1850,7 @@
             "last_commit": "2026-08-10T15:13:43Z",
             "owner": "lora-rs",
             "repo": "lora-rs",
-            "stars": 465
+            "stars": 466
           }
         },
         {
@@ -1878,7 +1878,7 @@
             "last_commit": "2026-08-14T18:12:56Z",
             "owner": "c410-f3r",
             "repo": "wtx",
-            "stars": 394
+            "stars": 397
           }
         },
         {
@@ -1892,7 +1892,7 @@
             "last_commit": "2026-08-12T12:04:05Z",
             "owner": "drogue-iot",
             "repo": "embedded-tls",
-            "stars": 240
+            "stars": 241
           }
         },
         {
@@ -2181,7 +2181,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T13:14:58Z",
+            "last_commit": "2026-08-18T01:48:37Z",
             "owner": "rmk-rs",
             "repo": "rmk",
             "stars": 1729
@@ -2226,7 +2226,7 @@
             "last_commit": "2026-08-15T01:41:52Z",
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 374
+            "stars": 377
           }
         },
         {
@@ -2365,7 +2365,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:48:51.643Z",
+    "last_updated": "2026-08-18T02:44:12.410Z",
     "original_repository": "rust-embedded/awesome-embedded-rust",
     "original_repository_sha": "6e235e70b93f622a917d48078e91426323b94e8c",
     "enhanced_repository": "enhansome/enhansome-embedded-rust",
