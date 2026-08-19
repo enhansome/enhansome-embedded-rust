@@ -19,7 +19,7 @@
             "last_commit": "2024-02-10T03:24:45Z",
             "owner": "rust-embedded",
             "repo": "rust-raspberrypi-OS-tutorials",
-            "stars": 14719
+            "stars": 14721
           }
         },
         {
@@ -115,7 +115,7 @@
             "last_commit": "2026-08-17T06:25:04Z",
             "owner": "probe-rs",
             "repo": "probe-rs",
-            "stars": 2906
+            "stars": 2909
           }
         },
         {
@@ -183,10 +183,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T16:11:11Z",
+            "last_commit": "2026-08-18T11:29:39Z",
             "owner": "esp-rs",
             "repo": "espflash",
-            "stars": 737
+            "stars": 739
           }
         },
         {
@@ -256,7 +256,7 @@
             "last_commit": "2026-08-17T16:33:51Z",
             "owner": "matheuswhite",
             "repo": "scope-rs",
-            "stars": 60
+            "stars": 61
           }
         },
         {
@@ -387,7 +387,7 @@
                 "last_commit": "2026-08-10T16:12:15Z",
                 "owner": "knurling-rs",
                 "repo": "defmt",
-                "stars": 1214
+                "stars": 1215
               }
             },
             {
@@ -401,7 +401,7 @@
                 "last_commit": "2025-08-19T15:10:39Z",
                 "owner": "knurling-rs",
                 "repo": "app-template",
-                "stars": 474
+                "stars": 475
               }
             },
             {
@@ -467,7 +467,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T21:53:16Z",
+            "last_commit": "2026-08-19T00:39:47Z",
             "owner": "oxidecomputer",
             "repo": "hubris",
             "stars": 3577
@@ -658,7 +658,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T08:18:53Z",
+            "last_commit": "2026-08-18T17:13:52Z",
             "owner": "esp-rs",
             "repo": "esp-pacs",
             "stars": 182
@@ -672,7 +672,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T08:18:53Z",
+            "last_commit": "2026-08-18T17:13:52Z",
             "owner": "esp-rs",
             "repo": "esp-pacs",
             "stars": 182
@@ -686,7 +686,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T08:18:53Z",
+            "last_commit": "2026-08-18T17:13:52Z",
             "owner": "esp-rs",
             "repo": "esp-pacs",
             "stars": 182
@@ -700,7 +700,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T08:18:53Z",
+            "last_commit": "2026-08-18T17:13:52Z",
             "owner": "esp-rs",
             "repo": "esp-pacs",
             "stars": 182
@@ -714,7 +714,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T08:18:53Z",
+            "last_commit": "2026-08-18T17:13:52Z",
             "owner": "esp-rs",
             "repo": "esp-pacs",
             "stars": 182
@@ -728,7 +728,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T08:18:53Z",
+            "last_commit": "2026-08-18T17:13:52Z",
             "owner": "esp-rs",
             "repo": "esp-pacs",
             "stars": 182
@@ -742,7 +742,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T08:18:53Z",
+            "last_commit": "2026-08-18T17:13:52Z",
             "owner": "esp-rs",
             "repo": "esp-pacs",
             "stars": 182
@@ -756,7 +756,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T08:18:53Z",
+            "last_commit": "2026-08-18T17:13:52Z",
             "owner": "esp-rs",
             "repo": "esp-pacs",
             "stars": 182
@@ -770,7 +770,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T08:18:53Z",
+            "last_commit": "2026-08-18T17:13:52Z",
             "owner": "esp-rs",
             "repo": "esp-pacs",
             "stars": 182
@@ -784,7 +784,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T08:18:53Z",
+            "last_commit": "2026-08-18T17:13:52Z",
             "owner": "esp-rs",
             "repo": "esp-pacs",
             "stars": 182
@@ -1157,10 +1157,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-18T01:11:22Z",
+            "last_commit": "2026-08-18T19:27:40Z",
             "owner": "embassy-rs",
             "repo": "embassy",
-            "stars": 9712
+            "stars": 9714
           }
         },
         {
@@ -1191,10 +1191,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T17:15:31Z",
+            "last_commit": "2026-08-18T21:08:17Z",
             "owner": "esp-rs",
             "repo": "esp-hal",
-            "stars": 2058
+            "stars": 2060
           }
         },
         {
@@ -1298,10 +1298,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T21:33:31Z",
+            "last_commit": "2026-08-19T00:45:54Z",
             "owner": "rust-embedded",
             "repo": "cortex-m",
-            "stars": 999
+            "stars": 1000
           }
         },
         {
@@ -1805,7 +1805,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T01:48:16Z",
+            "last_commit": "2026-08-18T13:17:47Z",
             "owner": "smoltcp-rs",
             "repo": "smoltcp",
             "stars": 4570
@@ -1864,7 +1864,7 @@
             "last_commit": "2026-07-19T04:15:27Z",
             "owner": "ethercrab-rs",
             "repo": "ethercrab",
-            "stars": 434
+            "stars": 433
           }
         },
         {
@@ -1878,7 +1878,7 @@
             "last_commit": "2026-08-14T18:12:56Z",
             "owner": "c410-f3r",
             "repo": "wtx",
-            "stars": 397
+            "stars": 398
           }
         },
         {
@@ -1959,7 +1959,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2025-12-05T11:31:59Z",
+            "last_commit": "2026-08-18T07:02:23Z",
             "owner": "drogue-iot",
             "repo": "ector",
             "stars": 69
@@ -2181,10 +2181,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-18T01:48:37Z",
+            "last_commit": "2026-08-19T02:41:31Z",
             "owner": "rmk-rs",
             "repo": "rmk",
-            "stars": 1729
+            "stars": 1730
           }
         },
         {
@@ -2226,7 +2226,7 @@
             "last_commit": "2026-08-15T01:41:52Z",
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 377
+            "stars": 383
           }
         },
         {
@@ -2365,9 +2365,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T02:44:12.410Z",
+    "last_updated": "2026-08-19T02:45:48.974Z",
     "original_repository": "rust-embedded/awesome-embedded-rust",
-    "original_repository_sha": "6e235e70b93f622a917d48078e91426323b94e8c",
+    "original_repository_sha": "f500390debf2495baf1593fdf022a877179b11a6",
     "enhanced_repository": "enhansome/enhansome-embedded-rust",
     "enhanced_repository_description": null,
     "title": "Awesome Embedded Rust with stars"
