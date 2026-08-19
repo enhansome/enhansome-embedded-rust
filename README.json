@@ -1,108 +1,110 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Writing an embedded OS in Rust on the Raspberry Pi",
+              "description": "A set of tutorials that give a guided, step-by-step tour of how to write a monolithic Operating System kernel for an embedded system from scratch. Runs on the Raspberry Pi 3 and the Raspberry Pi 4.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 127553476,
+                "language": "Rust",
+                "last_commit": "2024-02-10T03:24:45Z",
+                "owner": "rust-embedded",
+                "repo": "rust-raspberrypi-OS-tutorials",
+                "stars": 14721
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ferrous Systems' Embedded Training Courses: 2020-current edition",
+              "description": "A hands-on training course for beginner and advanced learners of Embedded Rust, based on Nordic Semiconductor's nRF52840 hardware. This training was given at Oxidize Conferences and by Ferrous Systems to corporate customers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 270966189,
+                "language": "Rust",
+                "last_commit": "2023-06-28T08:05:00Z",
+                "owner": "ferrous-systems",
+                "repo": "embedded-trainings-2020",
+                "stars": 258
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "impl Rust on ESP32 Book",
+              "description": "A hands-on guide that uses the ESP32 DevKit V1 to demonstrate how to work with various modules and sensors. (github source)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 907471029,
+                "language": "CSS",
+                "last_commit": "2026-05-09T02:43:06Z",
+                "owner": "ImplFerris",
+                "repo": "esp32-book",
+                "stars": 217
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pico Pico Book",
+              "description": "A hands-on guide that uses the Pico 2 (RP2350) to demonstrate how to work with various modules and sensors. (github source)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 875355563,
+                "language": "CSS",
+                "last_commit": "2026-07-07T02:46:31Z",
+                "owner": "ImplFerris",
+                "repo": "pico-pico",
+                "stars": 162
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DSP on STM32F407G-DISC1",
+              "description": "Unofficial oxidization of the Digital Signal Processing using Arm Cortex-M based Microcontrollers: Theory and Practice book. The book isn't necessary to enjoy the examples and learn a functional DSP Rust coding style.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 272134234,
+                "language": "Rust",
+                "last_commit": "2021-10-29T02:50:00Z",
+                "owner": "jacobrosenthal",
+                "repo": "dsp-discoveryf4-rust",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tweede golf's workshop",
+              "description": "A full workshop about Rust and embedded Rust. The embedded parts use the nRF52840-DK and a LIS3DH breakout board. (github source)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 630302005,
+                "language": "Rust",
+                "last_commit": "2026-08-11T11:11:02Z",
+                "owner": "tweedegolf",
+                "repo": "rust-training",
+                "stars": 34
+              }
+            }
+          ],
+          "description": "These materials are available publicly, typically under permissive licenses.",
+          "node_type": "group",
+          "title": "Free and public materials"
+        }
+      ],
       "title": "Books, blogs, and training materials"
     },
     {
-      "description": "These materials are available publicly, typically under permissive licenses.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Writing an embedded OS in Rust on the Raspberry Pi",
-          "description": "A set of tutorials that give a guided, step-by-step tour of how to write a monolithic Operating System kernel for an embedded system from scratch. Runs on the Raspberry Pi 3 and the Raspberry Pi 4.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-02-10T03:24:45Z",
-            "owner": "rust-embedded",
-            "repo": "rust-raspberrypi-OS-tutorials",
-            "stars": 14721
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ferrous Systems' Embedded Training Courses: 2020-current edition",
-          "description": "A hands-on training course for beginner and advanced learners of Embedded Rust, based on Nordic Semiconductor's nRF52840 hardware. This training was given at Oxidize Conferences and by Ferrous Systems to corporate customers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-06-28T08:05:00Z",
-            "owner": "ferrous-systems",
-            "repo": "embedded-trainings-2020",
-            "stars": 258
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "impl Rust on ESP32 Book",
-          "description": "A hands-on guide that uses the ESP32 DevKit V1 to demonstrate how to work with various modules and sensors. (github source)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2026-05-09T02:43:06Z",
-            "owner": "ImplFerris",
-            "repo": "esp32-book",
-            "stars": 217
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pico Pico Book",
-          "description": "A hands-on guide that uses the Pico 2 (RP2350) to demonstrate how to work with various modules and sensors. (github source)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2026-07-07T02:46:31Z",
-            "owner": "ImplFerris",
-            "repo": "pico-pico",
-            "stars": 162
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DSP on STM32F407G-DISC1",
-          "description": "Unofficial oxidization of the Digital Signal Processing using Arm Cortex-M based Microcontrollers: Theory and Practice book. The book isn't necessary to enjoy the examples and learn a functional DSP Rust coding style.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2021-10-29T02:50:00Z",
-            "owner": "jacobrosenthal",
-            "repo": "dsp-discoveryf4-rust",
-            "stars": 37
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tweede golf's workshop",
-          "description": "A full workshop about Rust and embedded Rust. The embedded parts use the nRF52840-DK and a LIS3DH breakout board. (github source)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-11T11:11:02Z",
-            "owner": "tweedegolf",
-            "repo": "rust-training",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ESP32-C3 Rust Tutorials",
-          "description": "Short videos and Github project implementing various peripherals of the ESP32-C3 with the end goal of creating a complete data logger application.",
-          "children": []
-        }
-      ],
-      "title": "Free and public materials"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -111,11 +113,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 170021740,
             "language": "Rust",
             "last_commit": "2026-08-17T06:25:04Z",
             "owner": "probe-rs",
             "repo": "probe-rs",
-            "stars": 2909
+            "stars": 2908
           }
         },
         {
@@ -125,6 +128,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116590508,
             "language": "Rust",
             "last_commit": "2024-05-10T06:22:24Z",
             "owner": "RazrFalcon",
@@ -144,6 +148,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 132279010,
                 "language": "Rust",
                 "last_commit": "2025-12-05T10:24:11Z",
                 "owner": "rust-osdev",
@@ -154,6 +159,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 54798445,
             "language": "Rust",
             "last_commit": "2023-05-02T22:57:39Z",
             "owner": "japaric",
@@ -168,6 +174,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70371776,
             "language": "Rust",
             "last_commit": "2026-08-11T20:42:17Z",
             "owner": "rust-embedded",
@@ -182,6 +189,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292104906,
             "language": "Rust",
             "last_commit": "2026-08-18T11:29:39Z",
             "owner": "esp-rs",
@@ -196,6 +204,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 523665787,
             "language": "Rust",
             "last_commit": "2026-06-23T09:07:07Z",
             "owner": "esp-rs",
@@ -210,6 +219,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 728210761,
             "language": "Rust",
             "last_commit": "2026-08-07T07:24:38Z",
             "owner": "probe-rs",
@@ -224,6 +234,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 164517349,
             "language": "Rust",
             "last_commit": "2023-07-25T23:12:11Z",
             "owner": "auxoncorp",
@@ -238,6 +249,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91353804,
             "language": "Rust",
             "last_commit": "2020-01-12T19:58:23Z",
             "owner": "bobbin-rs",
@@ -252,6 +264,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 601851815,
             "language": "Rust",
             "last_commit": "2026-08-17T16:33:51Z",
             "owner": "matheuswhite",
@@ -266,6 +279,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 214508089,
             "language": "Rust",
             "last_commit": "2023-09-27T18:58:07Z",
             "owner": "jacobrosenthal",
@@ -280,6 +294,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 152381052,
             "language": "Rust",
             "last_commit": "2021-12-17T19:25:53Z",
             "owner": "sajattack",
@@ -294,6 +309,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 439548096,
             "language": "Rust",
             "last_commit": "2023-04-23T03:59:41Z",
             "owner": "titanclass",
@@ -308,6 +324,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 340845407,
             "language": "Rust",
             "last_commit": "2026-05-13T04:37:46Z",
             "owner": "ryankurte",
@@ -322,6 +339,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 924058253,
             "language": "Rust",
             "last_commit": "2026-03-02T18:56:14Z",
             "owner": "dysonltd",
@@ -336,6 +354,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 172572460,
             "language": "Rust",
             "last_commit": "2023-10-02T07:18:52Z",
             "owner": "kiffie",
@@ -350,6 +369,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 964243062,
             "language": "Rust",
             "last_commit": "2025-04-20T11:23:53Z",
             "owner": "akavel",
@@ -364,6 +384,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 232540667,
             "language": null,
             "last_commit": "2020-01-27T10:51:14Z",
             "owner": "japaric",
@@ -383,6 +404,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 282262730,
                 "language": "Rust",
                 "last_commit": "2026-08-10T16:12:15Z",
                 "owner": "knurling-rs",
@@ -397,6 +419,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 289238316,
                 "language": "Rust",
                 "last_commit": "2025-08-19T15:10:39Z",
                 "owner": "knurling-rs",
@@ -411,6 +434,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 293586246,
                 "language": "Rust",
                 "last_commit": "2026-06-29T13:31:09Z",
                 "owner": "knurling-rs",
@@ -425,6 +449,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 931124218,
                 "language": "Rust",
                 "last_commit": "2026-07-22T18:02:35Z",
                 "owner": "knurling-rs",
@@ -439,6 +464,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 293798918,
                 "language": "Rust",
                 "last_commit": "2020-11-16T14:47:19Z",
                 "owner": "knurling-rs",
@@ -452,1167 +478,1263 @@
       "title": "Tools"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hubris",
+              "description": "A real-time operating system built by Oxide Computer to run the Service Controller processor in the mainboards of their rack-mount servers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 252314296,
+                "language": "Rust",
+                "last_commit": "2026-08-19T10:09:54Z",
+                "owner": "oxidecomputer",
+                "repo": "hubris",
+                "stars": 3578
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FreeRTOS-rust",
+              "description": "Rust interface for FreeRTOS with Rust entry point and build support crate.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 254590459,
+                "language": "Rust",
+                "last_commit": "2025-12-18T02:09:01Z",
+                "owner": "lobaro",
+                "repo": "FreeRTOS-rust",
+                "stars": 484
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FreeRTOS.rs",
+              "description": "Rust interface for the FreeRTOS API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69364825,
+                "language": "C",
+                "last_commit": "2020-11-12T23:16:43Z",
+                "owner": "hashmismatch",
+                "repo": "freertos.rs",
+                "stars": 245
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Real-time Operating System (RTOS)"
+        }
+      ],
       "title": "Real-time"
     },
     {
-      "description": "",
+      "description": "Register definition for microcontroller families. Usually generated using . -\nPeripheral Access Crates were also called Device Crates.\nNOTE You may be able to find even more peripheral access crates by searching for the keyword on crates.io!",
       "items": [
         {
-          "node_type": "item",
-          "title": "Hubris",
-          "description": "A real-time operating system built by Oxide Computer to run the Service Controller processor in the mainboards of their rack-mount servers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-19T00:39:47Z",
-            "owner": "oxidecomputer",
-            "repo": "hubris",
-            "stars": 3577
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Peripheral access API for Microchip (formerly Atmel) SAMD11 microcontrollers. This git repo hosts both the peripheral access crate and the hal.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125536984,
+                "language": "Rust",
+                "last_commit": "2026-08-14T14:54:43Z",
+                "owner": "atsamd-rs",
+                "repo": "atsamd",
+                "stars": 657
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Peripheral access API for Microchip (formerly Atmel) SAMD21 microcontrollers. This git repo hosts both the peripheral access crate and the hal.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125536984,
+                "language": "Rust",
+                "last_commit": "2026-08-14T14:54:43Z",
+                "owner": "atsamd-rs",
+                "repo": "atsamd",
+                "stars": 657
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Peripheral access API for Microchip (formerly Atmel) SAMD51 microcontrollers. This git repo hosts both the peripheral access crate and the hal.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125536984,
+                "language": "Rust",
+                "last_commit": "2026-08-14T14:54:43Z",
+                "owner": "atsamd-rs",
+                "repo": "atsamd",
+                "stars": 657
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Peripheral access API for Microchip (formerly Atmel) SAME53 microcontrollers. This git repo hosts both the peripheral access crate and the hal.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125536984,
+                "language": "Rust",
+                "last_commit": "2026-08-14T14:54:43Z",
+                "owner": "atsamd-rs",
+                "repo": "atsamd",
+                "stars": 657
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Peripheral access API for Microchip (formerly Atmel) SAME54 microcontrollers. This git repo hosts both the peripheral access crate and the hal.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125536984,
+                "language": "Rust",
+                "last_commit": "2026-08-14T14:54:43Z",
+                "owner": "atsamd-rs",
+                "repo": "atsamd",
+                "stars": 657
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Peripheral access API for Microchip (formerly Atmel) AVR microcontroller family.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186051104,
+                "language": "Rust",
+                "last_commit": "2026-08-17T19:31:39Z",
+                "owner": "Rahix",
+                "repo": "avr-device",
+                "stars": 236
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Peripheral access API for Microchip (formerly Atmel) SAM S70/E70/V70/V71 microcontrollers. This git repo hosts both the peripheral access crate and the hal.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186503625,
+                "language": "Rust",
+                "last_commit": "2026-07-08T19:14:47Z",
+                "owner": "atsams-rs",
+                "repo": "atsamx7x-rust",
+                "stars": 27
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Microchip"
         },
         {
-          "node_type": "item",
-          "title": "FreeRTOS-rust",
-          "description": "Rust interface for FreeRTOS with Rust entry point and build support crate.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-12-18T02:09:01Z",
-            "owner": "lobaro",
-            "repo": "FreeRTOS-rust",
-            "stars": 484
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Register access layer for i.MX RT series. -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 238839179,
+                "language": "Rust",
+                "last_commit": "2026-08-16T12:55:57Z",
+                "owner": "imxrt-rs",
+                "repo": "imxrt-hal",
+                "stars": 194
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Peripheral Access Crate for NXP MCX Series MCUs -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 799421288,
+                "language": "Rust",
+                "last_commit": "2025-08-28T03:30:16Z",
+                "owner": "mcx-rs",
+                "repo": "mcx-pac",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "NXP"
         },
         {
-          "node_type": "item",
-          "title": "FreeRTOS.rs",
-          "description": "Rust interface for the FreeRTOS API",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2020-11-12T23:16:43Z",
-            "owner": "hashmismatch",
-            "repo": "freertos.rs",
-            "stars": 245
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 454514640,
+                "language": "Rust",
+                "last_commit": "2026-08-19T10:16:55Z",
+                "owner": "esp-rs",
+                "repo": "esp-pacs",
+                "stars": 182
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 454514640,
+                "language": "Rust",
+                "last_commit": "2026-08-19T10:16:55Z",
+                "owner": "esp-rs",
+                "repo": "esp-pacs",
+                "stars": 182
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 454514640,
+                "language": "Rust",
+                "last_commit": "2026-08-19T10:16:55Z",
+                "owner": "esp-rs",
+                "repo": "esp-pacs",
+                "stars": 182
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 454514640,
+                "language": "Rust",
+                "last_commit": "2026-08-19T10:16:55Z",
+                "owner": "esp-rs",
+                "repo": "esp-pacs",
+                "stars": 182
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 454514640,
+                "language": "Rust",
+                "last_commit": "2026-08-19T10:16:55Z",
+                "owner": "esp-rs",
+                "repo": "esp-pacs",
+                "stars": 182
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 454514640,
+                "language": "Rust",
+                "last_commit": "2026-08-19T10:16:55Z",
+                "owner": "esp-rs",
+                "repo": "esp-pacs",
+                "stars": 182
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 454514640,
+                "language": "Rust",
+                "last_commit": "2026-08-19T10:16:55Z",
+                "owner": "esp-rs",
+                "repo": "esp-pacs",
+                "stars": 182
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 454514640,
+                "language": "Rust",
+                "last_commit": "2026-08-19T10:16:55Z",
+                "owner": "esp-rs",
+                "repo": "esp-pacs",
+                "stars": 182
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 454514640,
+                "language": "Rust",
+                "last_commit": "2026-08-19T10:16:55Z",
+                "owner": "esp-rs",
+                "repo": "esp-pacs",
+                "stars": 182
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 454514640,
+                "language": "Rust",
+                "last_commit": "2026-08-19T10:16:55Z",
+                "owner": "esp-rs",
+                "repo": "esp-pacs",
+                "stars": 182
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "note: esp8266 is archived, no further development planned",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 242255869,
+                "language": "Rust",
+                "last_commit": "2022-02-25T18:21:23Z",
+                "owner": "esp-rs",
+                "repo": "esp8266",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Espressif"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107208043,
+                "language": "Rust",
+                "last_commit": "2026-07-21T03:08:13Z",
+                "owner": "xmc-rs",
+                "repo": "xmc4300",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107208115,
+                "language": "Rust",
+                "last_commit": "2026-07-21T03:03:41Z",
+                "owner": "xmc-rs",
+                "repo": "xmc4500",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107208145,
+                "language": "Rust",
+                "last_commit": "2026-07-20T20:43:38Z",
+                "owner": "xmc-rs",
+                "repo": "xmc4700",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107208191,
+                "language": "Rust",
+                "last_commit": "2026-07-12T18:34:53Z",
+                "owner": "xmc-rs",
+                "repo": "xmc4800",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105494889,
+                "language": "Rust",
+                "last_commit": "2026-07-21T00:53:15Z",
+                "owner": "xmc-rs",
+                "repo": "xmc4200",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104619242,
+                "language": "Rust",
+                "last_commit": "2026-07-20T23:33:59Z",
+                "owner": "xmc-rs",
+                "repo": "xmc4100",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107208088,
+                "language": "Rust",
+                "last_commit": "2026-07-20T20:52:56Z",
+                "owner": "xmc-rs",
+                "repo": "xmc4400",
+                "stars": 1
+              }
+            }
+          ],
+          "description": "Peripheral access crates for the different XMC4xxx families of microcontrollers",
+          "node_type": "group",
+          "title": "XMC"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Peripheral Access Crate for ra2a1 microcontrollers (generated using svd2rust) -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 542626589,
+                "language": "Rust",
+                "last_commit": "2025-04-20T08:24:54Z",
+                "owner": "ra-rs",
+                "repo": "ra",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Peripheral Access Crate for ra2e1 microcontrollers (generated using svd2rust) -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 542626589,
+                "language": "Rust",
+                "last_commit": "2025-04-20T08:24:54Z",
+                "owner": "ra-rs",
+                "repo": "ra",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Peripheral Access Crate for ra2e2 microcontrollers (generated using svd2rust) -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 542626589,
+                "language": "Rust",
+                "last_commit": "2025-04-20T08:24:54Z",
+                "owner": "ra-rs",
+                "repo": "ra",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Peripheral Access Crate for ra2l1 microcontrollers (generated using svd2rust) -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 542626589,
+                "language": "Rust",
+                "last_commit": "2025-04-20T08:24:54Z",
+                "owner": "ra-rs",
+                "repo": "ra",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Peripheral Access Crate for ra4e1 microcontrollers (generated using svd2rust) -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 542626589,
+                "language": "Rust",
+                "last_commit": "2025-04-20T08:24:54Z",
+                "owner": "ra-rs",
+                "repo": "ra",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Peripheral Access Crate for ra4m1 microcontrollers (generated using svd2rust) -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 542626589,
+                "language": "Rust",
+                "last_commit": "2025-04-20T08:24:54Z",
+                "owner": "ra-rs",
+                "repo": "ra",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Peripheral Access Crate for ra4m2 microcontrollers (generated using svd2rust) -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 542626589,
+                "language": "Rust",
+                "last_commit": "2025-04-20T08:24:54Z",
+                "owner": "ra-rs",
+                "repo": "ra",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Peripheral Access Crate for ra4m3 microcontrollers (generated using svd2rust) -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 542626589,
+                "language": "Rust",
+                "last_commit": "2025-04-20T08:24:54Z",
+                "owner": "ra-rs",
+                "repo": "ra",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Peripheral Access Crate for ra4w1 microcontrollers (generated using svd2rust) -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 542626589,
+                "language": "Rust",
+                "last_commit": "2025-04-20T08:24:54Z",
+                "owner": "ra-rs",
+                "repo": "ra",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Peripheral Access Crate for ra6e1 microcontrollers (generated using svd2rust) -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 542626589,
+                "language": "Rust",
+                "last_commit": "2025-04-20T08:24:54Z",
+                "owner": "ra-rs",
+                "repo": "ra",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Peripheral Access Crate for ra6m1 microcontrollers (generated using svd2rust) -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 542626589,
+                "language": "Rust",
+                "last_commit": "2025-04-20T08:24:54Z",
+                "owner": "ra-rs",
+                "repo": "ra",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Peripheral Access Crate for ra6m2 microcontrollers (generated using svd2rust) -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 542626589,
+                "language": "Rust",
+                "last_commit": "2025-04-20T08:24:54Z",
+                "owner": "ra-rs",
+                "repo": "ra",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Peripheral Access Crate for ra6m3 microcontrollers (generated using svd2rust) -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 542626589,
+                "language": "Rust",
+                "last_commit": "2025-04-20T08:24:54Z",
+                "owner": "ra-rs",
+                "repo": "ra",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Peripheral Access Crate for ra6m4 microcontrollers (generated using svd2rust) -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 542626589,
+                "language": "Rust",
+                "last_commit": "2025-04-20T08:24:54Z",
+                "owner": "ra-rs",
+                "repo": "ra",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Peripheral Access Crate for ra6t1 microcontrollers (generated using svd2rust) -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 542626589,
+                "language": "Rust",
+                "last_commit": "2025-04-20T08:24:54Z",
+                "owner": "ra-rs",
+                "repo": "ra",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Peripheral Access Crate for ra6t2 microcontrollers (generated using svd2rust) -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 542626589,
+                "language": "Rust",
+                "last_commit": "2025-04-20T08:24:54Z",
+                "owner": "ra-rs",
+                "repo": "ra",
+                "stars": 23
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Renesas"
         }
       ],
-      "title": "Real-time Operating System (RTOS)"
-    },
-    {
-      "description": "Register definition for microcontroller families. Usually generated using . -\nPeripheral Access Crates were also called Device Crates.\nNOTE You may be able to find even more peripheral access crates by searching for the keyword on crates.io!",
-      "items": [],
       "title": "Peripheral Access Crates"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Peripheral access API for Microchip (formerly Atmel) SAMD11 microcontrollers. This git repo hosts both the peripheral access crate and the hal.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-14T14:54:43Z",
-            "owner": "atsamd-rs",
-            "repo": "atsamd",
-            "stars": 657
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Peripheral access API for Microchip (formerly Atmel) SAMD21 microcontrollers. This git repo hosts both the peripheral access crate and the hal.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-14T14:54:43Z",
-            "owner": "atsamd-rs",
-            "repo": "atsamd",
-            "stars": 657
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Peripheral access API for Microchip (formerly Atmel) SAMD51 microcontrollers. This git repo hosts both the peripheral access crate and the hal.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-14T14:54:43Z",
-            "owner": "atsamd-rs",
-            "repo": "atsamd",
-            "stars": 657
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Peripheral access API for Microchip (formerly Atmel) SAME53 microcontrollers. This git repo hosts both the peripheral access crate and the hal.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-14T14:54:43Z",
-            "owner": "atsamd-rs",
-            "repo": "atsamd",
-            "stars": 657
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Peripheral access API for Microchip (formerly Atmel) SAME54 microcontrollers. This git repo hosts both the peripheral access crate and the hal.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-14T14:54:43Z",
-            "owner": "atsamd-rs",
-            "repo": "atsamd",
-            "stars": 657
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Peripheral access API for Microchip (formerly Atmel) AVR microcontroller family.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-17T19:31:39Z",
-            "owner": "Rahix",
-            "repo": "avr-device",
-            "stars": 236
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Peripheral access API for Microchip (formerly Atmel) SAM S70/E70/V70/V71 microcontrollers. This git repo hosts both the peripheral access crate and the hal.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-08T19:14:47Z",
-            "owner": "atsams-rs",
-            "repo": "atsamx7x-rust",
-            "stars": 27
-          }
-        }
-      ],
-      "title": "Microchip"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Register access layer for i.MX RT series. -",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-16T12:55:57Z",
-            "owner": "imxrt-rs",
-            "repo": "imxrt-hal",
-            "stars": 194
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Peripheral Access Crate for NXP MCX Series MCUs -",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-08-28T03:30:16Z",
-            "owner": "mcx-rs",
-            "repo": "mcx-pac",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "NXP"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T17:13:52Z",
-            "owner": "esp-rs",
-            "repo": "esp-pacs",
-            "stars": 182
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T17:13:52Z",
-            "owner": "esp-rs",
-            "repo": "esp-pacs",
-            "stars": 182
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T17:13:52Z",
-            "owner": "esp-rs",
-            "repo": "esp-pacs",
-            "stars": 182
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T17:13:52Z",
-            "owner": "esp-rs",
-            "repo": "esp-pacs",
-            "stars": 182
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T17:13:52Z",
-            "owner": "esp-rs",
-            "repo": "esp-pacs",
-            "stars": 182
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T17:13:52Z",
-            "owner": "esp-rs",
-            "repo": "esp-pacs",
-            "stars": 182
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T17:13:52Z",
-            "owner": "esp-rs",
-            "repo": "esp-pacs",
-            "stars": 182
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T17:13:52Z",
-            "owner": "esp-rs",
-            "repo": "esp-pacs",
-            "stars": 182
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T17:13:52Z",
-            "owner": "esp-rs",
-            "repo": "esp-pacs",
-            "stars": 182
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T17:13:52Z",
-            "owner": "esp-rs",
-            "repo": "esp-pacs",
-            "stars": 182
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "note: esp8266 is archived, no further development planned",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2022-02-25T18:21:23Z",
-            "owner": "esp-rs",
-            "repo": "esp8266",
-            "stars": 22
-          }
-        }
-      ],
-      "title": "Espressif"
-    },
-    {
-      "description": "Peripheral access crates for the different XMC4xxx families of microcontrollers",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-21T03:08:13Z",
-            "owner": "xmc-rs",
-            "repo": "xmc4300",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-21T03:03:41Z",
-            "owner": "xmc-rs",
-            "repo": "xmc4500",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-20T20:43:38Z",
-            "owner": "xmc-rs",
-            "repo": "xmc4700",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-12T18:34:53Z",
-            "owner": "xmc-rs",
-            "repo": "xmc4800",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-21T00:53:15Z",
-            "owner": "xmc-rs",
-            "repo": "xmc4200",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-20T23:33:59Z",
-            "owner": "xmc-rs",
-            "repo": "xmc4100",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-20T20:52:56Z",
-            "owner": "xmc-rs",
-            "repo": "xmc4400",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "XMC"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Peripheral Access Crate for ra2a1 microcontrollers (generated using svd2rust) -",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-04-20T08:24:54Z",
-            "owner": "ra-rs",
-            "repo": "ra",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Peripheral Access Crate for ra2e1 microcontrollers (generated using svd2rust) -",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-04-20T08:24:54Z",
-            "owner": "ra-rs",
-            "repo": "ra",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Peripheral Access Crate for ra2e2 microcontrollers (generated using svd2rust) -",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-04-20T08:24:54Z",
-            "owner": "ra-rs",
-            "repo": "ra",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Peripheral Access Crate for ra2l1 microcontrollers (generated using svd2rust) -",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-04-20T08:24:54Z",
-            "owner": "ra-rs",
-            "repo": "ra",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Peripheral Access Crate for ra4e1 microcontrollers (generated using svd2rust) -",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-04-20T08:24:54Z",
-            "owner": "ra-rs",
-            "repo": "ra",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Peripheral Access Crate for ra4m1 microcontrollers (generated using svd2rust) -",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-04-20T08:24:54Z",
-            "owner": "ra-rs",
-            "repo": "ra",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Peripheral Access Crate for ra4m2 microcontrollers (generated using svd2rust) -",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-04-20T08:24:54Z",
-            "owner": "ra-rs",
-            "repo": "ra",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Peripheral Access Crate for ra4m3 microcontrollers (generated using svd2rust) -",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-04-20T08:24:54Z",
-            "owner": "ra-rs",
-            "repo": "ra",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Peripheral Access Crate for ra4w1 microcontrollers (generated using svd2rust) -",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-04-20T08:24:54Z",
-            "owner": "ra-rs",
-            "repo": "ra",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Peripheral Access Crate for ra6e1 microcontrollers (generated using svd2rust) -",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-04-20T08:24:54Z",
-            "owner": "ra-rs",
-            "repo": "ra",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Peripheral Access Crate for ra6m1 microcontrollers (generated using svd2rust) -",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-04-20T08:24:54Z",
-            "owner": "ra-rs",
-            "repo": "ra",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Peripheral Access Crate for ra6m2 microcontrollers (generated using svd2rust) -",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-04-20T08:24:54Z",
-            "owner": "ra-rs",
-            "repo": "ra",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Peripheral Access Crate for ra6m3 microcontrollers (generated using svd2rust) -",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-04-20T08:24:54Z",
-            "owner": "ra-rs",
-            "repo": "ra",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Peripheral Access Crate for ra6m4 microcontrollers (generated using svd2rust) -",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-04-20T08:24:54Z",
-            "owner": "ra-rs",
-            "repo": "ra",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Peripheral Access Crate for ra6t1 microcontrollers (generated using svd2rust) -",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-04-20T08:24:54Z",
-            "owner": "ra-rs",
-            "repo": "ra",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Peripheral Access Crate for ra6t2 microcontrollers (generated using svd2rust) -",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-04-20T08:24:54Z",
-            "owner": "ra-rs",
-            "repo": "ra",
-            "stars": 23
-          }
-        }
-      ],
-      "title": "Renesas"
-    },
-    {
       "description": "Implementations of for microcontroller families and systems running some OS. -\nNOTE You may be able to find even more HAL implementation crates by searching for the and keywords on crates.io!",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 297701481,
+                "language": "Rust",
+                "last_commit": "2026-08-19T10:47:49Z",
+                "owner": "embassy-rs",
+                "repo": "embassy",
+                "stars": 9715
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119300877,
+                "language": "Rust",
+                "last_commit": "2024-03-15T12:02:36Z",
+                "owner": "rust-embedded-community",
+                "repo": "tm4c-hal",
+                "stars": 45
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Texas Instruments"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 429554022,
+                "language": "Rust",
+                "last_commit": "2026-08-19T08:50:04Z",
+                "owner": "esp-rs",
+                "repo": "esp-hal",
+                "stars": 2061
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 315218722,
+                "language": "Rust",
+                "last_commit": "2026-08-11T16:50:38Z",
+                "owner": "esp-rs",
+                "repo": "esp-idf-hal",
+                "stars": 748
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Espressif"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164832652,
+                "language": "Rust",
+                "last_commit": "2022-01-04T17:57:05Z",
+                "owner": "david-sawatzke",
+                "repo": "xmc1100-hal",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162766938,
+                "language": "Rust",
+                "last_commit": "2026-08-11T22:21:48Z",
+                "owner": "xmc-rs",
+                "repo": "xmc4-hal",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "XMC"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 206709965,
+                "language": "Rust",
+                "last_commit": "2021-12-28T04:26:47Z",
+                "owner": "gd32v-rust",
+                "repo": "gd32vf103-hal",
+                "stars": 64
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 215607689,
+                "language": "Rust",
+                "last_commit": "2025-10-23T15:06:22Z",
+                "owner": "riscv-rust",
+                "repo": "gd32vf103xx-hal",
+                "stars": 59
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GigaDevice"
+        }
+      ],
       "title": "HAL implementation crates"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T19:27:40Z",
-            "owner": "embassy-rs",
-            "repo": "embassy",
-            "stars": 9714
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-03-15T12:02:36Z",
-            "owner": "rust-embedded-community",
-            "repo": "tm4c-hal",
-            "stars": 45
-          }
-        }
-      ],
-      "title": "Texas Instruments"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T21:08:17Z",
-            "owner": "esp-rs",
-            "repo": "esp-hal",
-            "stars": 2060
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-11T16:50:38Z",
-            "owner": "esp-rs",
-            "repo": "esp-idf-hal",
-            "stars": 748
-          }
-        }
-      ],
-      "title": "Espressif"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2022-01-04T17:57:05Z",
-            "owner": "david-sawatzke",
-            "repo": "xmc1100-hal",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-11T22:21:48Z",
-            "owner": "xmc-rs",
-            "repo": "xmc4-hal",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "XMC"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2021-12-28T04:26:47Z",
-            "owner": "gd32v-rust",
-            "repo": "gd32vf103-hal",
-            "stars": 64
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-10-23T15:06:22Z",
-            "owner": "riscv-rust",
-            "repo": "gd32vf103xx-hal",
-            "stars": 59
-          }
-        }
-      ],
-      "title": "GigaDevice"
-    },
-    {
       "description": "Crates tailored for general CPU architectures.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Low-level access to Cortex-M processors -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69407378,
+                "language": "Rust",
+                "last_commit": "2026-08-19T00:45:54Z",
+                "owner": "rust-embedded",
+                "repo": "cortex-m",
+                "stars": 1000
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Low-level access to Cortex-A processors (early state) -",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 128996227,
+                "language": "Rust",
+                "last_commit": "2022-11-06T19:52:31Z",
+                "owner": "rust-embedded",
+                "repo": "cortex-a",
+                "stars": 122
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ARM"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Low-level access to MIPS MCU cores -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 183909888,
+                "language": "Rust",
+                "last_commit": "2025-03-02T20:53:58Z",
+                "owner": "kiffie",
+                "repo": "pic32-rs",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Low-level access to MIPS32 processors -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 176841156,
+                "language": "Rust",
+                "last_commit": "2020-06-06T17:58:48Z",
+                "owner": "Harry-Chen",
+                "repo": "rust-mips",
+                "stars": 31
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "MIPS"
+        }
+      ],
       "title": "Architecture support crates"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Low-level access to Cortex-M processors -",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-19T00:45:54Z",
-            "owner": "rust-embedded",
-            "repo": "cortex-m",
-            "stars": 1000
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Low-level access to Cortex-A processors (early state) -",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2022-11-06T19:52:31Z",
-            "owner": "rust-embedded",
-            "repo": "cortex-a",
-            "stars": 122
-          }
-        }
-      ],
-      "title": "ARM"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Low-level access to MIPS MCU cores -",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-03-02T20:53:58Z",
-            "owner": "kiffie",
-            "repo": "pic32-rs",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Low-level access to MIPS32 processors -",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2020-06-06T17:58:48Z",
-            "owner": "Harry-Chen",
-            "repo": "rust-mips",
-            "stars": 31
-          }
-        }
-      ],
-      "title": "MIPS"
-    },
-    {
       "description": "Crates tailored for specific boards.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Board Support Crate for the Adafruit Feather RP2040",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 576669181,
+                "language": "Rust",
+                "last_commit": "2025-04-18T22:52:17Z",
+                "owner": "rp-rs",
+                "repo": "rp-hal-boards",
+                "stars": 270
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Board Support Crate for the Adafruit ItsyBitsy RP2040",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 576669181,
+                "language": "Rust",
+                "last_commit": "2025-04-18T22:52:17Z",
+                "owner": "rp-rs",
+                "repo": "rp-hal-boards",
+                "stars": 270
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Board Support Crate for the Adafruit KB2040",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 576669181,
+                "language": "Rust",
+                "last_commit": "2025-04-18T22:52:17Z",
+                "owner": "rp-rs",
+                "repo": "rp-hal-boards",
+                "stars": 270
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Board Support Crate for the Adafruit Macropad",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 576669181,
+                "language": "Rust",
+                "last_commit": "2025-04-18T22:52:17Z",
+                "owner": "rp-rs",
+                "repo": "rp-hal-boards",
+                "stars": 270
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Board Support Crate for the Adafruit QT Py RP2040",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 576669181,
+                "language": "Rust",
+                "last_commit": "2025-04-18T22:52:17Z",
+                "owner": "rp-rs",
+                "repo": "rp-hal-boards",
+                "stars": 270
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Adafruit"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Board Support for the Pimoroni Pico Explorer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 576669181,
+                "language": "Rust",
+                "last_commit": "2025-04-18T22:52:17Z",
+                "owner": "rp-rs",
+                "repo": "rp-hal-boards",
+                "stars": 270
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Board Support for the Pimoroni Pico Lipo 16MB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 576669181,
+                "language": "Rust",
+                "last_commit": "2025-04-18T22:52:17Z",
+                "owner": "rp-rs",
+                "repo": "rp-hal-boards",
+                "stars": 270
+              }
+            }
+          ],
+          "description": "For unlisted Pimoroni microcontroller boards, check this up-to-date list.",
+          "node_type": "group",
+          "title": "Pimoroni"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Nucleo-F401RE",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152298331,
+                "language": "Rust",
+                "last_commit": "2024-06-05T11:46:29Z",
+                "owner": "jkristell",
+                "repo": "nucleo-f401re",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Beginner-oriented support crate for the Nucleo H743ZI and Nucleo H743ZI2",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188522539,
+                "language": "Rust",
+                "last_commit": "2023-06-10T04:57:56Z",
+                "owner": "astraw",
+                "repo": "nucleo-h743zi",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Nucleo-F042K6",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 124953025,
+                "language": "Shell",
+                "last_commit": "2021-02-03T20:35:47Z",
+                "owner": "stm32-rs",
+                "repo": "nucleo-f042k6",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Nucleo-F103RB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121815173,
+                "language": "Rust",
+                "last_commit": "2020-04-03T19:07:11Z",
+                "owner": "therealprof",
+                "repo": "nucleo-f103rb",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Board support crate for the Nucleo H723ZG",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 621087496,
+                "language": "Rust",
+                "last_commit": "2023-04-22T18:47:05Z",
+                "owner": "jlogan03",
+                "repo": "nucleo-h723zg",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "STMicroelectronics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "A 1980s home-computer style application for the Texas Instruments Stellaris Launchpad. PS/2 keyboard input, text output on a bit-bashed 800x600 VGA signal. Uses menu, vga-framebuffer and pc-keyboard.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 123673389,
+                "language": "Rust",
+                "last_commit": "2021-08-17T14:30:39Z",
+                "owner": "thejpster",
+                "repo": "monotron",
+                "stars": 192
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "For the Texas Instruments TM4C129-XL Launchpad board",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 454632462,
+                "language": "Rust",
+                "last_commit": "2024-01-10T12:49:06Z",
+                "owner": "jlogan03",
+                "repo": "tm4c129-launchpad",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Texas Instruments"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "For the BetaFPV F3 drone flight controller",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140793947,
+                "language": "Rust",
+                "last_commit": "2019-02-12T12:14:13Z",
+                "owner": "JoshMcguigan",
+                "repo": "betafpv-f3",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Board support for the EMF Camp Tildagon badge",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1057441593,
+                "language": "Rust",
+                "last_commit": "2026-07-02T05:25:03Z",
+                "owner": "DanNixon",
+                "repo": "tildagon-rs",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Special Purpose"
+        }
+      ],
       "title": "Board support crates"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Board Support Crate for the Adafruit Feather RP2040",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-04-18T22:52:17Z",
-            "owner": "rp-rs",
-            "repo": "rp-hal-boards",
-            "stars": 270
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Board Support Crate for the Adafruit ItsyBitsy RP2040",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-04-18T22:52:17Z",
-            "owner": "rp-rs",
-            "repo": "rp-hal-boards",
-            "stars": 270
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Board Support Crate for the Adafruit KB2040",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-04-18T22:52:17Z",
-            "owner": "rp-rs",
-            "repo": "rp-hal-boards",
-            "stars": 270
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Board Support Crate for the Adafruit Macropad",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-04-18T22:52:17Z",
-            "owner": "rp-rs",
-            "repo": "rp-hal-boards",
-            "stars": 270
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Board Support Crate for the Adafruit QT Py RP2040",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-04-18T22:52:17Z",
-            "owner": "rp-rs",
-            "repo": "rp-hal-boards",
-            "stars": 270
-          }
-        }
-      ],
-      "title": "Adafruit"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Board Support for the Pimoroni Pico Explorer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-04-18T22:52:17Z",
-            "owner": "rp-rs",
-            "repo": "rp-hal-boards",
-            "stars": 270
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Board Support for the Pimoroni Pico Lipo 16MB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-04-18T22:52:17Z",
-            "owner": "rp-rs",
-            "repo": "rp-hal-boards",
-            "stars": 270
-          }
-        }
-      ],
-      "title": "Pimoroni"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Nucleo-F401RE",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-06-05T11:46:29Z",
-            "owner": "jkristell",
-            "repo": "nucleo-f401re",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Beginner-oriented support crate for the Nucleo H743ZI and Nucleo H743ZI2",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-06-10T04:57:56Z",
-            "owner": "astraw",
-            "repo": "nucleo-h743zi",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Nucleo-F042K6",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2021-02-03T20:35:47Z",
-            "owner": "stm32-rs",
-            "repo": "nucleo-f042k6",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Nucleo-F103RB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2020-04-03T19:07:11Z",
-            "owner": "therealprof",
-            "repo": "nucleo-f103rb",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Board support crate for the Nucleo H723ZG",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-04-22T18:47:05Z",
-            "owner": "jlogan03",
-            "repo": "nucleo-h723zg",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "STMicroelectronics"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "A 1980s home-computer style application for the Texas Instruments Stellaris Launchpad. PS/2 keyboard input, text output on a bit-bashed 800x600 VGA signal. Uses menu, vga-framebuffer and pc-keyboard.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2021-08-17T14:30:39Z",
-            "owner": "thejpster",
-            "repo": "monotron",
-            "stars": 192
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "For the Texas Instruments TM4C129-XL Launchpad board",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-01-10T12:49:06Z",
-            "owner": "jlogan03",
-            "repo": "tm4c129-launchpad",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Texas Instruments"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "For the BetaFPV F3 drone flight controller",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2019-02-12T12:14:13Z",
-            "owner": "JoshMcguigan",
-            "repo": "betafpv-f3",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Board support for the EMF Camp Tildagon badge",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-02T05:25:03Z",
-            "owner": "DanNixon",
-            "repo": "tildagon-rs",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Special Purpose"
     },
     {
       "description": "The following crates provide HAL-like abstractions for subcomponents of embedded devices that go beyond what is available in :",
@@ -1624,6 +1746,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146472687,
             "language": "Rust",
             "last_commit": "2026-06-19T12:26:53Z",
             "owner": "rust-embedded-community",
@@ -1638,6 +1761,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 235890709,
             "language": "Rust",
             "last_commit": "2025-10-01T12:22:55Z",
             "owner": "rust-embedded-community",
@@ -1652,6 +1776,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 228803522,
             "language": "Rust",
             "last_commit": "2026-07-22T13:24:30Z",
             "owner": "FactbirdHQ",
@@ -1666,6 +1791,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 320262012,
             "language": "Rust",
             "last_commit": "2026-03-30T14:06:14Z",
             "owner": "rust-embedded-community",
@@ -1680,6 +1806,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132086616,
             "language": "Rust",
             "last_commit": "2024-04-18T23:25:26Z",
             "owner": "rust-iot",
@@ -1694,6 +1821,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 237965448,
             "language": "Rust",
             "last_commit": "2024-04-17T14:27:15Z",
             "owner": "rubberduck203",
@@ -1708,6 +1836,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 177428050,
             "language": "Rust",
             "last_commit": "2024-07-24T18:31:21Z",
             "owner": "rust-embedded-community",
@@ -1719,7 +1848,7 @@
       "title": "Component abstraction crates"
     },
     {
-      "description": "You can also find many of these drivers on drive-rs; please consider adding your driver there (in the GitHub repo) while we work to port everything across.\nPlatform agnostic crates to interface external components. These crates use the interface to support all the devices and systems that implement the traits.\nThe list below contains drivers that have achieved the \"released\" status. To add a driver to this list, please ensure that your driver has a short blog post, article, or sufficiently explanatory README showing an example of its use. Ideally, this post would demonstrate using the device in a small project so that a Rust and/or embedded newcomer can also understand it. Otherwise, please add it to the WIP section below.",
+      "description": "You can also find many of these drivers on drive-rs; please consider adding your driver there (in the GitHub repo) while we work to port everything across.\nPlatform agnostic crates to interface external components. These crates use the interface to support all the devices and systems that implement the traits.\nThe list below contains drivers that have achieved the \"released\" status. To add a driver to this list, please ensure that your driver has a short blog post, article, or sufficiently explanatory README showing an example of its use. Ideally, this post would demonstrate using the device in a small project so that a Rust and/or embedded newcomer can also understand it. Otherwise, please add it to the WIP section below.\nNOTE You may be able to find even more driver crates by searching for the keyword on crates.io!",
       "items": [
         {
           "node_type": "item",
@@ -1728,6 +1857,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 286346678,
             "language": "Rust",
             "last_commit": "2021-10-08T11:56:58Z",
             "owner": "AnyLeaf",
@@ -1742,6 +1872,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 893812306,
             "language": "C",
             "last_commit": "2025-06-01T11:18:04Z",
             "owner": "trembel",
@@ -1756,6 +1887,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 289723497,
             "language": "Rust",
             "last_commit": "2024-01-17T12:20:24Z",
             "owner": "fmckeogh",
@@ -1770,6 +1902,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 894072377,
             "language": "C",
             "last_commit": "2024-11-26T05:52:05Z",
             "owner": "trembel",
@@ -1784,6 +1917,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 911963376,
             "language": "Rust",
             "last_commit": "2025-02-16T16:34:55Z",
             "owner": "leonidv",
@@ -1804,6 +1938,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75406961,
             "language": "Rust",
             "last_commit": "2026-08-18T13:17:47Z",
             "owner": "smoltcp-rs",
@@ -1818,6 +1953,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 183882654,
             "language": "Rust",
             "last_commit": "2024-09-07T13:13:53Z",
             "owner": "tarcieri",
@@ -1832,6 +1968,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106746673,
             "language": "Rust",
             "last_commit": "2026-08-10T15:13:43Z",
             "owner": "lora-rs",
@@ -1846,6 +1983,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106746673,
             "language": "Rust",
             "last_commit": "2026-08-10T15:13:43Z",
             "owner": "lora-rs",
@@ -1860,6 +1998,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 500086737,
             "language": "Rust",
             "last_commit": "2026-07-19T04:15:27Z",
             "owner": "ethercrab-rs",
@@ -1874,6 +2013,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 684042595,
             "language": "Rust",
             "last_commit": "2026-08-14T18:12:56Z",
             "owner": "c410-f3r",
@@ -1888,6 +2028,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 290301765,
             "language": "Rust",
             "last_commit": "2026-08-12T12:04:05Z",
             "owner": "drogue-iot",
@@ -1902,6 +2043,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 330032254,
             "language": "Rust",
             "last_commit": "2023-10-06T10:58:54Z",
             "owner": "drogue-iot",
@@ -1916,6 +2058,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 123673389,
             "language": "Rust",
             "last_commit": "2021-08-17T14:30:39Z",
             "owner": "thejpster",
@@ -1930,6 +2073,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 618439770,
             "language": "Rust",
             "last_commit": "2024-03-01T06:55:40Z",
             "owner": "hominee",
@@ -1944,6 +2088,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92186406,
             "language": "G-code",
             "last_commit": "2026-08-09T12:12:58Z",
             "owner": "Michael-F-Bryan",
@@ -1958,6 +2103,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 503270029,
             "language": "Rust",
             "last_commit": "2026-08-18T07:02:23Z",
             "owner": "drogue-iot",
@@ -1972,6 +2118,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 140081711,
             "language": "Rust",
             "last_commit": "2021-07-05T20:46:28Z",
             "owner": "rust-embedded",
@@ -1986,6 +2133,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1045096535,
             "language": "Rust",
             "last_commit": "2026-03-20T15:37:19Z",
             "owner": "Vaishnav-Sabari-Girish",
@@ -2000,6 +2148,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 483160173,
             "language": "Rust",
             "last_commit": "2022-07-12T08:35:53Z",
             "owner": "jhbruhn",
@@ -2014,6 +2163,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 498767466,
             "language": "Rust",
             "last_commit": "2024-11-18T15:07:51Z",
             "owner": "drogue-iot",
@@ -2028,6 +2178,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 917359422,
             "language": "Rust",
             "last_commit": "2026-08-10T21:01:40Z",
             "owner": "elagil",
@@ -2042,6 +2193,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 185885220,
             "language": "Rust",
             "last_commit": "2023-11-23T13:30:33Z",
             "owner": "jacobrosenthal",
@@ -2056,6 +2208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1147854750,
             "language": "Rust",
             "last_commit": "2026-08-10T06:12:45Z",
             "owner": "ADNTIO",
@@ -2070,6 +2223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 290621757,
             "language": "Rust",
             "last_commit": "2021-01-05T15:19:20Z",
             "owner": "xoac",
@@ -2084,6 +2238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132378804,
             "language": "Rust",
             "last_commit": "2019-06-10T20:47:43Z",
             "owner": "thejpster",
@@ -2098,80 +2253,86 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1025359595,
             "language": "Rust",
             "last_commit": "2025-12-10T08:40:34Z",
             "owner": "trembel",
             "repo": "locate-rs",
             "stars": 1
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Rubble",
+              "description": "A pure-Rust embedded BLE stack",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 127808771,
+                "language": "Rust",
+                "last_commit": "2022-05-17T18:42:40Z",
+                "owner": "jonas-schievink",
+                "repo": "rubble",
+                "stars": 403
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OxCC",
+              "description": "A port of Open Source Car Control written in Rust",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 143338375,
+                "language": "Rust",
+                "last_commit": "2018-11-13T23:51:25Z",
+                "owner": "jonlamb-gh",
+                "repo": "oxcc",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "light-cli",
+              "description": "a lightweight heapless cli interface",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133220329,
+                "language": "Rust",
+                "last_commit": "2019-03-15T14:53:57Z",
+                "owner": "rudihorn",
+                "repo": "light-cli",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "post-haste",
+              "description": "A no_std, alloc-free async Rust library for creating modular projects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 958735737,
+                "language": "Rust",
+                "last_commit": "2026-06-04T14:21:52Z",
+                "owner": "petekubiak",
+                "repo": "post-haste",
+                "stars": 8
+              }
+            }
+          ],
+          "description": "Work in progress crates. Help the authors make these crates awesome!",
+          "node_type": "group",
+          "title": "WIP"
         }
       ],
       "title": "no-std crates"
     },
     {
-      "description": "Work in progress crates. Help the authors make these crates awesome!",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Rubble",
-          "description": "A pure-Rust embedded BLE stack",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2022-05-17T18:42:40Z",
-            "owner": "jonas-schievink",
-            "repo": "rubble",
-            "stars": 403
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OxCC",
-          "description": "A port of Open Source Car Control written in Rust",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2018-11-13T23:51:25Z",
-            "owner": "jonlamb-gh",
-            "repo": "oxcc",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "light-cli",
-          "description": "a lightweight heapless cli interface",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2019-03-15T14:53:57Z",
-            "owner": "rudihorn",
-            "repo": "light-cli",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "post-haste",
-          "description": "A no_std, alloc-free async Rust library for creating modular projects.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-04T14:21:52Z",
-            "owner": "petekubiak",
-            "repo": "post-haste",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "WIP"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2180,8 +2341,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 688011037,
             "language": "Rust",
-            "last_commit": "2026-08-19T02:41:31Z",
+            "last_commit": "2026-08-19T10:51:52Z",
             "owner": "rmk-rs",
             "repo": "rmk",
             "stars": 1730
@@ -2194,11 +2356,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 627094231,
             "language": "Rust",
             "last_commit": "2025-02-10T11:25:22Z",
             "owner": "dotcypress",
             "repo": "ula",
-            "stars": 934
+            "stars": 935
           }
         },
         {
@@ -2208,6 +2371,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116851901,
             "language": "Rust",
             "last_commit": "2020-07-30T06:21:46Z",
             "owner": "ah-",
@@ -2222,6 +2386,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1266469959,
             "language": "Rust",
             "last_commit": "2026-08-15T01:41:52Z",
             "owner": "TheMaxMur",
@@ -2236,6 +2401,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 712093297,
             "language": "Rust",
             "last_commit": "2025-03-28T07:29:17Z",
             "owner": "cbruiz",
@@ -2250,6 +2416,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 174817691,
             "language": "Rust",
             "last_commit": "2026-07-15T23:44:29Z",
             "owner": "quartiq",
@@ -2264,6 +2431,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 633388514,
             "language": "Rust",
             "last_commit": "2026-08-07T18:35:13Z",
             "owner": "card-io-ecg",
@@ -2278,6 +2446,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 667870418,
             "language": "Rust",
             "last_commit": "2024-09-01T12:22:03Z",
             "owner": "pmnxis",
@@ -2292,6 +2461,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1142208415,
             "language": "Rust",
             "last_commit": "2026-06-09T15:41:42Z",
             "owner": "willamhou",
@@ -2306,6 +2476,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 274618400,
             "language": "Rust",
             "last_commit": "2026-05-13T09:30:02Z",
             "owner": "quartiq",
@@ -2320,6 +2491,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 598155143,
             "language": "Rust",
             "last_commit": "2023-10-22T11:07:03Z",
             "owner": "jonlamb-gh",
@@ -2334,6 +2506,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 703788443,
             "language": "Rust",
             "last_commit": "2023-11-28T17:05:49Z",
             "owner": "fu5ha",
@@ -2348,6 +2521,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 453973636,
             "language": "Rust",
             "last_commit": "2026-02-12T14:28:23Z",
             "owner": "quartiq",
@@ -2357,16 +2531,12 @@
         }
       ],
       "title": "Firmware projects"
-    },
-    {
-      "description": "Contribution to this crate is organized under the terms of the Rust Code of Conduct, the maintainer of this crate, the Resources team, promises to intervene to uphold that code of conduct.",
-      "items": [],
-      "title": "Code of Conduct"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:45:48.974Z",
+    "last_updated": "2026-08-19T12:27:56.301Z",
     "original_repository": "rust-embedded/awesome-embedded-rust",
+    "original_repository_id": 127671976,
     "original_repository_sha": "f500390debf2495baf1593fdf022a877179b11a6",
     "enhanced_repository": "enhansome/enhansome-embedded-rust",
     "enhanced_repository_description": null,
