@@ -118,7 +118,7 @@
             "last_commit": "2026-08-17T06:25:04Z",
             "owner": "probe-rs",
             "repo": "probe-rs",
-            "stars": 2908
+            "stars": 2911
           }
         },
         {
@@ -194,7 +194,7 @@
             "last_commit": "2026-08-18T11:29:39Z",
             "owner": "esp-rs",
             "repo": "espflash",
-            "stars": 739
+            "stars": 741
           }
         },
         {
@@ -209,7 +209,7 @@
             "last_commit": "2026-06-23T09:07:07Z",
             "owner": "esp-rs",
             "repo": "espup",
-            "stars": 439
+            "stars": 440
           }
         },
         {
@@ -439,7 +439,7 @@
                 "last_commit": "2026-06-29T13:31:09Z",
                 "owner": "knurling-rs",
                 "repo": "flip-link",
-                "stars": 434
+                "stars": 435
               }
             },
             {
@@ -491,10 +491,10 @@
                 "archived": false,
                 "id": 252314296,
                 "language": "Rust",
-                "last_commit": "2026-08-19T10:09:54Z",
+                "last_commit": "2026-08-19T22:34:25Z",
                 "owner": "oxidecomputer",
                 "repo": "hubris",
-                "stars": 3578
+                "stars": 3581
               }
             },
             {
@@ -509,7 +509,7 @@
                 "last_commit": "2025-12-18T02:09:01Z",
                 "owner": "lobaro",
                 "repo": "FreeRTOS-rust",
-                "stars": 484
+                "stars": 485
               }
             },
             {
@@ -1235,10 +1235,10 @@
                 "archived": false,
                 "id": 297701481,
                 "language": "Rust",
-                "last_commit": "2026-08-19T10:47:49Z",
+                "last_commit": "2026-08-19T19:14:42Z",
                 "owner": "embassy-rs",
                 "repo": "embassy",
-                "stars": 9715
+                "stars": 9718
               }
             },
             {
@@ -1272,10 +1272,10 @@
                 "archived": false,
                 "id": 429554022,
                 "language": "Rust",
-                "last_commit": "2026-08-19T08:50:04Z",
+                "last_commit": "2026-08-19T14:32:39Z",
                 "owner": "esp-rs",
                 "repo": "esp-hal",
-                "stars": 2061
+                "stars": 2063
               }
             },
             {
@@ -1970,7 +1970,7 @@
             "archived": false,
             "id": 106746673,
             "language": "Rust",
-            "last_commit": "2026-08-10T15:13:43Z",
+            "last_commit": "2026-08-19T19:14:08Z",
             "owner": "lora-rs",
             "repo": "lora-rs",
             "stars": 466
@@ -1985,7 +1985,7 @@
             "archived": false,
             "id": 106746673,
             "language": "Rust",
-            "last_commit": "2026-08-10T15:13:43Z",
+            "last_commit": "2026-08-19T19:14:08Z",
             "owner": "lora-rs",
             "repo": "lora-rs",
             "stars": 466
@@ -2093,7 +2093,7 @@
             "last_commit": "2026-08-09T12:12:58Z",
             "owner": "Michael-F-Bryan",
             "repo": "gcode-rs",
-            "stars": 107
+            "stars": 108
           }
         },
         {
@@ -2343,7 +2343,7 @@
             "archived": false,
             "id": 688011037,
             "language": "Rust",
-            "last_commit": "2026-08-19T10:51:52Z",
+            "last_commit": "2026-08-19T15:12:18Z",
             "owner": "rmk-rs",
             "repo": "rmk",
             "stars": 1730
@@ -2361,7 +2361,7 @@
             "last_commit": "2025-02-10T11:25:22Z",
             "owner": "dotcypress",
             "repo": "ula",
-            "stars": 935
+            "stars": 936
           }
         },
         {
@@ -2391,7 +2391,7 @@
             "last_commit": "2026-08-15T01:41:52Z",
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 383
+            "stars": 391
           }
         },
         {
@@ -2534,7 +2534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:27:56.301Z",
+    "last_updated": "2026-08-20T02:45:15.928Z",
     "original_repository": "rust-embedded/awesome-embedded-rust",
     "original_repository_id": 127671976,
     "original_repository_sha": "f500390debf2495baf1593fdf022a877179b11a6",
