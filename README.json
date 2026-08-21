@@ -179,7 +179,7 @@
             "last_commit": "2026-08-11T20:42:17Z",
             "owner": "rust-embedded",
             "repo": "svd2rust",
-            "stars": 852
+            "stars": 851
           }
         },
         {
@@ -239,7 +239,7 @@
             "last_commit": "2023-07-25T23:12:11Z",
             "owner": "auxoncorp",
             "repo": "ferros",
-            "stars": 121
+            "stars": 120
           }
         },
         {
@@ -406,10 +406,10 @@
                 "archived": false,
                 "id": 282262730,
                 "language": "Rust",
-                "last_commit": "2026-08-10T16:12:15Z",
+                "last_commit": "2026-08-20T18:08:39Z",
                 "owner": "knurling-rs",
                 "repo": "defmt",
-                "stars": 1215
+                "stars": 1216
               }
             },
             {
@@ -424,7 +424,7 @@
                 "last_commit": "2025-08-19T15:10:39Z",
                 "owner": "knurling-rs",
                 "repo": "app-template",
-                "stars": 475
+                "stars": 476
               }
             },
             {
@@ -439,7 +439,7 @@
                 "last_commit": "2026-06-29T13:31:09Z",
                 "owner": "knurling-rs",
                 "repo": "flip-link",
-                "stars": 435
+                "stars": 436
               }
             },
             {
@@ -454,7 +454,7 @@
                 "last_commit": "2026-07-22T18:02:35Z",
                 "owner": "knurling-rs",
                 "repo": "derive-mmio",
-                "stars": 24
+                "stars": 25
               }
             },
             {
@@ -491,10 +491,10 @@
                 "archived": false,
                 "id": 252314296,
                 "language": "Rust",
-                "last_commit": "2026-08-19T22:34:25Z",
+                "last_commit": "2026-08-20T18:31:29Z",
                 "owner": "oxidecomputer",
                 "repo": "hubris",
-                "stars": 3581
+                "stars": 3583
               }
             },
             {
@@ -698,10 +698,10 @@
                 "archived": false,
                 "id": 454514640,
                 "language": "Rust",
-                "last_commit": "2026-08-19T10:16:55Z",
+                "last_commit": "2026-08-20T15:58:28Z",
                 "owner": "esp-rs",
                 "repo": "esp-pacs",
-                "stars": 182
+                "stars": 180
               }
             },
             {
@@ -713,10 +713,10 @@
                 "archived": false,
                 "id": 454514640,
                 "language": "Rust",
-                "last_commit": "2026-08-19T10:16:55Z",
+                "last_commit": "2026-08-20T15:58:28Z",
                 "owner": "esp-rs",
                 "repo": "esp-pacs",
-                "stars": 182
+                "stars": 180
               }
             },
             {
@@ -728,10 +728,10 @@
                 "archived": false,
                 "id": 454514640,
                 "language": "Rust",
-                "last_commit": "2026-08-19T10:16:55Z",
+                "last_commit": "2026-08-20T15:58:28Z",
                 "owner": "esp-rs",
                 "repo": "esp-pacs",
-                "stars": 182
+                "stars": 180
               }
             },
             {
@@ -743,10 +743,10 @@
                 "archived": false,
                 "id": 454514640,
                 "language": "Rust",
-                "last_commit": "2026-08-19T10:16:55Z",
+                "last_commit": "2026-08-20T15:58:28Z",
                 "owner": "esp-rs",
                 "repo": "esp-pacs",
-                "stars": 182
+                "stars": 180
               }
             },
             {
@@ -758,10 +758,10 @@
                 "archived": false,
                 "id": 454514640,
                 "language": "Rust",
-                "last_commit": "2026-08-19T10:16:55Z",
+                "last_commit": "2026-08-20T15:58:28Z",
                 "owner": "esp-rs",
                 "repo": "esp-pacs",
-                "stars": 182
+                "stars": 180
               }
             },
             {
@@ -773,10 +773,10 @@
                 "archived": false,
                 "id": 454514640,
                 "language": "Rust",
-                "last_commit": "2026-08-19T10:16:55Z",
+                "last_commit": "2026-08-20T15:58:28Z",
                 "owner": "esp-rs",
                 "repo": "esp-pacs",
-                "stars": 182
+                "stars": 180
               }
             },
             {
@@ -788,10 +788,10 @@
                 "archived": false,
                 "id": 454514640,
                 "language": "Rust",
-                "last_commit": "2026-08-19T10:16:55Z",
+                "last_commit": "2026-08-20T15:58:28Z",
                 "owner": "esp-rs",
                 "repo": "esp-pacs",
-                "stars": 182
+                "stars": 180
               }
             },
             {
@@ -803,10 +803,10 @@
                 "archived": false,
                 "id": 454514640,
                 "language": "Rust",
-                "last_commit": "2026-08-19T10:16:55Z",
+                "last_commit": "2026-08-20T15:58:28Z",
                 "owner": "esp-rs",
                 "repo": "esp-pacs",
-                "stars": 182
+                "stars": 180
               }
             },
             {
@@ -818,10 +818,10 @@
                 "archived": false,
                 "id": 454514640,
                 "language": "Rust",
-                "last_commit": "2026-08-19T10:16:55Z",
+                "last_commit": "2026-08-20T15:58:28Z",
                 "owner": "esp-rs",
                 "repo": "esp-pacs",
-                "stars": 182
+                "stars": 180
               }
             },
             {
@@ -833,10 +833,10 @@
                 "archived": false,
                 "id": 454514640,
                 "language": "Rust",
-                "last_commit": "2026-08-19T10:16:55Z",
+                "last_commit": "2026-08-20T15:58:28Z",
                 "owner": "esp-rs",
                 "repo": "esp-pacs",
-                "stars": 182
+                "stars": 180
               }
             },
             {
@@ -1235,10 +1235,10 @@
                 "archived": false,
                 "id": 297701481,
                 "language": "Rust",
-                "last_commit": "2026-08-19T19:14:42Z",
+                "last_commit": "2026-08-20T18:07:52Z",
                 "owner": "embassy-rs",
                 "repo": "embassy",
-                "stars": 9718
+                "stars": 9725
               }
             },
             {
@@ -1272,10 +1272,10 @@
                 "archived": false,
                 "id": 429554022,
                 "language": "Rust",
-                "last_commit": "2026-08-19T14:32:39Z",
+                "last_commit": "2026-08-20T15:41:31Z",
                 "owner": "esp-rs",
                 "repo": "esp-hal",
-                "stars": 2063
+                "stars": 2066
               }
             },
             {
@@ -1287,10 +1287,10 @@
                 "archived": false,
                 "id": 315218722,
                 "language": "Rust",
-                "last_commit": "2026-08-11T16:50:38Z",
+                "last_commit": "2026-08-20T18:37:32Z",
                 "owner": "esp-rs",
                 "repo": "esp-idf-hal",
-                "stars": 748
+                "stars": 749
               }
             }
           ],
@@ -1751,7 +1751,7 @@
             "last_commit": "2026-06-19T12:26:53Z",
             "owner": "rust-embedded-community",
             "repo": "usb-device",
-            "stars": 528
+            "stars": 527
           }
         },
         {
@@ -1766,7 +1766,7 @@
             "last_commit": "2025-10-01T12:22:55Z",
             "owner": "rust-embedded-community",
             "repo": "embedded-nal",
-            "stars": 201
+            "stars": 200
           }
         },
         {
@@ -2343,10 +2343,10 @@
             "archived": false,
             "id": 688011037,
             "language": "Rust",
-            "last_commit": "2026-08-19T15:12:18Z",
+            "last_commit": "2026-08-20T15:39:29Z",
             "owner": "rmk-rs",
             "repo": "rmk",
-            "stars": 1730
+            "stars": 1731
           }
         },
         {
@@ -2361,7 +2361,7 @@
             "last_commit": "2025-02-10T11:25:22Z",
             "owner": "dotcypress",
             "repo": "ula",
-            "stars": 936
+            "stars": 935
           }
         },
         {
@@ -2391,7 +2391,7 @@
             "last_commit": "2026-08-15T01:41:52Z",
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 391
+            "stars": 396
           }
         },
         {
@@ -2406,7 +2406,7 @@
             "last_commit": "2025-03-28T07:29:17Z",
             "owner": "cbruiz",
             "repo": "printhor",
-            "stars": 224
+            "stars": 223
           }
         },
         {
@@ -2418,7 +2418,7 @@
             "archived": false,
             "id": 174817691,
             "language": "Rust",
-            "last_commit": "2026-07-15T23:44:29Z",
+            "last_commit": "2026-08-20T22:45:18Z",
             "owner": "quartiq",
             "repo": "stabilizer",
             "stars": 146
@@ -2534,7 +2534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:45:15.928Z",
+    "last_updated": "2026-08-21T02:51:28.232Z",
     "original_repository": "rust-embedded/awesome-embedded-rust",
     "original_repository_id": 127671976,
     "original_repository_sha": "f500390debf2495baf1593fdf022a877179b11a6",
