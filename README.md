@@ -164,7 +164,7 @@ In 2018, the Rust community created an embedded working group to help drive adop
 
 These materials are available publicly, typically under permissive licenses.
 
-* [Writing an embedded OS in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspi3-OS-tutorials) ⭐ 14,725 | 🐛 24 | 🌐 Rust | 📅 2024-02-10 A set of tutorials that give a guided, step-by-step tour of how to write a monolithic Operating System kernel for an embedded system from scratch. Runs on the Raspberry Pi 3 and the Raspberry Pi 4.
+* [Writing an embedded OS in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspi3-OS-tutorials) ⭐ 14,726 | 🐛 24 | 🌐 Rust | 📅 2024-02-10 A set of tutorials that give a guided, step-by-step tour of how to write a monolithic Operating System kernel for an embedded system from scratch. Runs on the Raspberry Pi 3 and the Raspberry Pi 4.
 * [Ferrous Systems' Embedded Training Courses: 2020-current edition](https://github.com/ferrous-systems/embedded-trainings-2020) ⭐ 258 | 🐛 29 | 🌐 Rust | 📅 2023-06-28 A hands-on training course for beginner and advanced learners of Embedded Rust, based on Nordic Semiconductor's nRF52840 hardware. This training was given at Oxidize Conferences and by [Ferrous Systems] to corporate customers.
 * [impl Rust on ESP32 Book](https://esp32.implrust.com/) - A hands-on guide that uses the ESP32 DevKit V1 to demonstrate how to work with various modules and sensors. ([github source](https://github.com/ImplFerris/esp32-book) ⭐ 217 | 🐛 2 | 🌐 CSS | 📅 2026-08-24)
 * [Pico Pico Book](https://pico.implrust.com/) - A hands-on guide that uses the Pico 2 (RP2350) to demonstrate how to work with various modules and sensors. ([github source](https://github.com/ImplFerris/pico-pico) ⭐ 163 | 🐛 2 | 🌐 CSS | 📅 2026-07-07)
@@ -200,20 +200,20 @@ specifically endorsed or reviewed for accuracy or quality by the Embedded Workin
 
 ## Tools
 
-* [probe-rs](https://github.com/probe-rs/probe-rs) ⭐ 2,918 | 🐛 362 | 🌐 Rust | 📅 2026-08-24: a modern, embedded debugging toolkit, written in Rust
+* [probe-rs](https://github.com/probe-rs/probe-rs) ⭐ 2,918 | 🐛 359 | 🌐 Rust | 📅 2026-08-24: a modern, embedded debugging toolkit, written in Rust
 * [cargo-bloat](https://github.com/RazrFalcon/cargo-bloat) ⭐ 2,760 | 🐛 17 | 🌐 Rust | 📅 2024-05-10 Find out what takes most of the space in your executable.
 * [xargo](https://github.com/japaric/xargo) ⭐ 1,134 | 🐛 66 | 🌐 Rust | 📅 2023-05-02 Rust package manager with support for non-default std libraries — build Rust runtime for your embedded system.
   * xargo is great, but since it's in maintenance mode, [cargo-xbuild](https://github.com/rust-osdev/cargo-xbuild) ⭐ 269 | 🐛 15 | 🌐 Rust | 📅 2025-12-05 is catching up as its intended replacement.
 * [svd2rust](https://github.com/japaric/svd2rust) ⭐ 851 | 🐛 72 | 🌐 Rust | 📅 2026-08-23 Generate Rust structs with register mappings from SVD files.
 * [espflash](https://github.com/esp-rs/espflash) ⭐ 741 | 🐛 36 | 🌐 Rust | 📅 2026-08-18 Serial flasher utility for Espressif SoCs and modules. - [![crates.io](https://img.shields.io/crates/v/espflash.svg)](https://crates.io/crates/espflash)
-* [espup](https://github.com/esp-rs/espup) ⭐ 441 | 🐛 14 | 🌐 Rust | 📅 2026-06-23 Tool for installing and maintaining Espressif Rust ecosystem. - [![crates.io](https://img.shields.io/crates/v/espup.svg)](https://crates.io/crates/espup)
+* [espup](https://github.com/esp-rs/espup) ⭐ 441 | 🐛 15 | 🌐 Rust | 📅 2026-06-23 Tool for installing and maintaining Espressif Rust ecosystem. - [![crates.io](https://img.shields.io/crates/v/espup.svg)](https://crates.io/crates/espup)
 * [embedded-test](https://github.com/probe-rs/embedded-test) ⭐ 185 | 🐛 10 | 🌐 Rust | 📅 2026-08-07: A versatile test harness for embedded devices, supporting unit tests, integration tests, async tests, and more.
 * [ferros](https://github.com/auxoncorp/ferros) ⭐ 120 | 🐛 26 | 🌐 Rust | 📅 2023-07-25 A Rust-based userland which also adds compile-time assurances to seL4 development.
 * [bobbin-cli](https://github.com/bobbin-rs/bobbin-cli) ⭐ 114 | 🐛 8 | 🌐 Rust | 📅 2020-01-12 A Rust command line tool to simplify embedded development and deployment.
-* [scope](https://github.com/matheuswhite/scope-rs) ⭐ 61 | 🐛 16 | 🌐 Rust | 📅 2026-08-17 Cross-platform serial-monitor TUI with an RTT interface (via `probe-rs`), hex/`@tag` input macros, search, session recording, and Lua plugins. - [![crates.io](https://img.shields.io/crates/v/scope-monitor.svg)](https://crates.io/crates/scope-monitor)
+* [scope](https://github.com/matheuswhite/scope-rs) ⭐ 62 | 🐛 16 | 🌐 Rust | 📅 2026-08-17 Cross-platform serial-monitor TUI with an RTT interface (via `probe-rs`), hex/`@tag` input macros, search, session recording, and Lua plugins. - [![crates.io](https://img.shields.io/crates/v/scope-monitor.svg)](https://crates.io/crates/scope-monitor)
 * [cargo-hf2](https://github.com/jacobrosenthal/hf2-rs) ⭐ 55 | 🐛 13 | 🌐 Rust | 📅 2023-09-27  A small cargo subcommand to download cargo builds to Microsoft UF2 bootloaders via HID USB . - [![crates.io](https://img.shields.io/crates/v/cargo-hf2.svg)](https://crates.io/crates/cargo-hf2)
 * [uf2](https://github.com/sajattack/uf2conv-rs) ⭐ 33 | 🐛 0 | 🌐 Rust | 📅 2021-12-17 Converts binary files to Microsoft's UF2 format for copying over to mass storage device uf2 bootloaders - [![crates.io](https://img.shields.io/crates/v/uf2.svg)](https://crates.io/crates/uf2)
-* [Embassy start](https://github.com/titanclass/embassy-start) ⭐ 27 | 🐛 0 | 🌐 Rust | 📅 2023-04-23 is a GitHub repo template for setting up async embedded Rust projects that use [Embassy](https://github.com/embassy-rs/embassy) ⭐ 9,732 | 🐛 629 | 🌐 Rust | 📅 2026-08-24. This particular template targets nRF hardware and networking using the Uarte for the purposes of illustration only.
+* [Embassy start](https://github.com/titanclass/embassy-start) ⭐ 27 | 🐛 0 | 🌐 Rust | 📅 2023-04-23 is a GitHub repo template for setting up async embedded Rust projects that use [Embassy](https://github.com/embassy-rs/embassy) ⭐ 9,735 | 🐛 631 | 🌐 Rust | 📅 2026-08-24. This particular template targets nRF hardware and networking using the Uarte for the purposes of illustration only.
 * [embedded-hal-compat](https://github.com/ryankurte/embedded-hal-compat) ⭐ 19 | 🐛 3 | 🌐 Rust | 📅 2026-05-13, a compatibility layer to provide interoperability between `v0.2.x` and `v1.x.x` hal implementations and drivers
 * [commitment-issues](https://github.com/dysonltd/commitment-issues) ⭐ 17 | 🐛 12 | 🌐 Rust | 📅 2026-03-02 Compile git metadata into your binary.
 * [edc2svd](https://github.com/kiffie/edc2svd) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2023-10-02 Generate SVD files for PIC32 devices from EDC files. - [![crates.io](https://img.shields.io/crates/v/edc2svd.svg)](https://crates.io/crates/edc2svd)
@@ -306,7 +306,7 @@ Peripheral Access Crates were also called Device Crates.
 
 ### NXP
 
-* [`imxrt-ral`](https://github.com/imxrt-rs/imxrt-rs) ⭐ 195 | 🐛 18 | 🌐 Rust | 📅 2026-08-16 Register access layer for i.MX RT series. -  [![crates.io](https://img.shields.io/crates/v/imxrt-ral.svg)](https://crates.io/crates/imxrt-ral)
+* [`imxrt-ral`](https://github.com/imxrt-rs/imxrt-rs) ⭐ 195 | 🐛 19 | 🌐 Rust | 📅 2026-08-16 Register access layer for i.MX RT series. -  [![crates.io](https://img.shields.io/crates/v/imxrt-ral.svg)](https://crates.io/crates/imxrt-ral)
 * [`mcx-pac`](https://github.com/mcx-rs/mcx-pac) ⭐ 8 | 🐛 0 | 🌐 Rust | 📅 2025-08-28 Peripheral Access Crate for NXP MCX Series MCUs - [![crates.io](https://img.shields.io/crates/v/mcx-pac.svg)](https://crates.io/crates/mcx-pac)
 * [`k64`](https://crates.io/crates/k64) - [![crates.io](https://img.shields.io/crates/v/k64.svg)](https://crates.io/crates/k64)
 * [`lpc11uxx`](https://crates.io/crates/lpc11uxx) - [![crates.io](https://img.shields.io/crates/v/lpc11uxx.svg)](https://crates.io/crates/lpc11uxx)
@@ -371,10 +371,10 @@ The [`stm32-rs`](https://github.com/stm32-rs/stm32-rs) ⭐ 1,656 | 🐛 59 | �
 
 ### Texas Instruments
 
-* [`tm4c123x`](https://crates.io/crates/tm4c123x) Peripheral access API for TM4C123x microcontrollers (generated using svd2rust)
-* [`tm4c129x`](https://crates.io/crates/tm4c129x) Peripheral access API for TM4C129x microcontrollers (generated using svd2rust)
 * [`mspm0-metapac`](https://github.com/mspm0-rs/mspm0-data) ⭐ 12 | 🐛 11 | 🌐 Rust | 📅 2026-08-19
   * PAC for all MSPM0 (and MSPS003) microcontrollers. (generated using chiptool)
+* [`tm4c123x`](https://crates.io/crates/tm4c123x) Peripheral access API for TM4C123x microcontrollers (generated using svd2rust)
+* [`tm4c129x`](https://crates.io/crates/tm4c129x) Peripheral access API for TM4C129x microcontrollers (generated using svd2rust)
 
 ### MSP430
 
@@ -425,7 +425,7 @@ Peripheral access crates for the different XMC4xxx families of microcontrollers
 
 ### AMD
 
-* [`zynq7000`](https://github.com/us-irs/zynq7000-rs/tree/main/firmware/zynq7000) ⭐ 20 | 🐛 1 | 🌐 Rust | 📅 2026-08-21 - [![crates.io](https://img.shields.io/crates/v/zynq7000.svg)](https://crates.io/crates/zynq7000)
+* [`zynq7000`](https://github.com/us-irs/zynq7000-rs/tree/main/firmware/zynq7000) ⭐ 20 | 🐛 1 | 🌐 Rust | 📅 2026-08-24 - [![crates.io](https://img.shields.io/crates/v/zynq7000.svg)](https://crates.io/crates/zynq7000)
 
 ### Vorago
 
@@ -486,10 +486,10 @@ Implementations of [`embedded-hal`] for microcontroller families and systems run
 
 ### Microchip
 
+* [`avr-hal`](https://github.com/Rahix/avr-hal) ⭐ 1,637 | 🐛 131 | 🌐 Rust | 📅 2026-01-06 - HAL for AVR microcontroller family and AVR-based boards
 * [`atsam4-hal`](https://crates.io/crates/atsam4-hal) - HAL for SAM4E, SAM4N and SAM4S - [![crates.io](https://img.shields.io/crates/v/atsam4-hal.svg)](https://crates.io/crates/atsam4-hal)
 * [`atsamd-hal`](https://crates.io/crates/atsamd-hal) - HAL for SAMD11, SAMD21, SAMD51 and SAME54 - [![crates.io](https://img.shields.io/crates/v/atsamd-hal.svg)](https://crates.io/crates/atsamd-hal)
 * [`atsamx7x-hal`](https://crates.io/crates/atsamx7x-hal) - HAL for SAM S70/E70/V70/V71-based devices - [![crates.io](https://img.shields.io/crates/v/atsamx7x-hal.svg)](https://crates.io/crates/atsamx7x-hal)
-* [`avr-hal`](https://github.com/Rahix/avr-hal) ⭐ 1,637 | 🐛 131 | 🌐 Rust | 📅 2026-01-06 - HAL for AVR microcontroller family and AVR-based boards
 * [`pic32-hal`](https://crates.io/crates/pic32-hal) - HAL for PIC32MX - [![crates.io](https://img.shields.io/crates/v/pic32-hal.svg)](https://crates.io/crates/pic32-hal)
 
 ### Nordic
@@ -508,10 +508,10 @@ Also check the list of [NXP board support crates][nxp-bsc]!
 
 [nxp-bsc]: #nxp-2
 
+* [`imxrt-hal`](https://github.com/imxrt-rs/imxrt-rs) ⭐ 195 | 🐛 19 | 🌐 Rust | 📅 2026-08-16 - HAL for i.MX RT series. -  [![crates.io](https://img.shields.io/crates/v/imxrt-hal.svg)](https://crates.io/crates/imxrt-hal)
 * [`lpc55s6x-hal`](https://crates.io/crates/lpc55s6x-hal) - [![crates.io](https://img.shields.io/crates/v/lpc55s6x-hal.svg)](https://crates.io/crates/lpc55s6x-hal)
 * [`lpc8xx-hal`](https://crates.io/crates/lpc8xx-hal) - HAL for lpc82x and lpc845 - [![crates.io](https://img.shields.io/crates/v/lpc8xx-hal.svg)](https://crates.io/crates/lpc8xx-hal)
 * [`mkw41z-hal`](https://crates.io/crates/mkw41z-hal) - [![crates.io](https://img.shields.io/crates/v/mkw41z-hal.svg)](https://crates.io/crates/mkw41z-hal)
-* [`imxrt-hal`](https://github.com/imxrt-rs/imxrt-rs) ⭐ 195 | 🐛 18 | 🌐 Rust | 📅 2026-08-16 - HAL for i.MX RT series. -  [![crates.io](https://img.shields.io/crates/v/imxrt-hal.svg)](https://crates.io/crates/imxrt-hal)
 
 ### Raspberry Pi Silicon
 
@@ -528,10 +528,10 @@ Also check the list of [STMicroelectronics board support crates][stm-bsc]!
 
 [stm-bsc]: #stmicroelectronics-2
 
-* [`stm32f0xx-hal`](https://crates.io/crates/stm32f0xx-hal) - [![crates.io](https://img.shields.io/crates/v/stm32f0xx-hal.svg)](https://crates.io/crates/stm32f0xx-hal)
-  * Has examples that can run on boards like the [Nucleo-F042K6] and similar boards
 * [`stm32f1xx-hal`](https://github.com/stm32-rs/stm32f1xx-hal) ⭐ 664 | 🐛 74 | 🌐 Rust | 📅 2026-07-27 - [![crates.io](https://img.shields.io/crates/v/stm32f1xx-hal.svg)](https://crates.io/crates/stm32f1xx-hal)
   * Can be run on boards like the [Blue-pill], [Nucleo-F103RB], and similar boards
+* [`stm32f0xx-hal`](https://crates.io/crates/stm32f0xx-hal) - [![crates.io](https://img.shields.io/crates/v/stm32f0xx-hal.svg)](https://crates.io/crates/stm32f0xx-hal)
+  * Has examples that can run on boards like the [Nucleo-F042K6] and similar boards
 * [`stm32f3xx-hal`](https://crates.io/crates/stm32f3xx-hal) - [![crates.io](https://img.shields.io/crates/v/stm32f3xx-hal.svg)](https://crates.io/crates/stm32f3xx-hal)
 * [`stm32f4xx-hal`](https://crates.io/crates/stm32f4xx-hal) - [![crates.io](https://img.shields.io/crates/v/stm32f4xx-hal.svg)](https://crates.io/crates/stm32f4xx-hal)
   * Generic HAL implementation for all MCUs of the stm32f4 series
@@ -561,7 +561,7 @@ Also check the list of [STMicroelectronics board support crates][stm-bsc]!
 
 ### Texas Instruments
 
-* [`embassy-mspm0`](https://github.com/embassy-rs/embassy/tree/main/embassy-mspm0) ⭐ 9,732 | 🐛 629 | 🌐 Rust | 📅 2026-08-24
+* [`embassy-mspm0`](https://github.com/embassy-rs/embassy/tree/main/embassy-mspm0) ⭐ 9,735 | 🐛 631 | 🌐 Rust | 📅 2026-08-24
   * Embassy HAL implementation for all MSPM0 (and MSPS003) microcontrollers.
 * [`tm4c123x-hal`](https://github.com/rust-embedded-community/tm4c-hal/) ⭐ 45 | 🐛 12 | 🌐 Rust | 📅 2024-03-15
 
@@ -572,9 +572,9 @@ Also check the list of [STMicroelectronics board support crates][stm-bsc]!
 
 ### Espressif
 
-* [`esp-hal`](https://github.com/esp-rs/esp-hal) ⭐ 2,071 | 🐛 221 | 🌐 Rust | 📅 2026-08-21 - [![crates.io](https://img.shields.io/crates/v/esp-hal.svg)](https://crates.io/crates/esp-hal)
+* [`esp-hal`](https://github.com/esp-rs/esp-hal) ⭐ 2,071 | 🐛 219 | 🌐 Rust | 📅 2026-08-24 - [![crates.io](https://img.shields.io/crates/v/esp-hal.svg)](https://crates.io/crates/esp-hal)
   * A `no_std` Hardware Abstraction Layer for Espressif microcontrollers, officially supported by Espressif
-* [`esp-idf-hal`](https://github.com/esp-rs/esp-idf-hal) ⭐ 750 | 🐛 45 | 🌐 Rust | 📅 2026-08-21 - [![crates.io](https://img.shields.io/crates/v/esp-idf-hal.svg)](https://crates.io/crates/esp-idf-hal)
+* [`esp-idf-hal`](https://github.com/esp-rs/esp-idf-hal) ⭐ 752 | 🐛 45 | 🌐 Rust | 📅 2026-08-21 - [![crates.io](https://img.shields.io/crates/v/esp-idf-hal.svg)](https://crates.io/crates/esp-idf-hal)
   * A `std` embedded-hal implementation for Espressif microcontrollers built on top of ESP-IDF, fully supported by the community
 
 ### Silicon Labs
@@ -607,7 +607,7 @@ Also check the list of [STMicroelectronics board support crates][stm-bsc]!
 
 ### AMD
 
-* [`zynq7000-hal`](https://github.com/us-irs/zynq7000-rs/tree/main/firmware/zynq7000-hal) ⭐ 20 | 🐛 1 | 🌐 Rust | 📅 2026-08-21 - [![crates.io](https://img.shields.io/crates/v/zynq7000-hal.svg)](https://crates.io/crates/zynq7000-hal)
+* [`zynq7000-hal`](https://github.com/us-irs/zynq7000-rs/tree/main/firmware/zynq7000-hal) ⭐ 20 | 🐛 1 | 🌐 Rust | 📅 2026-08-24 - [![crates.io](https://img.shields.io/crates/v/zynq7000-hal.svg)](https://crates.io/crates/zynq7000-hal)
 
 ### Renesas
 
@@ -778,8 +778,8 @@ The same repository includes support for numerous other development boards which
 
 ### Sparkfun
 
-* [`samd21_mini`](https://crates.io/crates/samd21_mini) - Board support for the [SAMD21 Mini Breakout](https://www.sparkfun.com/products/13664) in the [atsamd-rs] repo. It is an [atsamd-rs tier 2 support] board. [![crates.io](https://img.shields.io/crates/v/samd21_mini.svg)](https://crates.io/crates/samd21_mini)
 * [`sparkfun-pro-micro-rp2040`](https://github.com/rp-rs/rp-hal-boards) ⭐ 270 | 🐛 33 | 🌐 Rust | 📅 2025-04-18 - Board Support Crate for the RP2040 based Sparkfun Pro Micro.
+* [`samd21_mini`](https://crates.io/crates/samd21_mini) - Board support for the [SAMD21 Mini Breakout](https://www.sparkfun.com/products/13664) in the [atsamd-rs] repo. It is an [atsamd-rs tier 2 support] board. [![crates.io](https://img.shields.io/crates/v/samd21_mini.svg)](https://crates.io/crates/samd21_mini)
 
 ### SeeedStudio
 
@@ -1302,48 +1302,48 @@ keyword on crates.io!
 
 Work in progress drivers. Help the authors make these crates awesome!
 
-1. [AD9850] - Embedded driver for the AD9850 DDS synthesizer chip - [![crates.io](https://img.shields.io/crates/v/ad9850.svg)](https://crates.io/crates/ad9850)
-2. [AFE4400] - SPI - Pulse oximeter
-3. [APDS9960] - I2C - Proximity, ambient light, RGB, and gesture sensor - [![crates.io](https://img.shields.io/crates/v/apds9960.svg)](https://crates.io/crates/apds9960)
-4. [AS5048A] - SPI - AMS AS5048A Magnetic Rotary Encoder
-5. [AXP209] - I2C - Power management unit
-6. [ad57xx] - SPI - Quad and dual channel DAC - [![crates.io](https://img.shields.io/crates/v/ad57xx.svg)](https://crates.io/crates/ad57xx)
-7. [BH1750] - I2C - ambient light sensor (lux meter)
-8. [BME280] - A rust device driver for the Bosch BME280 temperature, humidity, and atmospheric pressure sensor and the Bosch BMP280 temperature and atmospheric pressure sensor. [![crates.io](https://img.shields.io/crates/v/bme280.svg)](https://crates.io/crates/bme280)
-9. [bme680] - I2C - Temperature / humidity / gas / pressure sensor - [![crates.io](https://img.shields.io/crates/v/bme680.svg)](https://crates.io/crates/bme680)
-10. [BMI160] - I2C / SPI - Inertial Measurement Unit - [![crates.io](https://img.shields.io/crates/v/bmi160.svg)](https://crates.io/crates/bmi160)
-11. [BMP280] - A platform agnostic driver to interface with the BMP280 pressure sensor [![crates.io](https://img.shields.io/crates/v/bmp280-ehal.svg)](https://crates.io/crates/bmp280-ehal)
-12. [CC1101] - SPI - Sub-1GHz RF Transceiver - [![crates.io](https://img.shields.io/crates/v/cc1101.svg)](https://crates.io/crates/cc1101)
-13. [DS3231] - I2C - real-time clock
-14. [DS3234] - SPI - Real-time clock
-15. [DS323x] - I2C/SPI - Real-time clocks (RTC): DS3231, DS3232 and DS3234 - [![crates.io](https://img.shields.io/crates/v/ds323x.svg)](https://crates.io/crates/ds323x)
-16. [epd-waveshare] - SPI - driver for E-Paper Modules from Waveshare [![crates.io](https://img.shields.io/crates/v/epd-waveshare.svg)](https://crates.io/crates/epd-waveshare)
-17. [embedded-morse] - Output morse messages - [![crates.io](https://img.shields.io/crates/v/embedded-morse.svg)](https://crates.io/crates/embedded-morse)
-18. [embedded-nrf24l01] - SPI+GPIO - 2.4 GHz radio
-19. [Ft6x36] - I2C - Rust driver for focal tech touch screen FT6236, FT6336 - [![crates.io](https://img.shields.io/crates/v/ft6x36.svg)](https://crates.io/crates/ft6x36)
-20. [grove-matrix-led-my9221-rs] - I2C - Rust driver for Grove RGB Matrix Led with my-9221 Driver - [![crates.io](https://img.shields.io/crates/v/grove-matrix-led-my9221-rs.svg)](https://crates.io/crates/grove-matrix-led-my9221-rs)
-21. [GridEYE] - I2C - Rust driver for Grid-EYE / Panasonic AMG88(33) - [![crates.io](https://img.shields.io/crates/v/GridEYE.svg)](https://crates.io/crates/GridEYE)
-22. [HC-SR04] - DIO - Ultrasound sensor
-23. [HD44780-driver] - GPIO - LCD controller - [![crates.io](https://img.shields.io/crates/v/hd44780-driver.svg)](https://crates.io/crates/hd44780-driver)
-24. [HD44780] - Parallel port - LCD controller
-25. [HM11] - USART - HM-11 bluetooth module AT configuration crate - [![crates.io](https://img.shields.io/crates/v/hm11.svg)](https://crates.io/crates/hm11)
-26. [HRS3300] - I2C - Heart rate sensor / monitor used in the PineTime smartwatch, for example. - [![crates.io](https://img.shields.io/crates/v/hrs3300.svg)](https://crates.io/crates/hrs3300)
-27. [HDC20xx] - I2C - Temperature and humidity sensor compatible with HDC2080, HDC2021 and HDC2010. - [![crates.io](https://img.shields.io/crates/v/hdc20xx.svg)](https://crates.io/crates/hdc20xx)
-28. [hub75] - A driver for rgb led matrices with the hub75 interface  - [![crates.io](https://img.shields.io/crates/v/hub75.svg)](https://crates.io/crates/hub75)
-29. [hzgrow-r502] - UART capacitive fingerprint reader - [![crates.io](https://img.shields.io/crates/v/hzgrow-r502.svg)](https://crates.io/crates/hzgrow-r502)
-30. [iAQ-Core] - I2C - iAQ-Core-C/iAQ-Core-P Gas and VOC sensor driver for monitoring indoor air quality.
-31. [ILI9341] - SPI - TFT LCD display
-32. [INA260] - I2C - power monitor - [![crates.io](https://img.shields.io/crates/v/ina260.svg)](https://crates.io/crates/ina260)
-33. [ISL29125] - I2C - RGB Color Light Sensor with IR Blocking Filter - [![crates.io](https://img.shields.io/crates/v/isl29125.svg)](https://crates.io/crates/isl29125)
-34. [IST7920] - SPI monochrome LCD display - [![crates.io](https://img.shields.io/crates/v/ist7920.svg)](https://crates.io/crates/ist7920)
-35. [LM75] - I2C - Temperature sensor and thermal watchdog (also compatible with LM75A, LM75B, LM75C, AT30TS75A, DS1775, DS75, DS7505, G751, MAX7500/1/2/3/4, MAX6625, MCP9800/1/2/3, STDS75, TCN75, PCT2075) - [![crates.io](https://img.shields.io/crates/v/lm75.svg)](https://crates.io/crates/lm75)
-36. [lp586x] - I2C/SPI - LED matrix driver [![crates.io](https://img.shields.io/crates/v/lp586x.svg)](https://crates.io/crates/lp586x)
-37. [LS010B7DH01] - SPI - Memory LCD
-38. [LSM303AGR] - I2C/SPI - 3D accelerometer + 3D magnetometer. (Used in e.g. micro:bit boards) [![crates.io](https://img.shields.io/crates/v/lsm303agr.svg)](https://crates.io/crates/lsm303agr)
-39. [LSM303C] - A platform agnostic driver to interface with the LSM303C (accelerometer + compass) [![crates.io](https://img.shields.io/crates/v/lsm303c.svg)](https://crates.io/crates/lsm303c)
-40. [LSM9DS1] - I2C/SPI - 9-axis motion sensor module [![crates.io](https://img.shields.io/crates/v/lsm9ds1.svg)](https://crates.io/crates/lsm9ds1)
-41. [ltr-559] - I2C - Ambient Light Sensor and Proximity sensor [![crates.io](https://img.shields.io/crates/v/ltr-559.svg)](https://crates.io/crates/ltr-559)
-42. [lvgl] - no\_std [LittleVGL](https://github.com/littlevgl/lvgl) ⭐ 24,459 | 🐛 225 | 🌐 C | 📅 2026-08-20 port - [![crates.io](https://img.shields.io/crates/v/lvgl.svg)](https://crates.io/crates/lvgl)
+1. [lvgl] - no\_std [LittleVGL](https://github.com/littlevgl/lvgl) ⭐ 24,464 | 🐛 233 | 🌐 C | 📅 2026-08-24 port - [![crates.io](https://img.shields.io/crates/v/lvgl.svg)](https://crates.io/crates/lvgl)
+2. [AD9850] - Embedded driver for the AD9850 DDS synthesizer chip - [![crates.io](https://img.shields.io/crates/v/ad9850.svg)](https://crates.io/crates/ad9850)
+3. [AFE4400] - SPI - Pulse oximeter
+4. [APDS9960] - I2C - Proximity, ambient light, RGB, and gesture sensor - [![crates.io](https://img.shields.io/crates/v/apds9960.svg)](https://crates.io/crates/apds9960)
+5. [AS5048A] - SPI - AMS AS5048A Magnetic Rotary Encoder
+6. [AXP209] - I2C - Power management unit
+7. [ad57xx] - SPI - Quad and dual channel DAC - [![crates.io](https://img.shields.io/crates/v/ad57xx.svg)](https://crates.io/crates/ad57xx)
+8. [BH1750] - I2C - ambient light sensor (lux meter)
+9. [BME280] - A rust device driver for the Bosch BME280 temperature, humidity, and atmospheric pressure sensor and the Bosch BMP280 temperature and atmospheric pressure sensor. [![crates.io](https://img.shields.io/crates/v/bme280.svg)](https://crates.io/crates/bme280)
+10. [bme680] - I2C - Temperature / humidity / gas / pressure sensor - [![crates.io](https://img.shields.io/crates/v/bme680.svg)](https://crates.io/crates/bme680)
+11. [BMI160] - I2C / SPI - Inertial Measurement Unit - [![crates.io](https://img.shields.io/crates/v/bmi160.svg)](https://crates.io/crates/bmi160)
+12. [BMP280] - A platform agnostic driver to interface with the BMP280 pressure sensor [![crates.io](https://img.shields.io/crates/v/bmp280-ehal.svg)](https://crates.io/crates/bmp280-ehal)
+13. [CC1101] - SPI - Sub-1GHz RF Transceiver - [![crates.io](https://img.shields.io/crates/v/cc1101.svg)](https://crates.io/crates/cc1101)
+14. [DS3231] - I2C - real-time clock
+15. [DS3234] - SPI - Real-time clock
+16. [DS323x] - I2C/SPI - Real-time clocks (RTC): DS3231, DS3232 and DS3234 - [![crates.io](https://img.shields.io/crates/v/ds323x.svg)](https://crates.io/crates/ds323x)
+17. [epd-waveshare] - SPI - driver for E-Paper Modules from Waveshare [![crates.io](https://img.shields.io/crates/v/epd-waveshare.svg)](https://crates.io/crates/epd-waveshare)
+18. [embedded-morse] - Output morse messages - [![crates.io](https://img.shields.io/crates/v/embedded-morse.svg)](https://crates.io/crates/embedded-morse)
+19. [embedded-nrf24l01] - SPI+GPIO - 2.4 GHz radio
+20. [Ft6x36] - I2C - Rust driver for focal tech touch screen FT6236, FT6336 - [![crates.io](https://img.shields.io/crates/v/ft6x36.svg)](https://crates.io/crates/ft6x36)
+21. [grove-matrix-led-my9221-rs] - I2C - Rust driver for Grove RGB Matrix Led with my-9221 Driver - [![crates.io](https://img.shields.io/crates/v/grove-matrix-led-my9221-rs.svg)](https://crates.io/crates/grove-matrix-led-my9221-rs)
+22. [GridEYE] - I2C - Rust driver for Grid-EYE / Panasonic AMG88(33) - [![crates.io](https://img.shields.io/crates/v/GridEYE.svg)](https://crates.io/crates/GridEYE)
+23. [HC-SR04] - DIO - Ultrasound sensor
+24. [HD44780-driver] - GPIO - LCD controller - [![crates.io](https://img.shields.io/crates/v/hd44780-driver.svg)](https://crates.io/crates/hd44780-driver)
+25. [HD44780] - Parallel port - LCD controller
+26. [HM11] - USART - HM-11 bluetooth module AT configuration crate - [![crates.io](https://img.shields.io/crates/v/hm11.svg)](https://crates.io/crates/hm11)
+27. [HRS3300] - I2C - Heart rate sensor / monitor used in the PineTime smartwatch, for example. - [![crates.io](https://img.shields.io/crates/v/hrs3300.svg)](https://crates.io/crates/hrs3300)
+28. [HDC20xx] - I2C - Temperature and humidity sensor compatible with HDC2080, HDC2021 and HDC2010. - [![crates.io](https://img.shields.io/crates/v/hdc20xx.svg)](https://crates.io/crates/hdc20xx)
+29. [hub75] - A driver for rgb led matrices with the hub75 interface  - [![crates.io](https://img.shields.io/crates/v/hub75.svg)](https://crates.io/crates/hub75)
+30. [hzgrow-r502] - UART capacitive fingerprint reader - [![crates.io](https://img.shields.io/crates/v/hzgrow-r502.svg)](https://crates.io/crates/hzgrow-r502)
+31. [iAQ-Core] - I2C - iAQ-Core-C/iAQ-Core-P Gas and VOC sensor driver for monitoring indoor air quality.
+32. [ILI9341] - SPI - TFT LCD display
+33. [INA260] - I2C - power monitor - [![crates.io](https://img.shields.io/crates/v/ina260.svg)](https://crates.io/crates/ina260)
+34. [ISL29125] - I2C - RGB Color Light Sensor with IR Blocking Filter - [![crates.io](https://img.shields.io/crates/v/isl29125.svg)](https://crates.io/crates/isl29125)
+35. [IST7920] - SPI monochrome LCD display - [![crates.io](https://img.shields.io/crates/v/ist7920.svg)](https://crates.io/crates/ist7920)
+36. [LM75] - I2C - Temperature sensor and thermal watchdog (also compatible with LM75A, LM75B, LM75C, AT30TS75A, DS1775, DS75, DS7505, G751, MAX7500/1/2/3/4, MAX6625, MCP9800/1/2/3, STDS75, TCN75, PCT2075) - [![crates.io](https://img.shields.io/crates/v/lm75.svg)](https://crates.io/crates/lm75)
+37. [lp586x] - I2C/SPI - LED matrix driver [![crates.io](https://img.shields.io/crates/v/lp586x.svg)](https://crates.io/crates/lp586x)
+38. [LS010B7DH01] - SPI - Memory LCD
+39. [LSM303AGR] - I2C/SPI - 3D accelerometer + 3D magnetometer. (Used in e.g. micro:bit boards) [![crates.io](https://img.shields.io/crates/v/lsm303agr.svg)](https://crates.io/crates/lsm303agr)
+40. [LSM303C] - A platform agnostic driver to interface with the LSM303C (accelerometer + compass) [![crates.io](https://img.shields.io/crates/v/lsm303c.svg)](https://crates.io/crates/lsm303c)
+41. [LSM9DS1] - I2C/SPI - 9-axis motion sensor module [![crates.io](https://img.shields.io/crates/v/lsm9ds1.svg)](https://crates.io/crates/lsm9ds1)
+42. [ltr-559] - I2C - Ambient Light Sensor and Proximity sensor [![crates.io](https://img.shields.io/crates/v/ltr-559.svg)](https://crates.io/crates/ltr-559)
 43. [M95320] - SPI - STMicroelectronics Serial flash EEPROM - [![crates.io](https://img.shields.io/crates/v/m95320.svg)](https://crates.io/crates/m95320)
 44. [MAG3110] - I2C - Magnetometer
 45. [MAX17048/9] - I2C - LiPo Fuel gauge, battery monitoring IC - [![crates.io](https://img.shields.io/crates/v/max17048.svg)](https://crates.io/crates/max17048)
@@ -1620,11 +1620,11 @@ Work in progress drivers. Help the authors make these crates awesome!
 
 [`#![no_std]` crates][no-std-category] designed to run on resource-constrained devices.
 
-1. [smoltcp](https://github.com/m-labs/smoltcp) ⭐ 4,576 | 🐛 104 | 🌐 Rust | 📅 2026-08-18: a small TCP/IP stack that runs without `alloc`. [![crates.io](https://img.shields.io/crates/v/smoltcp.svg)](https://crates.io/crates/smoltcp)
+1. [smoltcp](https://github.com/m-labs/smoltcp) ⭐ 4,578 | 🐛 104 | 🌐 Rust | 📅 2026-08-18: a small TCP/IP stack that runs without `alloc`. [![crates.io](https://img.shields.io/crates/v/smoltcp.svg)](https://crates.io/crates/smoltcp)
 2. [micromath](https://github.com/NeoBirth/micromath) ⭐ 485 | 🐛 8 | 🌐 Rust | 📅 2024-09-07: Embedded Rust math library featuring fast, safe floating point approximations for common arithmetic operations, 2D and 3D vector types, and statistical analysis - [![crates.io](https://img.shields.io/crates/v/micromath.svg)](https://crates.io/crates/micromath)
 3. [lorawan-encoding](https://github.com/lora-rs/lora-rs/tree/main/lorawan-encoding) ⭐ 466 | 🐛 31 | 🌐 Rust | 📅 2026-08-23: A LoRaWAN packet codec.
 4. [lorawan-device](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device) ⭐ 466 | 🐛 31 | 🌐 Rust | 📅 2026-08-23: A LoRaWAN MAC implementation supporting both event-driven and async mode.
-5. [ethercrab](https://github.com/ethercrab-rs/ethercrab) ⭐ 434 | 🐛 24 | 🌐 Rust | 📅 2026-07-19: A Rust implementation of the [EtherCAT](https://ethercat.org) industrial automation protocol - [![crates.io](https://img.shields.io/crates/v/ethercrab.svg)](https://crates.io/crates/ethercrab)
+5. [ethercrab](https://github.com/ethercrab-rs/ethercrab) ⭐ 436 | 🐛 24 | 🌐 Rust | 📅 2026-07-19: A Rust implementation of the [EtherCAT](https://ethercat.org) industrial automation protocol - [![crates.io](https://img.shields.io/crates/v/ethercrab.svg)](https://crates.io/crates/ethercrab)
 6. [wtx](https://github.com/c410-f3r/wtx) ⭐ 399 | 🐛 6 | 🌐 Rust | 📅 2026-08-23: Among other things, provides implementations to interact with HTTP, WebSockets and Databases.
 7. [embedded-tls](https://github.com/drogue-iot/embedded-tls) ⭐ 241 | 🐛 20 | 🌐 Rust | 📅 2026-08-12: A TLS 1.3 implementation that runs in a no-std environment.
 8. [drogue-device](https://github.com/drogue-iot/drogue-device) ⭐ 204 | 🐛 21 | 🌐 Rust | 📅 2023-10-06: A distribution of tools and examples for building embedded applications in Rust.
@@ -1802,10 +1802,10 @@ There are many ways to handle panics in embedded devices, these crates provide h
 
 ## Firmware projects
 
-* [rmk](https://github.com/HaoboGu/rmk) ⭐ 1,734 | 🐛 72 | 🌐 Rust | 📅 2026-08-23: Mechanical keyboard firmware for stm32/rp2040, supports vial/dynamic keymap/eeprom, written in Rust
+* [rmk](https://github.com/HaoboGu/rmk) ⭐ 1,734 | 🐛 73 | 🌐 Rust | 📅 2026-08-24: Mechanical keyboard firmware for stm32/rp2040, supports vial/dynamic keymap/eeprom, written in Rust
 * [μLA](https://github.com/dotcypress/ula) ⭐ 936 | 🐛 13 | 🌐 Rust | 📅 2025-02-10: Micro Logic Analyzer for RP2040
 * [anne-key](https://github.com/ah-/anne-key) ⭐ 571 | 🐛 25 | 🌐 Rust | 📅 2020-07-30: Alternate keyboard firmware for the Obins ANNE Pro
-* [🤖 RS-Key](https://github.com/TheMaxMur/RS-Key) ⭐ 407 | 🐛 10 | 🌐 Rust | 📅 2026-08-24: no\_std FIDO2/WebAuthn + U2F security-key firmware for the RP2350, built on embassy; also implements OpenPGP, PIV and OATH.
+* [🤖 RS-Key](https://github.com/TheMaxMur/RS-Key) ⭐ 416 | 🐛 8 | 🌐 Rust | 📅 2026-08-24: no\_std FIDO2/WebAuthn + U2F security-key firmware for the RP2350, built on embassy; also implements OpenPGP, PIV and OATH.
 * [prinThor](https://github.com/cbruiz/printhor) ⭐ 225 | 🐛 1 | 🌐 Rust | 📅 2025-03-28: 3DPrinter/CNC/Engraver firmware framework powered by rust embassy for stm32 families and rp2040.
 * [Stabilizer](https://github.com/quartiq/stabilizer) ⭐ 146 | 🐛 19 | 🌐 Rust | 📅 2026-08-20: Firmware for a DSP tool used in quantum physics experimentation, includes telemetry via MQTT and run-time configuration
 * [Card/IO ECG](https://github.com/card-io-ecg/card-io-fw) ⭐ 54 | 🐛 12 | 🌐 Rust | 📅 2026-08-07: Firmware for a business-card-sized ECG device with Wifi connectivity
