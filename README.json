@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 907471029,
                 "language": "CSS",
-                "last_commit": "2026-08-24T01:30:24Z",
+                "last_commit": "2026-08-25T04:17:39Z",
                 "owner": "ImplFerris",
                 "repo": "esp32-book",
                 "stars": 217
@@ -2439,7 +2439,7 @@
                 "last_commit": "2026-08-24T18:20:15Z",
                 "owner": "lvgl",
                 "repo": "lvgl",
-                "stars": 24468
+                "stars": 24471
               }
             }
           ],
@@ -2913,7 +2913,7 @@
             "last_commit": "2026-08-24T02:53:32Z",
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 417
+            "stars": 418
           }
         },
         {
@@ -3056,7 +3056,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:47:06.312Z",
+    "last_updated": "2026-08-25T05:50:50.199Z",
     "original_repository": "rust-embedded/awesome-embedded-rust",
     "original_repository_id": 127671976,
     "original_repository_sha": "f500390debf2495baf1593fdf022a877179b11a6",
