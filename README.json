@@ -17,7 +17,7 @@
                 "last_commit": "2024-02-10T03:24:45Z",
                 "owner": "rust-embedded",
                 "repo": "rust-raspberrypi-OS-tutorials",
-                "stars": 14726
+                "stars": 14727
               }
             },
             {
@@ -133,7 +133,7 @@
             "last_commit": "2024-05-10T06:22:24Z",
             "owner": "RazrFalcon",
             "repo": "cargo-bloat",
-            "stars": 2760
+            "stars": 2761
           }
         },
         {
@@ -344,7 +344,7 @@
             "last_commit": "2026-03-02T18:56:14Z",
             "owner": "dysonltd",
             "repo": "commitment-issues",
-            "stars": 17
+            "stars": 18
           }
         },
         {
@@ -424,7 +424,7 @@
                 "last_commit": "2025-08-19T15:10:39Z",
                 "owner": "knurling-rs",
                 "repo": "app-template",
-                "stars": 476
+                "stars": 475
               }
             },
             {
@@ -491,10 +491,10 @@
                 "archived": false,
                 "id": 252314296,
                 "language": "Rust",
-                "last_commit": "2026-08-21T21:38:41Z",
+                "last_commit": "2026-08-24T14:51:25Z",
                 "owner": "oxidecomputer",
                 "repo": "hubris",
-                "stars": 3586
+                "stars": 3587
               }
             },
             {
@@ -548,10 +548,10 @@
                     "archived": false,
                     "id": 83947369,
                     "language": "Rust",
-                    "last_commit": "2026-08-23T14:21:17Z",
+                    "last_commit": "2026-08-24T16:23:41Z",
                     "owner": "rtic-rs",
                     "repo": "rtic",
-                    "stars": 2387
+                    "stars": 2388
                   }
                 },
                 {
@@ -1130,7 +1130,7 @@
                 "archived": false,
                 "id": 976496288,
                 "language": "Rust",
-                "last_commit": "2026-08-24T11:19:11Z",
+                "last_commit": "2026-08-24T17:28:20Z",
                 "owner": "us-irs",
                 "repo": "zynq7000-rs",
                 "stars": 20
@@ -1493,10 +1493,10 @@
                 "archived": false,
                 "id": 297701481,
                 "language": "Rust",
-                "last_commit": "2026-08-24T02:02:57Z",
+                "last_commit": "2026-08-24T14:38:10Z",
                 "owner": "embassy-rs",
                 "repo": "embassy",
-                "stars": 9735
+                "stars": 9736
               }
             },
             {
@@ -1530,10 +1530,10 @@
                 "archived": false,
                 "id": 429554022,
                 "language": "Rust",
-                "last_commit": "2026-08-24T12:44:35Z",
+                "last_commit": "2026-08-24T16:59:25Z",
                 "owner": "esp-rs",
                 "repo": "esp-hal",
-                "stars": 2071
+                "stars": 2073
               }
             },
             {
@@ -1663,7 +1663,7 @@
                 "archived": false,
                 "id": 976496288,
                 "language": "Rust",
-                "last_commit": "2026-08-24T11:19:11Z",
+                "last_commit": "2026-08-24T17:28:20Z",
                 "owner": "us-irs",
                 "repo": "zynq7000-rs",
                 "stars": 20
@@ -1731,7 +1731,7 @@
                 "last_commit": "2026-08-18T10:44:35Z",
                 "owner": "rust-embedded",
                 "repo": "riscv",
-                "stars": 1124
+                "stars": 1125
               }
             }
           ],
@@ -2151,7 +2151,7 @@
                 "last_commit": "2026-08-02T19:35:27Z",
                 "owner": "mciantyre",
                 "repo": "teensy4-rs",
-                "stars": 372
+                "stars": 373
               }
             }
           ],
@@ -2436,10 +2436,10 @@
                 "archived": false,
                 "id": 60667730,
                 "language": "C",
-                "last_commit": "2026-08-24T13:46:49Z",
+                "last_commit": "2026-08-24T18:20:15Z",
                 "owner": "lvgl",
                 "repo": "lvgl",
-                "stars": 24464
+                "stars": 24468
               }
             }
           ],
@@ -2465,7 +2465,7 @@
             "last_commit": "2026-08-18T13:17:47Z",
             "owner": "smoltcp-rs",
             "repo": "smoltcp",
-            "stars": 4578
+            "stars": 4579
           }
         },
         {
@@ -2865,7 +2865,7 @@
             "archived": false,
             "id": 688011037,
             "language": "Rust",
-            "last_commit": "2026-08-24T12:52:33Z",
+            "last_commit": "2026-08-25T01:54:09Z",
             "owner": "rmk-rs",
             "repo": "rmk",
             "stars": 1734
@@ -2883,7 +2883,7 @@
             "last_commit": "2025-02-10T11:25:22Z",
             "owner": "dotcypress",
             "repo": "ula",
-            "stars": 936
+            "stars": 937
           }
         },
         {
@@ -2913,7 +2913,7 @@
             "last_commit": "2026-08-24T02:53:32Z",
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 416
+            "stars": 417
           }
         },
         {
@@ -3056,7 +3056,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:51:08.324Z",
+    "last_updated": "2026-08-25T02:47:06.312Z",
     "original_repository": "rust-embedded/awesome-embedded-rust",
     "original_repository_id": 127671976,
     "original_repository_sha": "f500390debf2495baf1593fdf022a877179b11a6",
