@@ -1,6 +1,6 @@
 # Awesome Embedded Rust with stars
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Linting](https://github.com/rust-embedded/awesome-embedded-rust/actions/workflows/Linting.yml/badge.svg)](https://github.com/rust-embedded/awesome-embedded-rust/actions/workflows/Linting.yml) ⭐ 8,051 | 🐛 13 | 📅 2026-08-28
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Linting](https://github.com/rust-embedded/awesome-embedded-rust/actions/workflows/Linting.yml/badge.svg)](https://github.com/rust-embedded/awesome-embedded-rust/actions/workflows/Linting.yml) ⭐ 8,052 | 🐛 13 | 📅 2026-08-28
 
 This is a curated list of resources related to embedded and low-level programming in the Rust programming language, including a selection of useful crates.
 
@@ -167,7 +167,7 @@ These materials are available publicly, typically under permissive licenses.
 * [Writing an embedded OS in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspi3-OS-tutorials) ⭐ 14,729 | 🐛 24 | 🌐 Rust | 📅 2024-02-10 A set of tutorials that give a guided, step-by-step tour of how to write a monolithic Operating System kernel for an embedded system from scratch. Runs on the Raspberry Pi 3 and the Raspberry Pi 4.
 * [Ferrous Systems' Embedded Training Courses: 2020-current edition](https://github.com/ferrous-systems/embedded-trainings-2020) ⭐ 258 | 🐛 29 | 🌐 Rust | 📅 2023-06-28 A hands-on training course for beginner and advanced learners of Embedded Rust, based on Nordic Semiconductor's nRF52840 hardware. This training was given at Oxidize Conferences and by [Ferrous Systems] to corporate customers.
 * [impl Rust on ESP32 Book](https://esp32.implrust.com/) - A hands-on guide that uses the ESP32 DevKit V1 to demonstrate how to work with various modules and sensors. ([github source](https://github.com/ImplFerris/esp32-book) ⭐ 217 | 🐛 1 | 🌐 CSS | 📅 2026-08-25)
-* [Pico Pico Book](https://pico.implrust.com/) - A hands-on guide that uses the Pico 2 (RP2350) to demonstrate how to work with various modules and sensors. ([github source](https://github.com/ImplFerris/pico-pico) ⭐ 164 | 🐛 2 | 🌐 CSS | 📅 2026-07-07)
+* [Pico Pico Book](https://pico.implrust.com/) - A hands-on guide that uses the Pico 2 (RP2350) to demonstrate how to work with various modules and sensors. ([github source](https://github.com/ImplFerris/pico-pico) ⭐ 165 | 🐛 2 | 🌐 CSS | 📅 2026-07-07)
 * [DSP on STM32F407G-DISC1](https://github.com/jacobrosenthal/dsp-discoveryf4-rust/) ⭐ 38 | 🐛 0 | 🌐 Rust | 📅 2021-10-29 Unofficial oxidization of the [Digital Signal Processing using Arm Cortex-M based Microcontrollers: Theory and Practice](https://www.amazon.com/Digital-Signal-Processing-Cortex-M-Microcontrollers/dp/1911531166) book. The book isn't necessary to enjoy the examples and learn a functional DSP Rust coding style.
 * [Tweede golf's workshop](https://workshop.tweede.golf) - A full workshop about Rust and embedded Rust. The embedded parts use the nRF52840-DK and a LIS3DH breakout board. ([github source](https://github.com/tweedegolf/rust-workshop) ⭐ 34 | 🐛 55 | 🌐 Rust | 📅 2026-08-11)
 * [The Embedded Rust Book](https://rust-embedded.github.io/book/) - An introductory book about using the Rust Programming Language on "Bare Metal" embedded systems, such as Microcontrollers.
@@ -200,7 +200,7 @@ specifically endorsed or reviewed for accuracy or quality by the Embedded Workin
 
 ## Tools
 
-* [probe-rs](https://github.com/probe-rs/probe-rs) ⭐ 2,923 | 🐛 361 | 🌐 Rust | 📅 2026-08-27: a modern, embedded debugging toolkit, written in Rust
+* [probe-rs](https://github.com/probe-rs/probe-rs) ⭐ 2,923 | 🐛 356 | 🌐 Rust | 📅 2026-08-28: a modern, embedded debugging toolkit, written in Rust
 * [cargo-bloat](https://github.com/RazrFalcon/cargo-bloat) ⭐ 2,762 | 🐛 17 | 🌐 Rust | 📅 2024-05-10 Find out what takes most of the space in your executable.
 * [xargo](https://github.com/japaric/xargo) ⭐ 1,133 | 🐛 66 | 🌐 Rust | 📅 2023-05-02 Rust package manager with support for non-default std libraries — build Rust runtime for your embedded system.
   * xargo is great, but since it's in maintenance mode, [cargo-xbuild](https://github.com/rust-osdev/cargo-xbuild) ⭐ 269 | 🐛 15 | 🌐 Rust | 📅 2025-12-05 is catching up as its intended replacement.
@@ -213,7 +213,7 @@ specifically endorsed or reviewed for accuracy or quality by the Embedded Workin
 * [scope](https://github.com/matheuswhite/scope-rs) ⭐ 63 | 🐛 18 | 🌐 Rust | 📅 2026-08-17 Cross-platform serial-monitor TUI with an RTT interface (via `probe-rs`), hex/`@tag` input macros, search, session recording, and Lua plugins. - [![crates.io](https://img.shields.io/crates/v/scope-monitor.svg)](https://crates.io/crates/scope-monitor)
 * [cargo-hf2](https://github.com/jacobrosenthal/hf2-rs) ⭐ 55 | 🐛 13 | 🌐 Rust | 📅 2023-09-27  A small cargo subcommand to download cargo builds to Microsoft UF2 bootloaders via HID USB . - [![crates.io](https://img.shields.io/crates/v/cargo-hf2.svg)](https://crates.io/crates/cargo-hf2)
 * [uf2](https://github.com/sajattack/uf2conv-rs) ⭐ 33 | 🐛 0 | 🌐 Rust | 📅 2021-12-17 Converts binary files to Microsoft's UF2 format for copying over to mass storage device uf2 bootloaders - [![crates.io](https://img.shields.io/crates/v/uf2.svg)](https://crates.io/crates/uf2)
-* [Embassy start](https://github.com/titanclass/embassy-start) ⭐ 27 | 🐛 0 | 🌐 Rust | 📅 2023-04-23 is a GitHub repo template for setting up async embedded Rust projects that use [Embassy](https://github.com/embassy-rs/embassy) ⭐ 9,747 | 🐛 629 | 🌐 Rust | 📅 2026-08-28. This particular template targets nRF hardware and networking using the Uarte for the purposes of illustration only.
+* [Embassy start](https://github.com/titanclass/embassy-start) ⭐ 27 | 🐛 0 | 🌐 Rust | 📅 2023-04-23 is a GitHub repo template for setting up async embedded Rust projects that use [Embassy](https://github.com/embassy-rs/embassy) ⭐ 9,749 | 🐛 626 | 🌐 Rust | 📅 2026-08-28. This particular template targets nRF hardware and networking using the Uarte for the purposes of illustration only.
 * [embedded-hal-compat](https://github.com/ryankurte/embedded-hal-compat) ⭐ 19 | 🐛 3 | 🌐 Rust | 📅 2026-05-13, a compatibility layer to provide interoperability between `v0.2.x` and `v1.x.x` hal implementations and drivers
 * [commitment-issues](https://github.com/dysonltd/commitment-issues) ⭐ 18 | 🐛 12 | 🌐 Rust | 📅 2026-03-02 Compile git metadata into your binary.
 * [edc2svd](https://github.com/kiffie/edc2svd) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2023-10-02 Generate SVD files for PIC32 devices from EDC files. - [![crates.io](https://img.shields.io/crates/v/edc2svd.svg)](https://crates.io/crates/edc2svd)
@@ -240,7 +240,7 @@ specifically endorsed or reviewed for accuracy or quality by the Embedded Workin
 
 ### Real-time Operating System (RTOS)
 
-* [Hubris](https://github.com/oxidecomputer/hubris) ⭐ 3,592 | 🐛 339 | 🌐 Rust | 📅 2026-08-28 A real-time operating system built by Oxide Computer to run the Service Controller processor in the mainboards of their rack-mount servers.
+* [Hubris](https://github.com/oxidecomputer/hubris) ⭐ 3,593 | 🐛 340 | 🌐 Rust | 📅 2026-08-29 A real-time operating system built by Oxide Computer to run the Service Controller processor in the mainboards of their rack-mount servers.
 * [FreeRTOS-rust](https://github.com/lobaro/FreeRTOS-rust) ⭐ 485 | 🐛 11 | 🌐 Rust | 📅 2025-12-18 Rust interface for FreeRTOS with Rust entry point and build support crate.
 * [FreeRTOS.rs](https://github.com/hashmismatch/freertos.rs) ⭐ 245 | 🐛 10 | 🌐 C | 📅 2020-11-12 Rust interface for the FreeRTOS API
 * [Drone OS](https://drone-os.github.io) An Embedded Operating System for writing real-time applications in Rust.
@@ -426,7 +426,7 @@ Peripheral access crates for the different XMC4xxx families of microcontrollers
 
 ### AMD
 
-* [`zynq7000`](https://github.com/us-irs/zynq7000-rs/tree/main/firmware/zynq7000) ⭐ 21 | 🐛 1 | 🌐 Rust | 📅 2026-08-25 - [![crates.io](https://img.shields.io/crates/v/zynq7000.svg)](https://crates.io/crates/zynq7000)
+* [`zynq7000`](https://github.com/us-irs/zynq7000-rs/tree/main/firmware/zynq7000) ⭐ 21 | 🐛 1 | 🌐 Rust | 📅 2026-08-28 - [![crates.io](https://img.shields.io/crates/v/zynq7000.svg)](https://crates.io/crates/zynq7000)
 
 ### Vorago
 
@@ -562,7 +562,7 @@ Also check the list of [STMicroelectronics board support crates][stm-bsc]!
 
 ### Texas Instruments
 
-* [`embassy-mspm0`](https://github.com/embassy-rs/embassy/tree/main/embassy-mspm0) ⭐ 9,747 | 🐛 629 | 🌐 Rust | 📅 2026-08-28
+* [`embassy-mspm0`](https://github.com/embassy-rs/embassy/tree/main/embassy-mspm0) ⭐ 9,749 | 🐛 626 | 🌐 Rust | 📅 2026-08-28
   * Embassy HAL implementation for all MSPM0 (and MSPS003) microcontrollers.
 * [`tm4c123x-hal`](https://github.com/rust-embedded-community/tm4c-hal/) ⭐ 45 | 🐛 12 | 🌐 Rust | 📅 2024-03-15
 
@@ -573,7 +573,7 @@ Also check the list of [STMicroelectronics board support crates][stm-bsc]!
 
 ### Espressif
 
-* [`esp-hal`](https://github.com/esp-rs/esp-hal) ⭐ 2,076 | 🐛 238 | 🌐 Rust | 📅 2026-08-28 - [![crates.io](https://img.shields.io/crates/v/esp-hal.svg)](https://crates.io/crates/esp-hal)
+* [`esp-hal`](https://github.com/esp-rs/esp-hal) ⭐ 2,076 | 🐛 241 | 🌐 Rust | 📅 2026-08-28 - [![crates.io](https://img.shields.io/crates/v/esp-hal.svg)](https://crates.io/crates/esp-hal)
   * A `no_std` Hardware Abstraction Layer for Espressif microcontrollers, officially supported by Espressif
 * [`esp-idf-hal`](https://github.com/esp-rs/esp-idf-hal) ⭐ 753 | 🐛 45 | 🌐 Rust | 📅 2026-08-21 - [![crates.io](https://img.shields.io/crates/v/esp-idf-hal.svg)](https://crates.io/crates/esp-idf-hal)
   * A `std` embedded-hal implementation for Espressif microcontrollers built on top of ESP-IDF, fully supported by the community
@@ -610,7 +610,7 @@ Also check the list of [STMicroelectronics board support crates][stm-bsc]!
 
 ### AMD
 
-* [`zynq7000-hal`](https://github.com/us-irs/zynq7000-rs/tree/main/firmware/zynq7000-hal) ⭐ 21 | 🐛 1 | 🌐 Rust | 📅 2026-08-25 - [![crates.io](https://img.shields.io/crates/v/zynq7000-hal.svg)](https://crates.io/crates/zynq7000-hal)
+* [`zynq7000-hal`](https://github.com/us-irs/zynq7000-rs/tree/main/firmware/zynq7000-hal) ⭐ 21 | 🐛 1 | 🌐 Rust | 📅 2026-08-28 - [![crates.io](https://img.shields.io/crates/v/zynq7000-hal.svg)](https://crates.io/crates/zynq7000-hal)
 
 ### Renesas
 
@@ -662,11 +662,11 @@ Crates tailored for specific boards.
 
 ### Adafruit
 
-* [`adafruit-feather-rp2040`](https://github.com/rp-rs/rp-hal-boards) ⭐ 270 | 🐛 33 | 🌐 Rust | 📅 2025-04-18 - Board Support Crate for the [Adafruit Feather RP2040] [![crates.io](https://img.shields.io/crates/v/adafruit-feather-rp2040.svg)](https://crates.io/crates/adafruit-feather-rp2040)
-* [`adafruit-itsy-bitsy-rp2040`](https://github.com/rp-rs/rp-hal-boards) ⭐ 270 | 🐛 33 | 🌐 Rust | 📅 2025-04-18 - Board Support Crate for the [Adafruit ItsyBitsy RP2040] [![crates.io](https://img.shields.io/crates/v/adafruit-itsy-bitsy-rp2040.svg)](https://crates.io/crates/adafruit-itsy-bitsy-rp2040)
-* [`adafruit-kb2040`](https://github.com/rp-rs/rp-hal-boards) ⭐ 270 | 🐛 33 | 🌐 Rust | 📅 2025-04-18 - Board Support Crate for the [Adafruit KB2040] [![crates.io](https://img.shields.io/crates/v/adafruit-kb2040.svg)](https://crates.io/crates/adafruit-kb2040)
-* [`adafruit-macropad`](https://github.com/rp-rs/rp-hal-boards) ⭐ 270 | 🐛 33 | 🌐 Rust | 📅 2025-04-18 - Board Support Crate for the [Adafruit Macropad] [![crates.io](https://img.shields.io/crates/v/adafruit-macropad.svg)](https://crates.io/crates/adafruit-macropad)
-* [`adafruit-qt-py-rp2040`](https://github.com/rp-rs/rp-hal-boards) ⭐ 270 | 🐛 33 | 🌐 Rust | 📅 2025-04-18 - Board Support Crate for the [Adafruit QT Py RP2040] [![crates.io](https://img.shields.io/crates/v/adafruit-qt-py-rp2040.svg)](https://crates.io/crates/adafruit-qt-py-rp2040)
+* [`adafruit-feather-rp2040`](https://github.com/rp-rs/rp-hal-boards) ⭐ 271 | 🐛 33 | 🌐 Rust | 📅 2025-04-18 - Board Support Crate for the [Adafruit Feather RP2040] [![crates.io](https://img.shields.io/crates/v/adafruit-feather-rp2040.svg)](https://crates.io/crates/adafruit-feather-rp2040)
+* [`adafruit-itsy-bitsy-rp2040`](https://github.com/rp-rs/rp-hal-boards) ⭐ 271 | 🐛 33 | 🌐 Rust | 📅 2025-04-18 - Board Support Crate for the [Adafruit ItsyBitsy RP2040] [![crates.io](https://img.shields.io/crates/v/adafruit-itsy-bitsy-rp2040.svg)](https://crates.io/crates/adafruit-itsy-bitsy-rp2040)
+* [`adafruit-kb2040`](https://github.com/rp-rs/rp-hal-boards) ⭐ 271 | 🐛 33 | 🌐 Rust | 📅 2025-04-18 - Board Support Crate for the [Adafruit KB2040] [![crates.io](https://img.shields.io/crates/v/adafruit-kb2040.svg)](https://crates.io/crates/adafruit-kb2040)
+* [`adafruit-macropad`](https://github.com/rp-rs/rp-hal-boards) ⭐ 271 | 🐛 33 | 🌐 Rust | 📅 2025-04-18 - Board Support Crate for the [Adafruit Macropad] [![crates.io](https://img.shields.io/crates/v/adafruit-macropad.svg)](https://crates.io/crates/adafruit-macropad)
+* [`adafruit-qt-py-rp2040`](https://github.com/rp-rs/rp-hal-boards) ⭐ 271 | 🐛 33 | 🌐 Rust | 📅 2025-04-18 - Board Support Crate for the [Adafruit QT Py RP2040] [![crates.io](https://img.shields.io/crates/v/adafruit-qt-py-rp2040.svg)](https://crates.io/crates/adafruit-qt-py-rp2040)
 * [`metro_m0`](https://crates.io/crates/metro_m0) - Board support for the [Metro M0 board] in the [atsamd-rs] repo. It is an [atsamd-rs tier 1 support] board. [![crates.io](https://img.shields.io/crates/v/metro_m0.svg)](https://crates.io/crates/metro_m0)
 * [`metro_m4`](https://crates.io/crates/metro_m4) - Board support for the [Metro M4 board] in the [atsamd-rs] repo. It is an [atsamd-rs tier 1 support] board. [![crates.io](https://img.shields.io/crates/v/metro_m4.svg)](https://crates.io/crates/metro_m4)
 * [`pyportal`](https://crates.io/crates/pyportal) - Board support for the [PyPortal board] in the [atsamd-rs] repo. It is an [atsamd-rs tier 2 support] board. [![crates.io](https://img.shields.io/crates/v/pyportal.svg)](https://crates.io/crates/pyportal)
@@ -764,24 +764,24 @@ Crates tailored for specific boards.
 
 ### Pimoroni
 
-* [`pimoroni-pico-explorer`](https://github.com/rp-rs/rp-hal-boards) ⭐ 270 | 🐛 33 | 🌐 Rust | 📅 2025-04-18 - Board Support for the [Pimoroni Pico Explorer]
-* [`pimoroni-pico-lipo-16mb`](https://github.com/rp-rs/rp-hal-boards) ⭐ 270 | 🐛 33 | 🌐 Rust | 📅 2025-04-18 - Board Support for the [Pimoroni Pico Lipo 16MB]
+* [`pimoroni-pico-explorer`](https://github.com/rp-rs/rp-hal-boards) ⭐ 271 | 🐛 33 | 🌐 Rust | 📅 2025-04-18 - Board Support for the [Pimoroni Pico Explorer]
+* [`pimoroni-pico-lipo-16mb`](https://github.com/rp-rs/rp-hal-boards) ⭐ 271 | 🐛 33 | 🌐 Rust | 📅 2025-04-18 - Board Support for the [Pimoroni Pico Lipo 16MB]
 
 [Pimoroni Pico Explorer]: https://shop.pimoroni.com/products/pico-explorer-base
 
 [Pimoroni Pico Lipo 16MB]: https://shop.pimoroni.com/products/pimoroni-pico-lipo?variant=39335427080275
 
-For unlisted Pimoroni microcontroller boards, check [this up-to-date list](https://github.com/rp-rs/rp-hal-boards/blob/main/README.md#packages) ⭐ 270 | 🐛 33 | 🌐 Rust | 📅 2025-04-18.
+For unlisted Pimoroni microcontroller boards, check [this up-to-date list](https://github.com/rp-rs/rp-hal-boards/blob/main/README.md#packages) ⭐ 271 | 🐛 33 | 🌐 Rust | 📅 2025-04-18.
 
 ### Raspberry Pi
 
-* [`rp-pico`](https://github.com/rp-rs/rp-hal-boards) ⭐ 270 | 🐛 33 | 🌐 Rust | 📅 2025-04-18 - Board Support Crate for the RP2040-based Raspberry Pi Pico.
+* [`rp-pico`](https://github.com/rp-rs/rp-hal-boards) ⭐ 271 | 🐛 33 | 🌐 Rust | 📅 2025-04-18 - Board Support Crate for the RP2040-based Raspberry Pi Pico.
 
-The same repository includes support for numerous other development boards which use Raspberry Pi microcontrollers.  A full list can be found [in the repository documentation](https://github.com/rp-rs/rp-hal-boards/blob/main/README.md#packages) ⭐ 270 | 🐛 33 | 🌐 Rust | 📅 2025-04-18.
+The same repository includes support for numerous other development boards which use Raspberry Pi microcontrollers.  A full list can be found [in the repository documentation](https://github.com/rp-rs/rp-hal-boards/blob/main/README.md#packages) ⭐ 271 | 🐛 33 | 🌐 Rust | 📅 2025-04-18.
 
 ### Sparkfun
 
-* [`sparkfun-pro-micro-rp2040`](https://github.com/rp-rs/rp-hal-boards) ⭐ 270 | 🐛 33 | 🌐 Rust | 📅 2025-04-18 - Board Support Crate for the RP2040 based Sparkfun Pro Micro.
+* [`sparkfun-pro-micro-rp2040`](https://github.com/rp-rs/rp-hal-boards) ⭐ 271 | 🐛 33 | 🌐 Rust | 📅 2025-04-18 - Board Support Crate for the RP2040 based Sparkfun Pro Micro.
 * [`samd21_mini`](https://crates.io/crates/samd21_mini) - Board support for the [SAMD21 Mini Breakout](https://www.sparkfun.com/products/13664) in the [atsamd-rs] repo. It is an [atsamd-rs tier 2 support] board. [![crates.io](https://img.shields.io/crates/v/samd21_mini.svg)](https://crates.io/crates/samd21_mini)
 
 ### SeeedStudio
@@ -1308,7 +1308,7 @@ keyword on crates.io!
 
 Work in progress drivers. Help the authors make these crates awesome!
 
-1. [lvgl] - no\_std [LittleVGL](https://github.com/littlevgl/lvgl) ⭐ 24,517 | 🐛 218 | 🌐 C | 📅 2026-08-27 port - [![crates.io](https://img.shields.io/crates/v/lvgl.svg)](https://crates.io/crates/lvgl)
+1. [lvgl] - no\_std [LittleVGL](https://github.com/littlevgl/lvgl) ⭐ 24,521 | 🐛 220 | 🌐 C | 📅 2026-08-28 port - [![crates.io](https://img.shields.io/crates/v/lvgl.svg)](https://crates.io/crates/lvgl)
 2. [AD9850] - Embedded driver for the AD9850 DDS synthesizer chip - [![crates.io](https://img.shields.io/crates/v/ad9850.svg)](https://crates.io/crates/ad9850)
 3. [AFE4400] - SPI - Pulse oximeter
 4. [APDS9960] - I2C - Proximity, ambient light, RGB, and gesture sensor - [![crates.io](https://img.shields.io/crates/v/apds9960.svg)](https://crates.io/crates/apds9960)
@@ -1630,7 +1630,7 @@ Work in progress drivers. Help the authors make these crates awesome!
 2. [micromath](https://github.com/NeoBirth/micromath) ⭐ 486 | 🐛 8 | 🌐 Rust | 📅 2024-09-07: Embedded Rust math library featuring fast, safe floating point approximations for common arithmetic operations, 2D and 3D vector types, and statistical analysis - [![crates.io](https://img.shields.io/crates/v/micromath.svg)](https://crates.io/crates/micromath)
 3. [lorawan-encoding](https://github.com/lora-rs/lora-rs/tree/main/lorawan-encoding) ⭐ 467 | 🐛 29 | 🌐 Rust | 📅 2026-08-27: A LoRaWAN packet codec.
 4. [lorawan-device](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device) ⭐ 467 | 🐛 29 | 🌐 Rust | 📅 2026-08-27: A LoRaWAN MAC implementation supporting both event-driven and async mode.
-5. [ethercrab](https://github.com/ethercrab-rs/ethercrab) ⭐ 436 | 🐛 24 | 🌐 Rust | 📅 2026-07-19: A Rust implementation of the [EtherCAT](https://ethercat.org) industrial automation protocol - [![crates.io](https://img.shields.io/crates/v/ethercrab.svg)](https://crates.io/crates/ethercrab)
+5. [ethercrab](https://github.com/ethercrab-rs/ethercrab) ⭐ 437 | 🐛 24 | 🌐 Rust | 📅 2026-07-19: A Rust implementation of the [EtherCAT](https://ethercat.org) industrial automation protocol - [![crates.io](https://img.shields.io/crates/v/ethercrab.svg)](https://crates.io/crates/ethercrab)
 6. [wtx](https://github.com/c410-f3r/wtx) ⭐ 399 | 🐛 6 | 🌐 Rust | 📅 2026-08-23: Among other things, provides implementations to interact with HTTP, WebSockets and Databases.
 7. [embedded-tls](https://github.com/drogue-iot/embedded-tls) ⭐ 241 | 🐛 21 | 🌐 Rust | 📅 2026-08-12: A TLS 1.3 implementation that runs in a no-std environment.
 8. [drogue-device](https://github.com/drogue-iot/drogue-device) ⭐ 204 | 🐛 21 | 🌐 Rust | 📅 2023-10-06: A distribution of tools and examples for building embedded applications in Rust.
@@ -1810,10 +1810,10 @@ There are many ways to handle panics in embedded devices, these crates provide h
 
 ## Firmware projects
 
-* [rmk](https://github.com/HaoboGu/rmk) ⭐ 1,736 | 🐛 72 | 🌐 Rust | 📅 2026-08-28: Mechanical keyboard firmware for stm32/rp2040, supports vial/dynamic keymap/eeprom, written in Rust
+* [rmk](https://github.com/HaoboGu/rmk) ⭐ 1,735 | 🐛 70 | 🌐 Rust | 📅 2026-08-29: Mechanical keyboard firmware for stm32/rp2040, supports vial/dynamic keymap/eeprom, written in Rust
 * [μLA](https://github.com/dotcypress/ula) ⭐ 938 | 🐛 14 | 🌐 Rust | 📅 2025-02-10: Micro Logic Analyzer for RP2040
 * [anne-key](https://github.com/ah-/anne-key) ⭐ 572 | 🐛 25 | 🌐 Rust | 📅 2020-07-30: Alternate keyboard firmware for the Obins ANNE Pro
-* [🤖 RS-Key](https://github.com/TheMaxMur/RS-Key) ⭐ 439 | 🐛 8 | 🌐 Rust | 📅 2026-08-26: no\_std FIDO2/WebAuthn + U2F security-key firmware for the RP2350, built on embassy; also implements OpenPGP, PIV and OATH.
+* [🤖 RS-Key](https://github.com/TheMaxMur/RS-Key) ⭐ 440 | 🐛 9 | 🌐 Rust | 📅 2026-08-28: no\_std FIDO2/WebAuthn + U2F security-key firmware for the RP2350, built on embassy; also implements OpenPGP, PIV and OATH.
 * [prinThor](https://github.com/cbruiz/printhor) ⭐ 226 | 🐛 1 | 🌐 Rust | 📅 2025-03-28: 3DPrinter/CNC/Engraver firmware framework powered by rust embassy for stm32 families and rp2040.
 * [Stabilizer](https://github.com/quartiq/stabilizer) ⭐ 146 | 🐛 19 | 🌐 Rust | 📅 2026-08-20: Firmware for a DSP tool used in quantum physics experimentation, includes telemetry via MQTT and run-time configuration
 * [Card/IO ECG](https://github.com/card-io-ecg/card-io-fw) ⭐ 54 | 🐛 12 | 🌐 Rust | 📅 2026-08-07: Firmware for a business-card-sized ECG device with Wifi connectivity
@@ -1858,4 +1858,4 @@ to intervene to uphold that code of conduct.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

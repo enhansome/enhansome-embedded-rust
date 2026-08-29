@@ -12,12 +12,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":books: Learn to write an embedded OS in Rust :crab:",
+                "homepage": null,
                 "id": 127553476,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-10T03:24:45Z",
+                "open_issues": 24,
                 "owner": "rust-embedded",
                 "repo": "rust-raspberrypi-OS-tutorials",
-                "stars": 14729
+                "stars": 14729,
+                "topics": [
+                  "aarch64",
+                  "arm64",
+                  "armv8",
+                  "bare-metal",
+                  "embedded-rust",
+                  "kernel",
+                  "operating-system",
+                  "os",
+                  "raspberry",
+                  "raspberry-pi",
+                  "raspberry-pi-3",
+                  "raspberry-pi-4",
+                  "rpi3",
+                  "rpi4",
+                  "rust",
+                  "tutorial"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -28,12 +50,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 270966189,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2023-06-28T08:05:00Z",
+                "open_issues": 29,
                 "owner": "ferrous-systems",
                 "repo": "embedded-trainings-2020",
-                "stars": 258
+                "stars": 258,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -44,12 +71,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Embedded Programming with ESP32 and Rust",
+                "homepage": "http://esp32.implrust.com/",
                 "id": 907471029,
                 "language": "CSS",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T04:17:39Z",
+                "open_issues": 1,
                 "owner": "ImplFerris",
                 "repo": "esp32-book",
-                "stars": 217
+                "stars": 217,
+                "topics": [
+                  "embedded",
+                  "embedded-rust",
+                  "embedded-systems",
+                  "esp32",
+                  "iot",
+                  "iot-application",
+                  "learn",
+                  "programming",
+                  "rust",
+                  "rustlang",
+                  "smart-home"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -60,12 +104,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pico Pico - Embedded Rust Programming with Raspberry Pi Pico 2",
+                "homepage": "https://pico.implrust.com/",
                 "id": 875355563,
                 "language": "CSS",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-07T02:46:31Z",
+                "open_issues": 2,
                 "owner": "ImplFerris",
                 "repo": "pico-pico",
-                "stars": 164
+                "stars": 165,
+                "topics": [
+                  "embedded",
+                  "embedded-systems",
+                  "iot",
+                  "iot-application",
+                  "pico",
+                  "pico2",
+                  "programming",
+                  "raspberry-pi",
+                  "raspberrypi",
+                  "risc-v",
+                  "rp2350",
+                  "rust",
+                  "rust-lang",
+                  "smarthome"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -76,12 +140,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "https://www.amazon.com/Digital-Signal-Processing-Cortex-M-Microcontrollers/dp/1911531166",
+                "homepage": null,
                 "id": 272134234,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2021-10-29T02:50:00Z",
+                "open_issues": 0,
                 "owner": "jacobrosenthal",
                 "repo": "dsp-discoveryf4-rust",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -92,12 +161,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Material for Tweede golf's Rust Training",
+                "homepage": "https://training.tweede.golf",
                 "id": 630302005,
                 "language": "Rust",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-08-11T11:11:02Z",
+                "open_issues": 55,
                 "owner": "tweedegolf",
                 "repo": "rust-training",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "exercises",
+                  "rust",
+                  "workshop"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -119,12 +197,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host",
+            "homepage": "https://probe.rs",
             "id": 170021740,
             "language": "Rust",
-            "last_commit": "2026-08-27T13:30:00Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:58:35Z",
+            "open_issues": 356,
             "owner": "probe-rs",
             "repo": "probe-rs",
-            "stars": 2923
+            "stars": 2923,
+            "topics": [
+              "arm",
+              "arm-cores",
+              "coresight",
+              "daplink",
+              "debug",
+              "debug-probes",
+              "jlink",
+              "probe-rs",
+              "riscv",
+              "rust",
+              "stlink"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -135,12 +230,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Find out what takes most of the space in your executable.",
+            "homepage": null,
             "id": 116590508,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2024-05-10T06:22:24Z",
+            "open_issues": 17,
             "owner": "RazrFalcon",
             "repo": "cargo-bloat",
-            "stars": 2762
+            "stars": 2762,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -156,24 +256,41 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically cross-compiles the sysroot crates core, compiler_builtins, and alloc.",
+                "homepage": null,
                 "id": 132279010,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-05T10:24:11Z",
+                "open_issues": 15,
                 "owner": "rust-osdev",
                 "repo": "cargo-xbuild",
-                "stars": 269
+                "stars": 269,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "The sysroot manager that lets you build and customize `std`",
+            "homepage": null,
             "id": 54798445,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-02T22:57:39Z",
+            "open_issues": 66,
             "owner": "japaric",
             "repo": "xargo",
-            "stars": 1133
+            "stars": 1133,
+            "topics": [
+              "bare-metal",
+              "cargo",
+              "cross-compilation",
+              "no-std",
+              "rust",
+              "sysroot"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -184,12 +301,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate Rust register maps (`struct`s) from SVD files",
+            "homepage": null,
             "id": 70371776,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-23T13:07:07Z",
+            "open_issues": 71,
             "owner": "rust-embedded",
             "repo": "svd2rust",
-            "stars": 851
+            "stars": 851,
+            "topics": [
+              "arm",
+              "cmsis-svd",
+              "code-generator",
+              "cortex-m",
+              "microcontroller",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -200,12 +329,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Serial flasher utility for Espressif SoCs and modules based on esptool.py",
+            "homepage": null,
             "id": 292104906,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T09:53:04Z",
+            "open_issues": 33,
             "owner": "esp-rs",
             "repo": "espflash",
-            "stars": 742
+            "stars": 742,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -216,12 +350,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tool for installing and maintaining Espressif Rust ecosystem.",
+            "homepage": null,
             "id": 523665787,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-23T09:07:07Z",
+            "open_issues": 15,
             "owner": "esp-rs",
             "repo": "espup",
-            "stars": 442
+            "stars": 442,
+            "topics": [
+              "embedded",
+              "embedded-systems",
+              "esp32",
+              "espressif",
+              "rust",
+              "toolchain"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -232,12 +378,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A test harness and runner for embedded devices",
+            "homepage": null,
             "id": 728210761,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-08-07T07:24:38Z",
+            "open_issues": 11,
             "owner": "probe-rs",
             "repo": "embedded-test",
-            "stars": 186
+            "stars": 186,
+            "topics": [
+              "embedded",
+              "rust",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -248,12 +403,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Rust-based userland which also adds compile-time assurances to seL4 development.",
+            "homepage": "https://ferros.auxon.io/",
             "id": 164517349,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-25T23:12:11Z",
+            "open_issues": 26,
             "owner": "auxoncorp",
             "repo": "ferros",
-            "stars": 120
+            "stars": 120,
+            "topics": [
+              "rust",
+              "sel4",
+              "userland"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -264,12 +428,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Rust command line tool to simplify embedded development and deployment.",
+            "homepage": "https://www.bobbin.io/",
             "id": 91353804,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2020-01-12T19:58:23Z",
+            "open_issues": 8,
             "owner": "bobbin-rs",
             "repo": "bobbin-cli",
-            "stars": 114
+            "stars": 114,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -280,12 +449,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multiplatform Serial Monitor made in Rust",
+            "homepage": null,
             "id": 601851815,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-17T16:33:51Z",
+            "open_issues": 18,
             "owner": "matheuswhite",
             "repo": "scope-rs",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -296,12 +470,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Microsoft HF2 HID Flashing Format for UF2 Bootloaders",
+            "homepage": null,
             "id": 214508089,
             "language": "Rust",
+            "license": null,
             "last_commit": "2023-09-27T18:58:07Z",
+            "open_issues": 13,
             "owner": "jacobrosenthal",
             "repo": "hf2-rs",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -312,12 +491,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Converts binary files to Microsoft's UF2 format https://github.com/Microsoft/uf2",
+            "homepage": null,
             "id": 152381052,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2021-12-17T19:25:53Z",
+            "open_issues": 0,
             "owner": "sajattack",
             "repo": "uf2conv-rs",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "bootloader",
+              "embedded",
+              "rust",
+              "uf2"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -328,12 +517,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 439548096,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-23T03:59:41Z",
+            "open_issues": 0,
             "owner": "titanclass",
             "repo": "embassy-start",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -344,12 +538,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust embedded-hal inter-version compatibility layer",
+            "homepage": null,
             "id": 340845407,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-05-13T04:37:46Z",
+            "open_issues": 3,
             "owner": "ryankurte",
             "repo": "embedded-hal-compat",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -360,12 +559,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compile git metadata into your binary.",
+            "homepage": null,
             "id": 924058253,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-02T18:56:14Z",
+            "open_issues": 12,
             "owner": "dysonltd",
             "repo": "commitment-issues",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "no-std",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -376,12 +583,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert an MCU register description from the EDC format to the SVD format",
+            "homepage": null,
             "id": 172572460,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-10-02T07:18:52Z",
+            "open_issues": 1,
             "owner": "kiffie",
             "repo": "edc2svd",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "cmsis-svd",
+              "embedded-rust",
+              "microcontroller",
+              "pic32",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -392,12 +610,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a simple commandline flasher for Arduino Nano 33 BLE / Sense boards",
+            "homepage": null,
             "id": 964243062,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2025-04-20T11:23:53Z",
+            "open_issues": 0,
             "owner": "akavel",
             "repo": "rumbac",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "arduino-nano-33-ble",
+              "arduino-nano-33-ble-sense",
+              "bossa",
+              "bossac",
+              "flash",
+              "nrf52840",
+              "sam-ba"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -408,12 +639,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CLI tool for firmware parametrisation. Combines data (xlsx/json) and layouts (toml) to generate static binary files (hex/mot). ",
+            "homepage": "https://crates.io/crates/mint-cli",
             "id": 1082095503,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-22T00:50:21Z",
+            "open_issues": 7,
             "owner": "tomrford",
             "repo": "mint",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "binary-files",
+              "intel-hex",
+              "motorola",
+              "parametrization",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -424,12 +666,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Semihosting for ARM Cortex-M processors",
+            "homepage": null,
             "id": 232540667,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2020-01-27T10:51:14Z",
+            "open_issues": 0,
             "owner": "japaric",
             "repo": "cortex-m-semihosting",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -445,12 +692,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Efficient, deferred formatting for logging on embedded systems",
+                "homepage": "https://defmt.ferrous-systems.com/",
                 "id": 282262730,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T14:04:17Z",
+                "open_issues": 123,
                 "owner": "knurling-rs",
                 "repo": "defmt",
-                "stars": 1215
+                "stars": 1215,
+                "topics": [
+                  "embedded-systems",
+                  "ferrous-systems",
+                  "logging",
+                  "rust",
+                  "rust-tools"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -461,12 +719,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quickly set up a `probe-rs` + `defmt` + `flip-link` embedded project",
+                "homepage": null,
                 "id": 289238316,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-19T15:10:39Z",
+                "open_issues": 5,
                 "owner": "knurling-rs",
                 "repo": "app-template",
-                "stars": 475
+                "stars": 475,
+                "topics": [
+                  "embedded-rust",
+                  "ferrous-systems"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -477,12 +743,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adds zero-cost stack overflow protection to your embedded programs",
+                "homepage": null,
                 "id": 293586246,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-29T13:31:09Z",
+                "open_issues": 13,
                 "owner": "knurling-rs",
                 "repo": "flip-link",
-                "stars": 436
+                "stars": 436,
+                "topics": [
+                  "embedded",
+                  "embedded-rust",
+                  "ferrous-systems",
+                  "linkers",
+                  "rust",
+                  "rust-tools",
+                  "tooling"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -493,12 +772,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Experiments in turning structures into MMIO-safe structures",
+                "homepage": null,
                 "id": 931124218,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-22T18:02:35Z",
+                "open_issues": 4,
                 "owner": "knurling-rs",
                 "repo": "derive-mmio",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -509,12 +793,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "a test harness for embedded devices",
+                "homepage": null,
                 "id": 293798918,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2020-11-16T14:47:19Z",
+                "open_issues": 1,
                 "owner": "knurling-rs",
                 "repo": "defmt-test",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "embedded-tests",
+                  "ferrous-systems",
+                  "rust-embedded"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -535,12 +828,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight, memory-protected, message-passing kernel for deeply embedded systems.",
+                "homepage": null,
                 "id": 252314296,
                 "language": "Rust",
-                "last_commit": "2026-08-28T02:52:46Z",
+                "license": "MPL-2.0",
+                "last_commit": "2026-08-29T00:13:51Z",
+                "open_issues": 340,
                 "owner": "oxidecomputer",
                 "repo": "hubris",
-                "stars": 3592
+                "stars": 3593,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -551,12 +849,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust crate for FreeRTOS",
+                "homepage": null,
                 "id": 254590459,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-12-18T02:09:01Z",
+                "open_issues": 11,
                 "owner": "lobaro",
                 "repo": "FreeRTOS-rust",
-                "stars": 485
+                "stars": 485,
+                "topics": [
+                  "embedded",
+                  "freertos",
+                  "nrf9160",
+                  "rtos",
+                  "rust",
+                  "stm32"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -567,12 +877,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Rust wrapper for FreeRTOS.",
+                "homepage": null,
                 "id": 69364825,
                 "language": "C",
+                "license": null,
                 "last_commit": "2020-11-12T23:16:43Z",
+                "open_issues": 10,
                 "owner": "hashmismatch",
                 "repo": "freertos.rs",
-                "stars": 245
+                "stars": 245,
+                "topics": [
+                  "firmware",
+                  "freertos",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -595,12 +914,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Real-Time Interrupt-driven Concurrency (RTIC) framework for ARM Cortex-M microcontrollers",
+                    "homepage": "https://rtic.rs",
                     "id": 83947369,
                     "language": "Rust",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-25T18:51:09Z",
+                    "open_issues": 59,
                     "owner": "rtic-rs",
                     "repo": "rtic",
-                    "stars": 2391
+                    "stars": 2391,
+                    "topics": [
+                      "arm",
+                      "bare-metal",
+                      "concurrency",
+                      "cortex-m",
+                      "microcontroller",
+                      "no-std",
+                      "rust",
+                      "scheduler"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:24:30.949Z"
                 },
@@ -611,12 +944,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Real Time For the Masses (RTFM), a framework for building concurrent applications, for MSP430 MCUs",
+                    "homepage": null,
                     "id": 97191121,
                     "language": "Rust",
+                    "license": "Apache-2.0",
                     "last_commit": "2017-07-29T06:43:26Z",
+                    "open_issues": 1,
                     "owner": "japaric",
                     "repo": "msp430-rtfm",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:24:30.949Z"
                 }
@@ -642,12 +980,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Target atsamd microcontrollers using Rust",
+                "homepage": "https://matrix.to/#/#atsamd-rs:matrix.org",
                 "id": 125536984,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-14T14:54:43Z",
+                "open_issues": 91,
                 "owner": "atsamd-rs",
                 "repo": "atsamd",
-                "stars": 657
+                "stars": 657,
+                "topics": [
+                  "atmel",
+                  "embedded",
+                  "embedded-hal",
+                  "microchip",
+                  "rust",
+                  "samd11",
+                  "samd21",
+                  "samd51",
+                  "same54"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -658,12 +1011,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Target atsamd microcontrollers using Rust",
+                "homepage": "https://matrix.to/#/#atsamd-rs:matrix.org",
                 "id": 125536984,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-14T14:54:43Z",
+                "open_issues": 91,
                 "owner": "atsamd-rs",
                 "repo": "atsamd",
-                "stars": 657
+                "stars": 657,
+                "topics": [
+                  "atmel",
+                  "embedded",
+                  "embedded-hal",
+                  "microchip",
+                  "rust",
+                  "samd11",
+                  "samd21",
+                  "samd51",
+                  "same54"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -674,12 +1042,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Target atsamd microcontrollers using Rust",
+                "homepage": "https://matrix.to/#/#atsamd-rs:matrix.org",
                 "id": 125536984,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-14T14:54:43Z",
+                "open_issues": 91,
                 "owner": "atsamd-rs",
                 "repo": "atsamd",
-                "stars": 657
+                "stars": 657,
+                "topics": [
+                  "atmel",
+                  "embedded",
+                  "embedded-hal",
+                  "microchip",
+                  "rust",
+                  "samd11",
+                  "samd21",
+                  "samd51",
+                  "same54"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -690,12 +1073,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Target atsamd microcontrollers using Rust",
+                "homepage": "https://matrix.to/#/#atsamd-rs:matrix.org",
                 "id": 125536984,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-14T14:54:43Z",
+                "open_issues": 91,
                 "owner": "atsamd-rs",
                 "repo": "atsamd",
-                "stars": 657
+                "stars": 657,
+                "topics": [
+                  "atmel",
+                  "embedded",
+                  "embedded-hal",
+                  "microchip",
+                  "rust",
+                  "samd11",
+                  "samd21",
+                  "samd51",
+                  "same54"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -706,12 +1104,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Target atsamd microcontrollers using Rust",
+                "homepage": "https://matrix.to/#/#atsamd-rs:matrix.org",
                 "id": 125536984,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-14T14:54:43Z",
+                "open_issues": 91,
                 "owner": "atsamd-rs",
                 "repo": "atsamd",
-                "stars": 657
+                "stars": 657,
+                "topics": [
+                  "atmel",
+                  "embedded",
+                  "embedded-hal",
+                  "microchip",
+                  "rust",
+                  "samd11",
+                  "samd21",
+                  "samd51",
+                  "same54"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -722,12 +1135,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Register access crate for AVR microcontrollers",
+                "homepage": null,
                 "id": 186051104,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-17T19:31:39Z",
+                "open_issues": 22,
                 "owner": "Rahix",
                 "repo": "avr-device",
-                "stars": 236
+                "stars": 236,
+                "topics": [
+                  "avr",
+                  "avr-microcontrollers",
+                  "rust-embedded",
+                  "svd2rust"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -738,12 +1161,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust HAL, PACs, and examples for the Microship SAM E70/S70/V70/V71",
+                "homepage": null,
                 "id": 186503625,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-08T19:14:47Z",
+                "open_issues": 22,
                 "owner": "atsams-rs",
                 "repo": "atsamx7x-rust",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "atmel-arm",
+                  "atmel-sam",
+                  "atmel-sam-family",
+                  "hal",
+                  "rust-embedded"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -761,12 +1195,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust for NXP i.MX RT",
+                "homepage": null,
                 "id": 238839179,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T00:37:26Z",
+                "open_issues": 18,
                 "owner": "imxrt-rs",
                 "repo": "imxrt-hal",
-                "stars": 195
+                "stars": 195,
+                "topics": [
+                  "nxp",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -777,12 +1219,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust Peripheral Access Crate for NXP MCX series MCUs",
+                "homepage": null,
                 "id": 799421288,
                 "language": "Rust",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-08-28T03:30:16Z",
+                "open_issues": 0,
                 "owner": "mcx-rs",
                 "repo": "mcx-pac",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "embedded-rust",
+                  "mcx",
+                  "nxp"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -800,12 +1251,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "svd2rust generated interface to e310x peripherals",
+                "homepage": null,
                 "id": 111189313,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2026-07-10T06:52:49Z",
+                "open_issues": 0,
                 "owner": "riscv-rust",
                 "repo": "e310x",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -823,12 +1279,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 917505512,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-19T01:21:51Z",
+                "open_issues": 11,
                 "owner": "mspm0-rs",
                 "repo": "mspm0-data",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -851,24 +1312,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Template to develop bare metal applications for MSP430 microcontrollers",
+                    "homepage": null,
                     "id": 236834291,
                     "language": "Rust",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-09-11T22:19:26Z",
+                    "open_issues": 1,
                     "owner": "rust-embedded",
                     "repo": "msp430-quickstart",
-                    "stars": 50
+                    "stars": 50,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:24:30.949Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Peripheral access API for MSP430G2553 microcontrollers (generated using svd2rust)",
+                "homepage": null,
                 "id": 94944963,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2022-09-11T22:02:19Z",
+                "open_issues": 1,
                 "owner": "pftbest",
                 "repo": "msp430g2553",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -886,12 +1357,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Peripheral Access Crates for Espressif SoCs and modules",
+                "homepage": null,
                 "id": 454514640,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T13:20:10Z",
+                "open_issues": 17,
                 "owner": "esp-rs",
                 "repo": "esp-pacs",
-                "stars": 180
+                "stars": 180,
+                "topics": [
+                  "esp32",
+                  "riscv",
+                  "rust",
+                  "xtensa"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -902,12 +1383,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Peripheral Access Crates for Espressif SoCs and modules",
+                "homepage": null,
                 "id": 454514640,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T13:20:10Z",
+                "open_issues": 17,
                 "owner": "esp-rs",
                 "repo": "esp-pacs",
-                "stars": 180
+                "stars": 180,
+                "topics": [
+                  "esp32",
+                  "riscv",
+                  "rust",
+                  "xtensa"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -918,12 +1409,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Peripheral Access Crates for Espressif SoCs and modules",
+                "homepage": null,
                 "id": 454514640,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T13:20:10Z",
+                "open_issues": 17,
                 "owner": "esp-rs",
                 "repo": "esp-pacs",
-                "stars": 180
+                "stars": 180,
+                "topics": [
+                  "esp32",
+                  "riscv",
+                  "rust",
+                  "xtensa"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -934,12 +1435,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Peripheral Access Crates for Espressif SoCs and modules",
+                "homepage": null,
                 "id": 454514640,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T13:20:10Z",
+                "open_issues": 17,
                 "owner": "esp-rs",
                 "repo": "esp-pacs",
-                "stars": 180
+                "stars": 180,
+                "topics": [
+                  "esp32",
+                  "riscv",
+                  "rust",
+                  "xtensa"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -950,12 +1461,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Peripheral Access Crates for Espressif SoCs and modules",
+                "homepage": null,
                 "id": 454514640,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T13:20:10Z",
+                "open_issues": 17,
                 "owner": "esp-rs",
                 "repo": "esp-pacs",
-                "stars": 180
+                "stars": 180,
+                "topics": [
+                  "esp32",
+                  "riscv",
+                  "rust",
+                  "xtensa"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -966,12 +1487,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Peripheral Access Crates for Espressif SoCs and modules",
+                "homepage": null,
                 "id": 454514640,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T13:20:10Z",
+                "open_issues": 17,
                 "owner": "esp-rs",
                 "repo": "esp-pacs",
-                "stars": 180
+                "stars": 180,
+                "topics": [
+                  "esp32",
+                  "riscv",
+                  "rust",
+                  "xtensa"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -982,12 +1513,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Peripheral Access Crates for Espressif SoCs and modules",
+                "homepage": null,
                 "id": 454514640,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T13:20:10Z",
+                "open_issues": 17,
                 "owner": "esp-rs",
                 "repo": "esp-pacs",
-                "stars": 180
+                "stars": 180,
+                "topics": [
+                  "esp32",
+                  "riscv",
+                  "rust",
+                  "xtensa"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -998,12 +1539,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Peripheral Access Crates for Espressif SoCs and modules",
+                "homepage": null,
                 "id": 454514640,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T13:20:10Z",
+                "open_issues": 17,
                 "owner": "esp-rs",
                 "repo": "esp-pacs",
-                "stars": 180
+                "stars": 180,
+                "topics": [
+                  "esp32",
+                  "riscv",
+                  "rust",
+                  "xtensa"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -1014,12 +1565,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Peripheral Access Crates for Espressif SoCs and modules",
+                "homepage": null,
                 "id": 454514640,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T13:20:10Z",
+                "open_issues": 17,
                 "owner": "esp-rs",
                 "repo": "esp-pacs",
-                "stars": 180
+                "stars": 180,
+                "topics": [
+                  "esp32",
+                  "riscv",
+                  "rust",
+                  "xtensa"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -1030,12 +1591,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Peripheral Access Crates for Espressif SoCs and modules",
+                "homepage": null,
                 "id": 454514640,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T13:20:10Z",
+                "open_issues": 17,
                 "owner": "esp-rs",
                 "repo": "esp-pacs",
-                "stars": 180
+                "stars": 180,
+                "topics": [
+                  "esp32",
+                  "riscv",
+                  "rust",
+                  "xtensa"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -1046,12 +1617,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Peripheral access crate for the ESP8266",
+                "homepage": null,
                 "id": 242255869,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2022-02-25T18:21:23Z",
+                "open_issues": 0,
                 "owner": "esp-rs",
                 "repo": "esp8266",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -1069,12 +1645,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Peripheral access crate for GD32VF103",
+                "homepage": null,
                 "id": 205361625,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2024-11-18T22:57:56Z",
+                "open_issues": 3,
                 "owner": "riscv-rust",
                 "repo": "gd32vf103-pac",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -1092,12 +1673,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "XMC4300 Peripheral interface library generated from an SVD",
+                "homepage": null,
                 "id": 107208043,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-07-21T03:08:13Z",
+                "open_issues": 5,
                 "owner": "xmc-rs",
                 "repo": "xmc4300",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "arm",
+                  "cortex-m",
+                  "infineon",
+                  "rust-lang",
+                  "svd2rust",
+                  "xmc"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -1108,12 +1701,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "XMC4500 Peripheral interface library generated from an SVD",
+                "homepage": null,
                 "id": 107208115,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-07-21T03:03:41Z",
+                "open_issues": 4,
                 "owner": "xmc-rs",
                 "repo": "xmc4500",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "cortex-m",
+                  "infineon",
+                  "rust-lang",
+                  "svd2rust",
+                  "xmc"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -1124,12 +1728,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "XMC4700 Peripheral interface library generated from an SVD",
+                "homepage": null,
                 "id": 107208145,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-07-20T20:43:38Z",
+                "open_issues": 4,
                 "owner": "xmc-rs",
                 "repo": "xmc4700",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "arm",
+                  "cortex-m",
+                  "infineon",
+                  "rust-lang",
+                  "svd2rust",
+                  "xmc"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -1140,12 +1756,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "XMC4800 Peripheral interface library generated from an SVD",
+                "homepage": null,
                 "id": 107208191,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-07-12T18:34:53Z",
+                "open_issues": 2,
                 "owner": "xmc-rs",
                 "repo": "xmc4800",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "arm",
+                  "cortex-m",
+                  "infineon",
+                  "rust-lang",
+                  "svd2rust",
+                  "xmc"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -1156,12 +1784,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Peripheral API for XMC4200 series ARM Cortex-M microcontroller in Rust",
+                "homepage": null,
                 "id": 105494889,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-07-21T00:53:15Z",
+                "open_issues": 3,
                 "owner": "xmc-rs",
                 "repo": "xmc4200",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "cortex-m",
+                  "infineon",
+                  "rust-lang",
+                  "svd2rust",
+                  "xmc"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -1172,12 +1811,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "XMC4100 Peripheral interface library generated from svd2rust",
+                "homepage": null,
                 "id": 104619242,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-07-20T23:33:59Z",
+                "open_issues": 3,
                 "owner": "xmc-rs",
                 "repo": "xmc4100",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "cortex-m",
+                  "infineon",
+                  "rust-lang",
+                  "svd2rust",
+                  "xmc"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -1188,12 +1838,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "XMC4400 Peripheral interface library generated from an SVD",
+                "homepage": null,
                 "id": 107208088,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-07-20T20:52:56Z",
+                "open_issues": 5,
                 "owner": "xmc-rs",
                 "repo": "xmc4400",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "arm",
+                  "cortex-m",
+                  "infineon",
+                  "rust-lang",
+                  "svd2rust",
+                  "xmc"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -1211,12 +1873,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Native Rust support for AMD Zynq 7000 SoC bare-metal programming ",
+                "homepage": null,
                 "id": 976496288,
                 "language": "Rust",
-                "last_commit": "2026-08-25T17:07:09Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T16:59:57Z",
+                "open_issues": 1,
                 "owner": "us-irs",
                 "repo": "zynq7000-rs",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "amd",
+                  "embedded-rust",
+                  "rust",
+                  "xilinx",
+                  "zynq-7000"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -1234,12 +1907,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vorago Microcontroller Rust Support",
+                "homepage": null,
                 "id": 1085284615,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2026-08-05T19:56:18Z",
+                "open_issues": 0,
                 "owner": "us-irs",
                 "repo": "vorago-rs",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "aerospace",
+                  "embedded",
+                  "microcontroller",
+                  "rust",
+                  "vorago"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -1250,12 +1934,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vorago Microcontroller Rust Support",
+                "homepage": null,
                 "id": 1085284615,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2026-08-05T19:56:18Z",
+                "open_issues": 0,
                 "owner": "us-irs",
                 "repo": "vorago-rs",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "aerospace",
+                  "embedded",
+                  "microcontroller",
+                  "rust",
+                  "vorago"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -1273,12 +1968,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust PACs for the Renesas RA series devices",
+                "homepage": null,
                 "id": 542626589,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-20T08:24:54Z",
+                "open_issues": 10,
                 "owner": "ra-rs",
                 "repo": "ra",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -1289,12 +1989,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust PACs for the Renesas RA series devices",
+                "homepage": null,
                 "id": 542626589,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-20T08:24:54Z",
+                "open_issues": 10,
                 "owner": "ra-rs",
                 "repo": "ra",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -1305,12 +2010,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust PACs for the Renesas RA series devices",
+                "homepage": null,
                 "id": 542626589,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-20T08:24:54Z",
+                "open_issues": 10,
                 "owner": "ra-rs",
                 "repo": "ra",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -1321,12 +2031,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust PACs for the Renesas RA series devices",
+                "homepage": null,
                 "id": 542626589,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-20T08:24:54Z",
+                "open_issues": 10,
                 "owner": "ra-rs",
                 "repo": "ra",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -1337,12 +2052,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust PACs for the Renesas RA series devices",
+                "homepage": null,
                 "id": 542626589,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-20T08:24:54Z",
+                "open_issues": 10,
                 "owner": "ra-rs",
                 "repo": "ra",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -1353,12 +2073,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust PACs for the Renesas RA series devices",
+                "homepage": null,
                 "id": 542626589,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-20T08:24:54Z",
+                "open_issues": 10,
                 "owner": "ra-rs",
                 "repo": "ra",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -1369,12 +2094,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust PACs for the Renesas RA series devices",
+                "homepage": null,
                 "id": 542626589,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-20T08:24:54Z",
+                "open_issues": 10,
                 "owner": "ra-rs",
                 "repo": "ra",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -1385,12 +2115,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust PACs for the Renesas RA series devices",
+                "homepage": null,
                 "id": 542626589,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-20T08:24:54Z",
+                "open_issues": 10,
                 "owner": "ra-rs",
                 "repo": "ra",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -1401,12 +2136,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust PACs for the Renesas RA series devices",
+                "homepage": null,
                 "id": 542626589,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-20T08:24:54Z",
+                "open_issues": 10,
                 "owner": "ra-rs",
                 "repo": "ra",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -1417,12 +2157,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust PACs for the Renesas RA series devices",
+                "homepage": null,
                 "id": 542626589,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-20T08:24:54Z",
+                "open_issues": 10,
                 "owner": "ra-rs",
                 "repo": "ra",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -1433,12 +2178,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust PACs for the Renesas RA series devices",
+                "homepage": null,
                 "id": 542626589,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-20T08:24:54Z",
+                "open_issues": 10,
                 "owner": "ra-rs",
                 "repo": "ra",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -1449,12 +2199,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust PACs for the Renesas RA series devices",
+                "homepage": null,
                 "id": 542626589,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-20T08:24:54Z",
+                "open_issues": 10,
                 "owner": "ra-rs",
                 "repo": "ra",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -1465,12 +2220,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust PACs for the Renesas RA series devices",
+                "homepage": null,
                 "id": 542626589,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-20T08:24:54Z",
+                "open_issues": 10,
                 "owner": "ra-rs",
                 "repo": "ra",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -1481,12 +2241,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust PACs for the Renesas RA series devices",
+                "homepage": null,
                 "id": 542626589,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-20T08:24:54Z",
+                "open_issues": 10,
                 "owner": "ra-rs",
                 "repo": "ra",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -1497,12 +2262,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust PACs for the Renesas RA series devices",
+                "homepage": null,
                 "id": 542626589,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-20T08:24:54Z",
+                "open_issues": 10,
                 "owner": "ra-rs",
                 "repo": "ra",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -1513,12 +2283,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust PACs for the Renesas RA series devices",
+                "homepage": null,
                 "id": 542626589,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-20T08:24:54Z",
+                "open_issues": 10,
                 "owner": "ra-rs",
                 "repo": "ra",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -1542,12 +2317,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "embedded-hal abstractions for AVR microcontrollers",
+                "homepage": null,
                 "id": 188675035,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-06T23:59:11Z",
+                "open_issues": 132,
                 "owner": "Rahix",
                 "repo": "avr-hal",
-                "stars": 1637
+                "stars": 1637,
+                "topics": [
+                  "arduino",
+                  "avr",
+                  "hal-crates",
+                  "rust",
+                  "rust-embedd"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -1565,12 +2351,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust for NXP i.MX RT",
+                "homepage": null,
                 "id": 238839179,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T00:37:26Z",
+                "open_issues": 18,
                 "owner": "imxrt-rs",
                 "repo": "imxrt-hal",
-                "stars": 195
+                "stars": 195,
+                "topics": [
+                  "nxp",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -1588,12 +2382,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Implementation of the `embedded-hal` traits for E310x microcontrollers",
+                "homepage": null,
                 "id": 126518190,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2024-04-01T22:06:47Z",
+                "open_issues": 11,
                 "owner": "riscv-rust",
                 "repo": "e310x-hal",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -1611,12 +2410,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Rust embedded-hal HAL impl for the STM32F1 family based on japarics stm32f103xx-hal",
+                "homepage": null,
                 "id": 161557523,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-27T18:39:42Z",
+                "open_issues": 74,
                 "owner": "stm32-rs",
                 "repo": "stm32f1xx-hal",
-                "stars": 664
+                "stars": 664,
+                "topics": [
+                  "embedded",
+                  "hacktoberfest",
+                  "hal",
+                  "microcontrollers",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -1634,12 +2444,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern embedded framework, using Rust and async.",
+                "homepage": "https://embassy.dev",
                 "id": 297701481,
                 "language": "Rust",
-                "last_commit": "2026-08-28T12:42:52Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T23:52:45Z",
+                "open_issues": 626,
                 "owner": "embassy-rs",
                 "repo": "embassy",
-                "stars": 9747
+                "stars": 9749,
+                "topics": [
+                  "async",
+                  "drivers",
+                  "embedded",
+                  "executor",
+                  "hal",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -1650,12 +2472,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Embedded HAL and general chip support for the TM4C123/LM4F120. Replaces the old lm4f120 crate. ",
+                "homepage": null,
                 "id": 119300877,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-15T12:02:36Z",
+                "open_issues": 12,
                 "owner": "rust-embedded-community",
                 "repo": "tm4c-hal",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -1673,12 +2500,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "no_std Hardware Abstraction Layers for ESP32 microcontrollers",
+                "homepage": "https://docs.espressif.com/projects/rust/",
                 "id": 429554022,
                 "language": "Rust",
-                "last_commit": "2026-08-28T13:17:50Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T16:27:39Z",
+                "open_issues": 241,
                 "owner": "esp-rs",
                 "repo": "esp-hal",
-                "stars": 2076
+                "stars": 2076,
+                "topics": [
+                  "embedded",
+                  "embedded-hal",
+                  "esp32",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -1689,12 +2526,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "embedded-hal implementation for Rust on ESP32 and ESP-IDF",
+                "homepage": "https://esp-rs.github.io/esp-idf-hal",
                 "id": 315218722,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T11:11:34Z",
+                "open_issues": 45,
                 "owner": "esp-rs",
                 "repo": "esp-idf-hal",
-                "stars": 753
+                "stars": 753,
+                "topics": [
+                  "embedded",
+                  "embedded-hal",
+                  "esp-idf",
+                  "esp32",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -1712,12 +2560,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Program Tomu board with Rust",
+                "homepage": null,
                 "id": 159979031,
                 "language": "Rust",
+                "license": "BSD-2-Clause",
                 "last_commit": "2022-08-26T02:52:57Z",
+                "open_issues": 4,
                 "owner": "fudanchii",
                 "repo": "imtomu-rs",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -1735,12 +2588,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust hal for xmc1100 MCUs",
+                "homepage": null,
                 "id": 164832652,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2022-01-04T17:57:05Z",
+                "open_issues": 0,
                 "owner": "david-sawatzke",
                 "repo": "xmc1100-hal",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -1751,12 +2609,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HAL for the XMC4xxx microcontrollers",
+                "homepage": "https://xmc-rs.github.io/xmc4-hal/",
                 "id": 162766938,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-11T22:21:48Z",
+                "open_issues": 6,
                 "owner": "xmc-rs",
                 "repo": "xmc4-hal",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "arm",
+                  "cortex-m",
+                  "infineon",
+                  "xmc"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -1774,12 +2642,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hardware abstract layer (HAL) `embedded-hal` for RISC-V microcontroller GD32VF103 in Rust. Contributions welcomed!",
+                "homepage": null,
                 "id": 206709965,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2021-12-28T04:26:47Z",
+                "open_issues": 2,
                 "owner": "gd32v-rust",
                 "repo": "gd32vf103-hal",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "embedded-hal",
+                  "gd32v",
+                  "gd32vf103",
+                  "microcontroller",
+                  "risc-v",
+                  "rust",
+                  "rust-embedded"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -1790,12 +2671,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HAL for GD32VF103 microcontrollers",
+                "homepage": null,
                 "id": 215607689,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2025-10-23T15:06:22Z",
+                "open_issues": 17,
                 "owner": "riscv-rust",
                 "repo": "gd32vf103xx-hal",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -1813,12 +2699,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vorago Microcontroller Rust Support",
+                "homepage": null,
                 "id": 1085284615,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2026-08-05T19:56:18Z",
+                "open_issues": 0,
                 "owner": "us-irs",
                 "repo": "vorago-rs",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "aerospace",
+                  "embedded",
+                  "microcontroller",
+                  "rust",
+                  "vorago"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -1829,12 +2726,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vorago Microcontroller Rust Support",
+                "homepage": null,
                 "id": 1085284615,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2026-08-05T19:56:18Z",
+                "open_issues": 0,
                 "owner": "us-irs",
                 "repo": "vorago-rs",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "aerospace",
+                  "embedded",
+                  "microcontroller",
+                  "rust",
+                  "vorago"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -1852,12 +2760,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Native Rust support for AMD Zynq 7000 SoC bare-metal programming ",
+                "homepage": null,
                 "id": 976496288,
                 "language": "Rust",
-                "last_commit": "2026-08-25T17:07:09Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T16:59:57Z",
+                "open_issues": 1,
                 "owner": "us-irs",
                 "repo": "zynq7000-rs",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "amd",
+                  "embedded-rust",
+                  "rust",
+                  "xilinx",
+                  "zynq-7000"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -1881,12 +2800,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Low level access to Cortex-M processors",
+                "homepage": null,
                 "id": 69407378,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T08:40:14Z",
+                "open_issues": 108,
                 "owner": "rust-embedded",
                 "repo": "cortex-m",
-                "stars": 1002
+                "stars": 1002,
+                "topics": [
+                  "arm",
+                  "cortex-m",
+                  "microcontroller",
+                  "no-std",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -1897,12 +2827,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Low level access to Cortex-A processors",
+                "homepage": null,
                 "id": 128996227,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2022-11-06T19:52:31Z",
+                "open_issues": 0,
                 "owner": "rust-embedded",
                 "repo": "cortex-a",
-                "stars": 122
+                "stars": 122,
+                "topics": [
+                  "aarch64",
+                  "arm",
+                  "arm64",
+                  "cortex-a",
+                  "embedded",
+                  "no-std",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -1920,12 +2863,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Low level access to RISC-V processors",
+                "homepage": null,
                 "id": 104085299,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T23:46:07Z",
+                "open_issues": 20,
                 "owner": "rust-embedded",
                 "repo": "riscv",
-                "stars": 1126
+                "stars": 1126,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -1943,12 +2891,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust crates for MCU programming and PIC32 HAL",
+                "homepage": null,
                 "id": 183909888,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-03-02T20:53:58Z",
+                "open_issues": 3,
                 "owner": "kiffie",
                 "repo": "pic32-rs",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "microcontroller",
+                  "pic32",
+                  "pic32mx",
+                  "rust",
+                  "rust-embedded"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -1959,12 +2918,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust library for low-level abstraction of MIPS processors",
+                "homepage": null,
                 "id": 176841156,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2020-06-06T17:58:48Z",
+                "open_issues": 0,
                 "owner": "Harry-Chen",
                 "repo": "rust-mips",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -1988,12 +2952,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Board Support Packages for RP2040 based PCBs",
+                "homepage": null,
                 "id": 576669181,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2025-04-18T22:52:17Z",
+                "open_issues": 33,
                 "owner": "rp-rs",
                 "repo": "rp-hal-boards",
-                "stars": 270
+                "stars": 271,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -2004,12 +2973,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Board Support Packages for RP2040 based PCBs",
+                "homepage": null,
                 "id": 576669181,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2025-04-18T22:52:17Z",
+                "open_issues": 33,
                 "owner": "rp-rs",
                 "repo": "rp-hal-boards",
-                "stars": 270
+                "stars": 271,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -2020,12 +2994,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Board Support Packages for RP2040 based PCBs",
+                "homepage": null,
                 "id": 576669181,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2025-04-18T22:52:17Z",
+                "open_issues": 33,
                 "owner": "rp-rs",
                 "repo": "rp-hal-boards",
-                "stars": 270
+                "stars": 271,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -2036,12 +3015,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Board Support Packages for RP2040 based PCBs",
+                "homepage": null,
                 "id": 576669181,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2025-04-18T22:52:17Z",
+                "open_issues": 33,
                 "owner": "rp-rs",
                 "repo": "rp-hal-boards",
-                "stars": 270
+                "stars": 271,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -2052,12 +3036,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Board Support Packages for RP2040 based PCBs",
+                "homepage": null,
                 "id": 576669181,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2025-04-18T22:52:17Z",
+                "open_issues": 33,
                 "owner": "rp-rs",
                 "repo": "rp-hal-boards",
-                "stars": 270
+                "stars": 271,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -2075,12 +3064,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "embedded-hal abstractions for AVR microcontrollers",
+                "homepage": null,
                 "id": 188675035,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-06T23:59:11Z",
+                "open_issues": 132,
                 "owner": "Rahix",
                 "repo": "avr-hal",
-                "stars": 1637
+                "stars": 1637,
+                "topics": [
+                  "arduino",
+                  "avr",
+                  "hal-crates",
+                  "rust",
+                  "rust-embedd"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -2098,12 +3098,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Board Support Packages for RP2040 based PCBs",
+                "homepage": null,
                 "id": 576669181,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2025-04-18T22:52:17Z",
+                "open_issues": 33,
                 "owner": "rp-rs",
                 "repo": "rp-hal-boards",
-                "stars": 270
+                "stars": 271,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -2114,12 +3119,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Board Support Packages for RP2040 based PCBs",
+                "homepage": null,
                 "id": 576669181,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2025-04-18T22:52:17Z",
+                "open_issues": 33,
                 "owner": "rp-rs",
                 "repo": "rp-hal-boards",
-                "stars": 270
+                "stars": 271,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -2137,12 +3147,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Board Support Packages for RP2040 based PCBs",
+                "homepage": null,
                 "id": 576669181,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2025-04-18T22:52:17Z",
+                "open_issues": 33,
                 "owner": "rp-rs",
                 "repo": "rp-hal-boards",
-                "stars": 270
+                "stars": 271,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -2160,12 +3175,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Board Support Packages for RP2040 based PCBs",
+                "homepage": null,
                 "id": 576669181,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2025-04-18T22:52:17Z",
+                "open_issues": 33,
                 "owner": "rp-rs",
                 "repo": "rp-hal-boards",
-                "stars": 270
+                "stars": 271,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -2183,12 +3203,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Board support crate for the GD32 RISC-V Dev Board from SeeedStudio",
+                "homepage": "https://www.seeedstudio.com/SeeedStudio-GD32-RISC-V-Dev-Board-p-4302.html",
                 "id": 236279214,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2020-11-01T21:24:32Z",
+                "open_issues": 0,
                 "owner": "riscv-rust",
                 "repo": "seedstudio-gd32v",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -2206,12 +3231,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Board support crate for HiFive1 and LoFive boards",
+                "homepage": null,
                 "id": 111189345,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2023-12-07T15:24:00Z",
+                "open_issues": 3,
                 "owner": "riscv-rust",
                 "repo": "hifive1",
-                "stars": 75
+                "stars": 75,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -2229,12 +3259,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Board support package for the Longan Nano board",
+                "homepage": "https://www.seeedstudio.com/Sipeed-Longan-Nano-RISC-V-GD32VF103CBT6-Development-Board-p-4205.html",
                 "id": 215647417,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2024-11-24T19:31:37Z",
+                "open_issues": 5,
                 "owner": "riscv-rust",
                 "repo": "longan-nano",
-                "stars": 122
+                "stars": 122,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -2252,12 +3287,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prussia - a Rust PS2 SDK.",
+                "homepage": null,
                 "id": 156018203,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2025-05-16T06:32:29Z",
+                "open_issues": 8,
                 "owner": "Ravenslofty",
                 "repo": "prussia",
-                "stars": 128
+                "stars": 128,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -2275,12 +3315,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust BSP crate for the STM Nucleo-F401RE development board",
+                "homepage": null,
                 "id": 152298331,
                 "language": "Rust",
+                "license": "0BSD",
                 "last_commit": "2024-06-05T11:46:29Z",
+                "open_issues": 1,
                 "owner": "jkristell",
                 "repo": "nucleo-f401re",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -2291,12 +3336,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Examples programs for nucleo-h743zi board",
+                "homepage": null,
                 "id": 188522539,
                 "language": "Rust",
+                "license": "0BSD",
                 "last_commit": "2023-06-10T04:57:56Z",
+                "open_issues": 0,
                 "owner": "astraw",
                 "repo": "nucleo-h743zi",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -2307,12 +3357,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust BSP crate for the STM Nucleo-F042K6 development board",
+                "homepage": null,
                 "id": 124953025,
                 "language": "Shell",
+                "license": "0BSD",
                 "last_commit": "2021-02-03T20:35:47Z",
+                "open_issues": 0,
                 "owner": "stm32-rs",
                 "repo": "nucleo-f042k6",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -2323,12 +3378,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust BSP crate for the STM Nucleo-F103RB development board",
+                "homepage": null,
                 "id": 121815173,
                 "language": "Rust",
+                "license": "0BSD",
                 "last_commit": "2020-04-03T19:07:11Z",
+                "open_issues": 1,
                 "owner": "therealprof",
                 "repo": "nucleo-f103rb",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -2339,12 +3399,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bare-metal examples programs for nucleo-h723zg board",
+                "homepage": null,
                 "id": 621087496,
                 "language": "Rust",
+                "license": "0BSD",
                 "last_commit": "2023-04-22T18:47:05Z",
+                "open_issues": 0,
                 "owner": "jlogan03",
                 "repo": "nucleo-h723zg",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -2362,12 +3427,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust support for the Teensy 4",
+                "homepage": null,
                 "id": 222280295,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-02T19:35:27Z",
+                "open_issues": 4,
                 "owner": "mciantyre",
                 "repo": "teensy4-rs",
-                "stars": 373
+                "stars": 373,
+                "topics": [
+                  "rust",
+                  "rust-embedded"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -2385,12 +3458,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A simple 8-bit home computer style application for the TI Tiva-C Launchpad",
+                "homepage": null,
                 "id": 123673389,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2021-08-17T14:30:39Z",
+                "open_issues": 39,
                 "owner": "thejpster",
                 "repo": "monotron",
-                "stars": 192
+                "stars": 192,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -2401,12 +3479,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " A bare-metal example program for the TM4C129-XL Launchpad board, based on the stellaris-launchpad crate.",
+                "homepage": null,
                 "id": 454632462,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2024-01-10T12:49:06Z",
+                "open_issues": 3,
                 "owner": "jlogan03",
                 "repo": "tm4c129-launchpad",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -2424,12 +3507,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Board Support Crate for the BetaFPV F3 Drone Flight Controller",
+                "homepage": null,
                 "id": 140793947,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2019-02-12T12:14:13Z",
+                "open_issues": 2,
                 "owner": "JoshMcguigan",
                 "repo": "betafpv-f3",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "arm",
+                  "cortex-m",
+                  "drone",
+                  "no-std",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -2440,12 +3534,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Rust board support crate for the Electromagnetic Field Tildagon badge.",
+                "homepage": null,
                 "id": 1057441593,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-07-02T05:25:03Z",
+                "open_issues": 1,
                 "owner": "DanNixon",
                 "repo": "tildagon-rs",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "embassy-rs",
+                  "embedded-rust",
+                  "emfcamp",
+                  "tildagon"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -2467,12 +3571,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experimental device-side USB framework for microcontrollers in Rust.",
+            "homepage": null,
             "id": 146472687,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-06-19T12:26:53Z",
+            "open_issues": 32,
             "owner": "rust-embedded-community",
             "repo": "usb-device",
-            "stars": 527
+            "stars": 527,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -2483,12 +3592,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Embedded Network Abstraction Layer",
+            "homepage": null,
             "id": 235890709,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-01T12:22:55Z",
+            "open_issues": 24,
             "owner": "rust-embedded-community",
             "repo": "embedded-nal",
-            "stars": 200
+            "stars": 200,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -2499,12 +3613,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "no_std crate for parsing AT commands",
+            "homepage": null,
             "id": 228803522,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-22T13:24:30Z",
+            "open_issues": 19,
             "owner": "FactbirdHQ",
             "repo": "atat",
-            "stars": 142
+            "stars": 142,
+            "topics": [
+              "at-command",
+              "embedded",
+              "embedded-hal-driver",
+              "no-std",
+              "rust",
+              "uart"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -2515,12 +3641,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Embedded Storage Abstraction Layer",
+            "homepage": null,
             "id": 320262012,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-30T14:06:14Z",
+            "open_issues": 31,
             "owner": "rust-embedded-community",
             "repo": "embedded-storage",
-            "stars": 96
+            "stars": 96,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -2531,12 +3662,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Embedded rust radio abstraction crate",
+            "homepage": "https://ryan.kurte.nz/notes/2020-01-05-rust-radio",
             "id": 132086616,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2024-04-18T23:25:26Z",
+            "open_issues": 9,
             "owner": "rust-iot",
             "repo": "radio-hal",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -2547,12 +3683,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust no_std embedded-hal driver and traits for Input/Output switches (leds, transistors, buttons, switches)",
+            "homepage": null,
             "id": 237965448,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-17T14:27:15Z",
+            "open_issues": 3,
             "owner": "rubberduck203",
             "repo": "switch-hal",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -2563,12 +3704,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generic Rust accelerometer support, including traits and types for taking readings from 2 or 3-axis accelerometers",
+            "homepage": null,
             "id": 177428050,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-24T18:31:21Z",
+            "open_issues": 5,
             "owner": "rust-embedded-community",
             "repo": "accelerometer.rs",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         }
@@ -2585,12 +3731,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Drivers for AnyLeaf sensors ",
+            "homepage": null,
             "id": 286346678,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2021-10-08T11:56:58Z",
+            "open_issues": 0,
             "owner": "AnyLeaf",
             "repo": "anyleaf-rust",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -2601,12 +3752,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FH101RF Driver",
+            "homepage": null,
             "id": 893812306,
             "language": "C",
+            "license": "LGPL-3.0",
             "last_commit": "2025-06-01T11:18:04Z",
+            "open_issues": 3,
             "owner": "trembel",
             "repo": "fh101rf",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -2617,12 +3773,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "AHT20 sensor embedded rust driver",
+            "homepage": null,
             "id": 289723497,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2024-01-17T12:20:24Z",
+            "open_issues": 0,
             "owner": "fmckeogh",
             "repo": "aht20",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -2633,12 +3794,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 894072377,
             "language": "C",
+            "license": "LGPL-3.0",
             "last_commit": "2024-11-26T05:52:05Z",
+            "open_issues": 0,
             "owner": "trembel",
             "repo": "aem10900",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -2649,12 +3815,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust embedded driver for is31fl3728 - led-matrix controller",
+            "homepage": null,
             "id": 911963376,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-16T16:34:55Z",
+            "open_issues": 0,
             "owner": "leonidv",
             "repo": "is31fl3728-rs",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "rust",
+              "rust-embedded"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -2665,12 +3839,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Embedded Rust with Raspberry Pi Pico 2",
+            "homepage": null,
             "id": 1111531698,
             "language": "Linker Script",
+            "license": null,
             "last_commit": "2026-08-24T02:12:11Z",
+            "open_issues": 0,
             "owner": "melastmohican",
             "repo": "rust-rpico2-discovery",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "embedded-hal",
+              "embedded-rust",
+              "no-std",
+              "raspberry-pi-pico",
+              "rp2350"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -2683,12 +3868,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.",
+                "homepage": "https://lvgl.io",
                 "id": 60667730,
                 "language": "C",
-                "last_commit": "2026-08-27T18:46:38Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T21:11:42Z",
+                "open_issues": 220,
                 "owner": "lvgl",
                 "repo": "lvgl",
-                "stars": 24517
+                "stars": 24521,
+                "topics": [
+                  "arduino",
+                  "c",
+                  "cpp",
+                  "display",
+                  "e-ink-display",
+                  "embedded-ui",
+                  "esp32",
+                  "graphics-library",
+                  "hmi",
+                  "linux",
+                  "lvgl",
+                  "lvgl-pro",
+                  "nxp",
+                  "oled-display",
+                  "renesas",
+                  "stm32",
+                  "tft-display",
+                  "touchscreen",
+                  "ui",
+                  "zephyr"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -2710,12 +3921,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a smol tcp/ip stack",
+            "homepage": null,
             "id": 75406961,
             "language": "Rust",
+            "license": "0BSD",
             "last_commit": "2026-08-18T13:17:47Z",
+            "open_issues": 104,
             "owner": "smoltcp-rs",
             "repo": "smoltcp",
-            "stars": 4579
+            "stars": 4579,
+            "topics": [
+              "embedded",
+              "networking-stack"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -2726,12 +3945,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Embedded Rust arithmetic, 2D/3D vector, and statistics library",
+            "homepage": null,
             "id": 183882654,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-07T13:13:53Z",
+            "open_issues": 8,
             "owner": "tarcieri",
             "repo": "micromath",
-            "stars": 486
+            "stars": 486,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -2742,12 +3966,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LoRa and LoRaWAN crates for End Devices",
+            "homepage": null,
             "id": 106746673,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-27T16:19:34Z",
+            "open_issues": 29,
             "owner": "lora-rs",
             "repo": "lora-rs",
-            "stars": 467
+            "stars": 467,
+            "topics": [
+              "embedded-rust",
+              "embedded-systems",
+              "iot",
+              "iot-device",
+              "lora",
+              "lorawan",
+              "lorawan-device",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -2758,12 +3996,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LoRa and LoRaWAN crates for End Devices",
+            "homepage": null,
             "id": 106746673,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-27T16:19:34Z",
+            "open_issues": 29,
             "owner": "lora-rs",
             "repo": "lora-rs",
-            "stars": 467
+            "stars": 467,
+            "topics": [
+              "embedded-rust",
+              "embedded-systems",
+              "iot",
+              "iot-device",
+              "lora",
+              "lorawan",
+              "lorawan-device",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -2774,12 +4026,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pure Rust EtherCAT MainDevice supporting std and no_std environments",
+            "homepage": null,
             "id": 500086737,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-07-19T04:15:27Z",
+            "open_issues": 24,
             "owner": "ethercrab-rs",
             "repo": "ethercrab",
-            "stars": 436
+            "stars": 437,
+            "topics": [
+              "ethercat",
+              "ethercat-master",
+              "igh-ethercat-master",
+              "industrial-automation",
+              "maindevice",
+              "rust",
+              "rust-embedded",
+              "soem"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -2790,12 +4056,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Written by humans. WTX is a collection of different transport implementations and related tools focused primarily on web technologies.",
+            "homepage": "https://c410-f3r.github.io/wtx/",
             "id": 684042595,
             "language": "Rust",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-23T22:12:16Z",
+            "open_issues": 6,
             "owner": "c410-f3r",
             "repo": "wtx",
-            "stars": 399
+            "stars": 399,
+            "topics": [
+              "api",
+              "certificate",
+              "cli",
+              "database",
+              "email",
+              "embedded",
+              "framework",
+              "grpc",
+              "http",
+              "http2",
+              "network",
+              "postgres",
+              "rust",
+              "smtp",
+              "sql",
+              "time",
+              "tls",
+              "web",
+              "websocket",
+              "x509"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -2806,12 +4098,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Rust TLS 1.3 implementation for embedded devices.",
+            "homepage": null,
             "id": 290301765,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-12T12:04:05Z",
+            "open_issues": 21,
             "owner": "drogue-iot",
             "repo": "embedded-tls",
-            "stars": 241
+            "stars": 241,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -2822,12 +4119,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A distribution of tools and examples for building embedded IoT applications in Rust",
+            "homepage": "https://drogue.io",
             "id": 330032254,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-06T10:58:54Z",
+            "open_issues": 21,
             "owner": "drogue-iot",
             "repo": "drogue-device",
-            "stars": 204
+            "stars": 204,
+            "topics": [
+              "async",
+              "drogue-device",
+              "embedded",
+              "iot",
+              "lora",
+              "rust",
+              "wifi"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -2838,12 +4148,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A simple 8-bit home computer style application for the TI Tiva-C Launchpad",
+            "homepage": null,
             "id": 123673389,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2021-08-17T14:30:39Z",
+            "open_issues": 39,
             "owner": "thejpster",
             "repo": "monotron",
-            "stars": 192
+            "stars": 192,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -2854,12 +4169,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Platform-less, Runtime-less Actor Computing Model",
+            "homepage": "https://hominee.github.io/crossbus/",
             "id": 618439770,
             "language": "Rust",
+            "license": null,
             "last_commit": "2024-03-01T06:55:40Z",
+            "open_issues": 1,
             "owner": "hominee",
             "repo": "crossbus",
-            "stars": 127
+            "stars": 127,
+            "topics": [
+              "actor-model",
+              "async",
+              "asynchronous",
+              "bare-metal",
+              "embedded",
+              "no-std",
+              "platform-less",
+              "runtime-less",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -2870,12 +4200,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A streaming gcode parser built with embedded applications in mind",
+            "homepage": "https://michael-f-bryan.github.io/gcode-rs/",
             "id": 92186406,
             "language": "G-code",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-09T12:12:58Z",
+            "open_issues": 3,
             "owner": "Michael-F-Bryan",
             "repo": "gcode-rs",
-            "stars": 108
+            "stars": 108,
+            "topics": [
+              "3d-printing",
+              "embedded",
+              "gcode"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -2886,12 +4225,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ector is an open source async, no-alloc actor framework for embedded devices.",
+            "homepage": null,
             "id": 503270029,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-18T07:02:23Z",
+            "open_issues": 0,
             "owner": "drogue-iot",
             "repo": "ector",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -2902,12 +4246,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Unified interface for type-safe MMIO and CPU register access in Rust",
+            "homepage": null,
             "id": 140081711,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2021-07-05T20:46:28Z",
+            "open_issues": 0,
             "owner": "rust-embedded",
             "repo": "register-rs",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "bare-metal",
+              "cpu",
+              "embedded",
+              "mmio",
+              "no-std",
+              "operating-system",
+              "register",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -2918,12 +4276,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Embedded Rust crate with support for multiple sensors",
+            "homepage": "http://vaishnav.world/Hayasen/",
             "id": 1045096535,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-20T15:37:19Z",
+            "open_issues": 0,
             "owner": "Vaishnav-Sabari-Girish",
             "repo": "Hayasen",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "crate",
+              "embedded-rust",
+              "embedded-systems",
+              "library",
+              "rust",
+              "rust-library"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -2934,12 +4304,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OTA Bootloader Construction Framework for Rust no_std environments ",
+            "homepage": "https://jhbruhn.de/posts/moonboot/",
             "id": 483160173,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2022-07-12T08:35:53Z",
+            "open_issues": 3,
             "owner": "jhbruhn",
             "repo": "moonboot",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "bootloader",
+              "ota",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -2950,12 +4329,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 498767466,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-18T15:07:51Z",
+            "open_issues": 0,
             "owner": "drogue-iot",
             "repo": "embedded-update",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -2966,12 +4350,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "USB power-delivery crate",
+            "homepage": null,
             "id": 917359422,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-10T21:01:40Z",
+            "open_issues": 8,
             "owner": "elagil",
             "repo": "usbpd",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -2982,12 +4371,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 185885220,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2023-11-23T13:30:33Z",
+            "open_issues": 4,
             "owner": "jacobrosenthal",
             "repo": "cmsis-dsp-sys",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -2998,12 +4392,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RP2040 A/B bootloader in Rust — copies firmware from flash to RAM with dual-bank support.",
+            "homepage": null,
             "id": 1147854750,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-10T06:12:45Z",
+            "open_issues": 5,
             "owner": "ADNTIO",
             "repo": "crispy-bootloader-rp2040-rs",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -3014,12 +4413,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fixed-size bytes wrapper prevents panic. Implement `bytes::BufMut`",
+            "homepage": null,
             "id": 290621757,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2021-01-05T15:19:20Z",
+            "open_issues": 0,
             "owner": "xoac",
             "repo": "static-bytes",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -3030,12 +4434,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Describes a basic text console",
+            "homepage": null,
             "id": 132378804,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2019-06-10T20:47:43Z",
+            "open_issues": 1,
             "owner": "thejpster",
             "repo": "console-traits",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -3046,12 +4455,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1025359595,
             "language": "Rust",
+            "license": "LGPL-3.0",
             "last_commit": "2025-12-10T08:40:34Z",
+            "open_issues": 0,
             "owner": "trembel",
             "repo": "locate-rs",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -3064,12 +4478,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "(going to be a) BLE stack for embedded Rust",
+                "homepage": null,
                 "id": 127808771,
                 "language": "Rust",
+                "license": "0BSD",
                 "last_commit": "2022-05-17T18:42:40Z",
+                "open_issues": 41,
                 "owner": "jonas-schievink",
                 "repo": "rubble",
-                "stars": 403
+                "stars": 403,
+                "topics": [
+                  "ble",
+                  "bluetooth",
+                  "iot",
+                  "no-std"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -3080,12 +4504,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A port of Open Source Car Control written in Rust",
+                "homepage": null,
                 "id": 143338375,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2018-11-13T23:51:25Z",
+                "open_issues": 9,
                 "owner": "jonlamb-gh",
                 "repo": "oxcc",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "autonomous-driving",
+                  "autonomous-vehicles",
+                  "bootloader",
+                  "can-bus",
+                  "no-std",
+                  "nucleo-f767zi",
+                  "rust",
+                  "rust-embedded",
+                  "stm32",
+                  "stm32f767zi"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -3096,12 +4536,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple heapless command line interface parser for embedded devices",
+                "homepage": null,
                 "id": 133220329,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2019-03-15T14:53:57Z",
+                "open_issues": 0,
                 "owner": "rudihorn",
                 "repo": "light-cli",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             },
@@ -3112,12 +4557,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A no-std async Rust library for creating modular projects",
+                "homepage": null,
                 "id": 958735737,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-04T14:21:52Z",
+                "open_issues": 12,
                 "owner": "petekubiak",
                 "repo": "post-haste",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "async",
+                  "bare-metal",
+                  "messaging",
+                  "modular-architecture",
+                  "no-std",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
             }
@@ -3139,12 +4596,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern, easy-to-use, and feature-rich keyboard firmware written in Rust.",
+            "homepage": "https://rmk.rs",
             "id": 688011037,
             "language": "Rust",
-            "last_commit": "2026-08-28T12:43:41Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:14:37Z",
+            "open_issues": 70,
             "owner": "rmk-rs",
             "repo": "rmk",
-            "stars": 1736
+            "stars": 1735,
+            "topics": [
+              "cortex-m",
+              "embedded",
+              "esp32",
+              "firmware",
+              "keyboard",
+              "keyboard-firmware",
+              "nrf52",
+              "rp2040",
+              "rust",
+              "stm32",
+              "usb",
+              "usb-hid",
+              "wireless"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -3155,12 +4631,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "μLA: Micro Logic Analyzer for RP2040",
+            "homepage": null,
             "id": 627094231,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-10T11:25:22Z",
+            "open_issues": 14,
             "owner": "dotcypress",
             "repo": "ula",
-            "stars": 938
+            "stars": 938,
+            "topics": [
+              "embedded",
+              "logic-analyzer",
+              "rp2040",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -3171,12 +4657,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Firmware for Anne Pro Keyboard written in Rust",
+            "homepage": null,
             "id": 116851901,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2020-07-30T06:21:46Z",
+            "open_issues": 25,
             "owner": "ah-",
             "repo": "anne-key",
-            "stars": 572
+            "stars": 572,
+            "topics": [
+              "anne",
+              "embedded",
+              "firmware",
+              "keyboard",
+              "mechanical-keyboard",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -3187,12 +4685,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn a $5 Raspberry Pi RP2350 board into an open-source hardware passkey: WebAuthn/FIDO2 logins, ssh & git signing, OpenPGP, PIV, TOTP. Rust firmware, no_std.",
+            "homepage": "https://themaxmur.github.io/RS-Key/",
             "id": 1266469959,
             "language": "Rust",
-            "last_commit": "2026-08-26T20:43:29Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-28T23:32:48Z",
+            "open_issues": 9,
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 439
+            "stars": 440,
+            "topics": [
+              "authenticator",
+              "ccid",
+              "cryptography",
+              "embedded-rust",
+              "fido",
+              "fido-u2f",
+              "fido2",
+              "firmware",
+              "opengpg",
+              "passkeys",
+              "pgp",
+              "piv",
+              "post-quantum-cryptography",
+              "pqc",
+              "raspberry-pi-pico",
+              "rp2350",
+              "security-key",
+              "smart-card",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -3203,12 +4726,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A 3dprinter/cnc firmware framework powered by rust embassy",
+            "homepage": null,
             "id": 712093297,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-03-28T07:29:17Z",
+            "open_issues": 1,
             "owner": "cbruiz",
             "repo": "printhor",
-            "stars": 226
+            "stars": 226,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -3219,12 +4747,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Firmware and software for the Sinara Stabilizer module with high speed, low latency ADC/DAC data processing and powerful DSP algorithms in between",
+            "homepage": "http://quartiq.de/stabilizer/",
             "id": 174817691,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T22:45:18Z",
+            "open_issues": 19,
             "owner": "quartiq",
             "repo": "stabilizer",
-            "stars": 146
+            "stars": 146,
+            "topics": [
+              "artiq",
+              "dsp",
+              "open-hardware",
+              "rust",
+              "rust-embedded",
+              "sinara-hw"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -3235,12 +4775,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Card/IO device firmware",
+            "homepage": null,
             "id": 633388514,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-07T18:35:13Z",
+            "open_issues": 12,
             "owner": "card-io-ecg",
             "repo": "card-io-fw",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -3251,12 +4796,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BillMock firmware source code written in rust",
+            "homepage": null,
             "id": 667870418,
             "language": "Rust",
+            "license": null,
             "last_commit": "2024-09-01T12:22:03Z",
+            "open_issues": 1,
             "owner": "pmnxis",
             "repo": "billmock-app-rs",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "firmware",
+              "rust",
+              "rust-embedded",
+              "stm32g0"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -3267,12 +4822,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ARM64 Type-1 bare-metal hypervisor in Rust (no_std) — boots Linux at EL1, FF-A v1.1 SPMC at S-EL2, pKVM integration",
+            "homepage": null,
             "id": 1142208415,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-06-09T15:41:42Z",
+            "open_issues": 0,
             "owner": "willamhou",
             "repo": "hypervisor",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "aarch64",
+              "arm64",
+              "bare-metal",
+              "ff-a",
+              "hypervisor",
+              "no-std",
+              "pkvm",
+              "rust",
+              "spmc",
+              "trustzone",
+              "type-1-hypervisor",
+              "virtualization"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -3283,12 +4856,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Firmware for the Sinara Booster RF amplifier",
+            "homepage": null,
             "id": 274618400,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-13T09:30:02Z",
+            "open_issues": 11,
             "owner": "quartiq",
             "repo": "booster",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -3299,12 +4877,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust bootloader, firmware and CLI tools for the AirGradient PRO",
+            "homepage": null,
             "id": 598155143,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-22T11:07:03Z",
+            "open_issues": 13,
             "owner": "jonlamb-gh",
             "repo": "air-gradient-pro-rs",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "air-gradient",
+              "bootloader",
+              "emulation",
+              "environment-monitoring",
+              "firmware",
+              "fota",
+              "gas-index",
+              "no-std",
+              "nox-representation",
+              "renode",
+              "renode-run",
+              "robot-framework",
+              "rtic",
+              "rust",
+              "smoltcp",
+              "voc-representation"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -3315,12 +4915,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YBLINK is a pure Rust DAPLink-compatible firmware running on the HPM5301IEG1 RISC-V microcontroller. It provides support for both SWD and JTAG debugging and programming interfaces. Feel free to issue, and PR is welcomed. 基于HPM5301IEG1制作的DAP-Link，支持SWD和JTAG，附带SWD指示灯，纯Rust固件。",
+            "homepage": null,
             "id": 1259548968,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T14:56:28Z",
+            "open_issues": 0,
             "owner": "ref42",
             "repo": "YBLINK",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "daplink",
+              "embassy",
+              "hpmicro",
+              "mcu",
+              "riscv",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -3331,12 +4943,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cute and smart arm warmer sleeve ^_^",
+            "homepage": null,
             "id": 703788443,
             "language": "Rust",
+            "license": null,
             "last_commit": "2023-11-28T17:05:49Z",
+            "open_issues": 0,
             "owner": "fu5ha",
             "repo": "luluu",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         },
@@ -3347,12 +4964,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Embedded software for the Thermostat-EEM multichannel temperature controller.",
+            "homepage": null,
             "id": 453973636,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-12T14:28:23Z",
+            "open_issues": 7,
             "owner": "quartiq",
             "repo": "thermostat-eem",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
         }
@@ -3361,15 +4983,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:24:30.949Z",
+    "last_updated": "2026-08-29T04:15:13.072Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of resources for Embedded and Low-level development in the Rust programming language",
+      "homepage": null,
       "id": 127671976,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-08-28T12:30:06Z",
+      "open_issues": 13,
       "owner": "rust-embedded",
       "repo": "awesome-embedded-rust",
-      "stars": 8051
+      "stars": 8052,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "embedded",
+        "embedded-systems",
+        "libraries",
+        "rust"
+      ]
     },
     "original_repository_sha": "180ee6402c23834a27a3973a0ce9e4bc412ff1a5",
     "enhanced_repository": "enhansome/enhansome-embedded-rust",
