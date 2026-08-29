@@ -213,7 +213,7 @@ specifically endorsed or reviewed for accuracy or quality by the Embedded Workin
 * [scope](https://github.com/matheuswhite/scope-rs) ⭐ 63 | 🐛 18 | 🌐 Rust | 📅 2026-08-17 Cross-platform serial-monitor TUI with an RTT interface (via `probe-rs`), hex/`@tag` input macros, search, session recording, and Lua plugins. - [![crates.io](https://img.shields.io/crates/v/scope-monitor.svg)](https://crates.io/crates/scope-monitor)
 * [cargo-hf2](https://github.com/jacobrosenthal/hf2-rs) ⭐ 55 | 🐛 13 | 🌐 Rust | 📅 2023-09-27  A small cargo subcommand to download cargo builds to Microsoft UF2 bootloaders via HID USB . - [![crates.io](https://img.shields.io/crates/v/cargo-hf2.svg)](https://crates.io/crates/cargo-hf2)
 * [uf2](https://github.com/sajattack/uf2conv-rs) ⭐ 33 | 🐛 0 | 🌐 Rust | 📅 2021-12-17 Converts binary files to Microsoft's UF2 format for copying over to mass storage device uf2 bootloaders - [![crates.io](https://img.shields.io/crates/v/uf2.svg)](https://crates.io/crates/uf2)
-* [Embassy start](https://github.com/titanclass/embassy-start) ⭐ 27 | 🐛 0 | 🌐 Rust | 📅 2023-04-23 is a GitHub repo template for setting up async embedded Rust projects that use [Embassy](https://github.com/embassy-rs/embassy) ⭐ 9,749 | 🐛 626 | 🌐 Rust | 📅 2026-08-28. This particular template targets nRF hardware and networking using the Uarte for the purposes of illustration only.
+* [Embassy start](https://github.com/titanclass/embassy-start) ⭐ 27 | 🐛 0 | 🌐 Rust | 📅 2023-04-23 is a GitHub repo template for setting up async embedded Rust projects that use [Embassy](https://github.com/embassy-rs/embassy) ⭐ 9,749 | 🐛 625 | 🌐 Rust | 📅 2026-08-29. This particular template targets nRF hardware and networking using the Uarte for the purposes of illustration only.
 * [embedded-hal-compat](https://github.com/ryankurte/embedded-hal-compat) ⭐ 19 | 🐛 3 | 🌐 Rust | 📅 2026-05-13, a compatibility layer to provide interoperability between `v0.2.x` and `v1.x.x` hal implementations and drivers
 * [commitment-issues](https://github.com/dysonltd/commitment-issues) ⭐ 18 | 🐛 12 | 🌐 Rust | 📅 2026-03-02 Compile git metadata into your binary.
 * [edc2svd](https://github.com/kiffie/edc2svd) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2023-10-02 Generate SVD files for PIC32 devices from EDC files. - [![crates.io](https://img.shields.io/crates/v/edc2svd.svg)](https://crates.io/crates/edc2svd)
@@ -562,7 +562,7 @@ Also check the list of [STMicroelectronics board support crates][stm-bsc]!
 
 ### Texas Instruments
 
-* [`embassy-mspm0`](https://github.com/embassy-rs/embassy/tree/main/embassy-mspm0) ⭐ 9,749 | 🐛 626 | 🌐 Rust | 📅 2026-08-28
+* [`embassy-mspm0`](https://github.com/embassy-rs/embassy/tree/main/embassy-mspm0) ⭐ 9,749 | 🐛 625 | 🌐 Rust | 📅 2026-08-29
   * Embassy HAL implementation for all MSPM0 (and MSPS003) microcontrollers.
 * [`tm4c123x-hal`](https://github.com/rust-embedded-community/tm4c-hal/) ⭐ 45 | 🐛 12 | 🌐 Rust | 📅 2024-03-15
 
@@ -573,9 +573,9 @@ Also check the list of [STMicroelectronics board support crates][stm-bsc]!
 
 ### Espressif
 
-* [`esp-hal`](https://github.com/esp-rs/esp-hal) ⭐ 2,076 | 🐛 241 | 🌐 Rust | 📅 2026-08-28 - [![crates.io](https://img.shields.io/crates/v/esp-hal.svg)](https://crates.io/crates/esp-hal)
+* [`esp-hal`](https://github.com/esp-rs/esp-hal) ⭐ 2,077 | 🐛 242 | 🌐 Rust | 📅 2026-08-28 - [![crates.io](https://img.shields.io/crates/v/esp-hal.svg)](https://crates.io/crates/esp-hal)
   * A `no_std` Hardware Abstraction Layer for Espressif microcontrollers, officially supported by Espressif
-* [`esp-idf-hal`](https://github.com/esp-rs/esp-idf-hal) ⭐ 753 | 🐛 45 | 🌐 Rust | 📅 2026-08-21 - [![crates.io](https://img.shields.io/crates/v/esp-idf-hal.svg)](https://crates.io/crates/esp-idf-hal)
+* [`esp-idf-hal`](https://github.com/esp-rs/esp-idf-hal) ⭐ 753 | 🐛 46 | 🌐 Rust | 📅 2026-08-21 - [![crates.io](https://img.shields.io/crates/v/esp-idf-hal.svg)](https://crates.io/crates/esp-idf-hal)
   * A `std` embedded-hal implementation for Espressif microcontrollers built on top of ESP-IDF, fully supported by the community
 
 ### Silicon Labs
@@ -1626,7 +1626,7 @@ Work in progress drivers. Help the authors make these crates awesome!
 
 [`#![no_std]` crates][no-std-category] designed to run on resource-constrained devices.
 
-1. [smoltcp](https://github.com/m-labs/smoltcp) ⭐ 4,579 | 🐛 104 | 🌐 Rust | 📅 2026-08-18: a small TCP/IP stack that runs without `alloc`. [![crates.io](https://img.shields.io/crates/v/smoltcp.svg)](https://crates.io/crates/smoltcp)
+1. [smoltcp](https://github.com/m-labs/smoltcp) ⭐ 4,580 | 🐛 104 | 🌐 Rust | 📅 2026-08-18: a small TCP/IP stack that runs without `alloc`. [![crates.io](https://img.shields.io/crates/v/smoltcp.svg)](https://crates.io/crates/smoltcp)
 2. [micromath](https://github.com/NeoBirth/micromath) ⭐ 486 | 🐛 8 | 🌐 Rust | 📅 2024-09-07: Embedded Rust math library featuring fast, safe floating point approximations for common arithmetic operations, 2D and 3D vector types, and statistical analysis - [![crates.io](https://img.shields.io/crates/v/micromath.svg)](https://crates.io/crates/micromath)
 3. [lorawan-encoding](https://github.com/lora-rs/lora-rs/tree/main/lorawan-encoding) ⭐ 467 | 🐛 29 | 🌐 Rust | 📅 2026-08-27: A LoRaWAN packet codec.
 4. [lorawan-device](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device) ⭐ 467 | 🐛 29 | 🌐 Rust | 📅 2026-08-27: A LoRaWAN MAC implementation supporting both event-driven and async mode.
@@ -1810,10 +1810,10 @@ There are many ways to handle panics in embedded devices, these crates provide h
 
 ## Firmware projects
 
-* [rmk](https://github.com/HaoboGu/rmk) ⭐ 1,735 | 🐛 70 | 🌐 Rust | 📅 2026-08-29: Mechanical keyboard firmware for stm32/rp2040, supports vial/dynamic keymap/eeprom, written in Rust
+* [rmk](https://github.com/HaoboGu/rmk) ⭐ 1,737 | 🐛 70 | 🌐 Rust | 📅 2026-08-29: Mechanical keyboard firmware for stm32/rp2040, supports vial/dynamic keymap/eeprom, written in Rust
 * [μLA](https://github.com/dotcypress/ula) ⭐ 938 | 🐛 14 | 🌐 Rust | 📅 2025-02-10: Micro Logic Analyzer for RP2040
 * [anne-key](https://github.com/ah-/anne-key) ⭐ 572 | 🐛 25 | 🌐 Rust | 📅 2020-07-30: Alternate keyboard firmware for the Obins ANNE Pro
-* [🤖 RS-Key](https://github.com/TheMaxMur/RS-Key) ⭐ 440 | 🐛 9 | 🌐 Rust | 📅 2026-08-28: no\_std FIDO2/WebAuthn + U2F security-key firmware for the RP2350, built on embassy; also implements OpenPGP, PIV and OATH.
+* [🤖 RS-Key](https://github.com/TheMaxMur/RS-Key) ⭐ 441 | 🐛 9 | 🌐 Rust | 📅 2026-08-28: no\_std FIDO2/WebAuthn + U2F security-key firmware for the RP2350, built on embassy; also implements OpenPGP, PIV and OATH.
 * [prinThor](https://github.com/cbruiz/printhor) ⭐ 226 | 🐛 1 | 🌐 Rust | 📅 2025-03-28: 3DPrinter/CNC/Engraver firmware framework powered by rust embassy for stm32 families and rp2040.
 * [Stabilizer](https://github.com/quartiq/stabilizer) ⭐ 146 | 🐛 19 | 🌐 Rust | 📅 2026-08-20: Firmware for a DSP tool used in quantum physics experimentation, includes telemetry via MQTT and run-time configuration
 * [Card/IO ECG](https://github.com/card-io-ecg/card-io-fw) ⭐ 54 | 🐛 12 | 🌐 Rust | 📅 2026-08-07: Firmware for a business-card-sized ECG device with Wifi connectivity

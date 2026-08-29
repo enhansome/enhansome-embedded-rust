@@ -2449,8 +2449,8 @@
                 "id": 297701481,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T23:52:45Z",
-                "open_issues": 626,
+                "last_commit": "2026-08-29T07:55:57Z",
+                "open_issues": 625,
                 "owner": "embassy-rs",
                 "repo": "embassy",
                 "stars": 9749,
@@ -2506,10 +2506,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-28T16:27:39Z",
-                "open_issues": 241,
+                "open_issues": 242,
                 "owner": "esp-rs",
                 "repo": "esp-hal",
-                "stars": 2076,
+                "stars": 2077,
                 "topics": [
                   "embedded",
                   "embedded-hal",
@@ -2532,7 +2532,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-21T11:11:34Z",
-                "open_issues": 45,
+                "open_issues": 46,
                 "owner": "esp-rs",
                 "repo": "esp-idf-hal",
                 "stars": 753,
@@ -3930,7 +3930,7 @@
             "open_issues": 104,
             "owner": "smoltcp-rs",
             "repo": "smoltcp",
-            "stars": 4579,
+            "stars": 4580,
             "topics": [
               "embedded",
               "networking-stack"
@@ -4601,11 +4601,11 @@
             "id": 688011037,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T04:14:37Z",
+            "last_commit": "2026-08-29T08:08:56Z",
             "open_issues": 70,
             "owner": "rmk-rs",
             "repo": "rmk",
-            "stars": 1735,
+            "stars": 1737,
             "topics": [
               "cortex-m",
               "embedded",
@@ -4694,7 +4694,7 @@
             "open_issues": 9,
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 440,
+            "stars": 441,
             "topics": [
               "authenticator",
               "ccid",
@@ -4983,7 +4983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:15:13.072Z",
+    "last_updated": "2026-08-29T08:19:30.732Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources for Embedded and Low-level development in the Rust programming language",
