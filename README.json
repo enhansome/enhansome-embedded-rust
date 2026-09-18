@@ -21,7 +21,7 @@
                 "open_issues": 24,
                 "owner": "rust-embedded",
                 "repo": "rust-raspberrypi-OS-tutorials",
-                "stars": 14739,
+                "stars": 14738,
                 "topics": [
                   "aarch64",
                   "arm64",
@@ -206,7 +206,7 @@
             "open_issues": 359,
             "owner": "probe-rs",
             "repo": "probe-rs",
-            "stars": 2943,
+            "stars": 2945,
             "topics": [
               "arm",
               "arm-cores",
@@ -310,7 +310,7 @@
             "open_issues": 72,
             "owner": "rust-embedded",
             "repo": "svd2rust",
-            "stars": 855,
+            "stars": 856,
             "topics": [
               "arm",
               "cmsis-svd",
@@ -335,10 +335,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-10T13:45:50Z",
-            "open_issues": 35,
+            "open_issues": 36,
             "owner": "esp-rs",
             "repo": "espflash",
-            "stars": 744,
+            "stars": 743,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
@@ -458,7 +458,7 @@
             "open_issues": 22,
             "owner": "matheuswhite",
             "repo": "scope-rs",
-            "stars": 68,
+            "stars": 69,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
@@ -648,7 +648,7 @@
             "open_issues": 5,
             "owner": "tomrford",
             "repo": "mint",
-            "stars": 3,
+            "stars": 4,
             "topics": [
               "binary-files",
               "intel-hex",
@@ -833,11 +833,11 @@
                 "id": 252314296,
                 "language": "Rust",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-16T23:49:39Z",
-                "open_issues": 349,
+                "last_commit": "2026-09-18T00:16:07Z",
+                "open_issues": 350,
                 "owner": "oxidecomputer",
                 "repo": "hubris",
-                "stars": 3609,
+                "stars": 3611,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
@@ -919,11 +919,11 @@
                     "id": 83947369,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-17T05:55:16Z",
-                    "open_issues": 60,
+                    "last_commit": "2026-09-17T16:37:31Z",
+                    "open_issues": 56,
                     "owner": "rtic-rs",
                     "repo": "rtic",
-                    "stars": 2403,
+                    "stars": 2404,
                     "topics": [
                       "arm",
                       "bare-metal",
@@ -2419,7 +2419,7 @@
                 "open_issues": 74,
                 "owner": "stm32-rs",
                 "repo": "stm32f1xx-hal",
-                "stars": 663,
+                "stars": 662,
                 "topics": [
                   "embedded",
                   "hacktoberfest",
@@ -2449,11 +2449,11 @@
                 "id": 297701481,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T11:17:44Z",
-                "open_issues": 610,
+                "last_commit": "2026-09-18T01:19:13Z",
+                "open_issues": 614,
                 "owner": "embassy-rs",
                 "repo": "embassy",
-                "stars": 9853,
+                "stars": 9854,
                 "topics": [
                   "async",
                   "drivers",
@@ -2505,11 +2505,11 @@
                 "id": 429554022,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T17:26:38Z",
-                "open_issues": 249,
+                "last_commit": "2026-09-17T15:30:23Z",
+                "open_issues": 244,
                 "owner": "esp-rs",
                 "repo": "esp-hal",
-                "stars": 2107,
+                "stars": 2108,
                 "topics": [
                   "embedded",
                   "embedded-hal",
@@ -2535,7 +2535,7 @@
                 "open_issues": 45,
                 "owner": "esp-rs",
                 "repo": "esp-idf-hal",
-                "stars": 757,
+                "stars": 758,
                 "topics": [
                   "embedded",
                   "embedded-hal",
@@ -3873,11 +3873,11 @@
                 "id": 60667730,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-16T17:51:11Z",
-                "open_issues": 126,
+                "last_commit": "2026-09-18T03:56:03Z",
+                "open_issues": 129,
                 "owner": "lvgl",
                 "repo": "lvgl",
-                "stars": 24707,
+                "stars": 24712,
                 "topics": [
                   "arduino",
                   "c",
@@ -3975,7 +3975,7 @@
             "open_issues": 31,
             "owner": "lora-rs",
             "repo": "lora-rs",
-            "stars": 471,
+            "stars": 472,
             "topics": [
               "embedded-rust",
               "embedded-systems",
@@ -4005,7 +4005,7 @@
             "open_issues": 31,
             "owner": "lora-rs",
             "repo": "lora-rs",
-            "stars": 471,
+            "stars": 472,
             "topics": [
               "embedded-rust",
               "embedded-systems",
@@ -4065,7 +4065,7 @@
             "open_issues": 6,
             "owner": "c410-f3r",
             "repo": "wtx",
-            "stars": 400,
+            "stars": 401,
             "topics": [
               "api",
               "certificate",
@@ -4107,7 +4107,7 @@
             "open_issues": 24,
             "owner": "embassy-rs",
             "repo": "embedded-tls",
-            "stars": 243,
+            "stars": 244,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
@@ -4356,7 +4356,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-08T19:29:31Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "elagil",
             "repo": "usbpd",
             "stars": 27,
@@ -4601,11 +4601,11 @@
             "id": 688011037,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T06:33:20Z",
-            "open_issues": 77,
+            "last_commit": "2026-09-18T04:04:46Z",
+            "open_issues": 74,
             "owner": "rmk-rs",
             "repo": "rmk",
-            "stars": 1760,
+            "stars": 1761,
             "topics": [
               "cortex-m",
               "embedded",
@@ -4690,8 +4690,8 @@
             "id": 1266469959,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-15T18:21:54Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-17T22:03:19Z",
+            "open_issues": 16,
             "owner": "TheMaxMur",
             "repo": "RS-Key",
             "stars": 495,
@@ -4990,7 +4990,7 @@
             "id": 1359547726,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T18:57:31Z",
+            "last_commit": "2026-09-17T20:31:28Z",
             "open_issues": 3,
             "owner": "vaulttec-dev",
             "repo": "vaulttec-key",
@@ -5014,7 +5014,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T06:46:24.991Z",
+    "last_updated": "2026-09-18T06:43:11.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources for Embedded and Low-level development in the Rust programming language",
@@ -5026,7 +5026,7 @@
       "open_issues": 16,
       "owner": "rust-embedded",
       "repo": "awesome-embedded-rust",
-      "stars": 8094,
+      "stars": 8095,
       "topics": [
         "awesome",
         "awesome-list",
