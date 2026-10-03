@@ -2453,7 +2453,7 @@
                 "open_issues": 622,
                 "owner": "embassy-rs",
                 "repo": "embassy",
-                "stars": 9908,
+                "stars": 9909,
                 "topics": [
                   "async",
                   "drivers",
@@ -3906,7 +3906,7 @@
                 "open_issues": 142,
                 "owner": "lvgl",
                 "repo": "lvgl",
-                "stars": 24785,
+                "stars": 24784,
                 "topics": [
                   "arduino",
                   "c",
@@ -4630,8 +4630,8 @@
             "id": 688011037,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T00:53:50Z",
-            "open_issues": 71,
+            "last_commit": "2026-10-03T05:32:13Z",
+            "open_issues": 70,
             "owner": "rmk-rs",
             "repo": "rmk",
             "stars": 1771,
@@ -5043,7 +5043,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:41:55.478Z",
+    "last_updated": "2026-10-03T07:08:11.620Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources for Embedded and Low-level development in the Rust programming language",
