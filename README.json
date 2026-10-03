@@ -21,7 +21,7 @@
                 "open_issues": 24,
                 "owner": "rust-embedded",
                 "repo": "rust-raspberrypi-OS-tutorials",
-                "stars": 14737,
+                "stars": 14738,
                 "topics": [
                   "aarch64",
                   "arm64",
@@ -202,8 +202,8 @@
             "id": 170021740,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T23:55:30Z",
-            "open_issues": 360,
+            "last_commit": "2026-10-02T22:23:59Z",
+            "open_issues": 368,
             "owner": "probe-rs",
             "repo": "probe-rs",
             "stars": 2956,
@@ -307,7 +307,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-08-23T13:07:07Z",
-            "open_issues": 71,
+            "open_issues": 72,
             "owner": "rust-embedded",
             "repo": "svd2rust",
             "stars": 860,
@@ -334,7 +334,7 @@
             "id": 292104906,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T07:37:43Z",
+            "last_commit": "2026-10-02T11:33:34Z",
             "open_issues": 37,
             "owner": "esp-rs",
             "repo": "espflash",
@@ -697,8 +697,8 @@
                 "id": 282262730,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T12:09:36Z",
-                "open_issues": 120,
+                "last_commit": "2026-10-02T14:39:06Z",
+                "open_issues": 121,
                 "owner": "knurling-rs",
                 "repo": "defmt",
                 "stars": 1234,
@@ -777,8 +777,8 @@
                 "id": 931124218,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-07-22T18:02:35Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-02T14:47:36Z",
+                "open_issues": 5,
                 "owner": "knurling-rs",
                 "repo": "derive-mmio",
                 "stars": 25,
@@ -833,11 +833,11 @@
                 "id": 252314296,
                 "language": "Rust",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-02T01:06:28Z",
-                "open_issues": 357,
+                "last_commit": "2026-10-02T16:07:12Z",
+                "open_issues": 356,
                 "owner": "oxidecomputer",
                 "repo": "hubris",
-                "stars": 3620,
+                "stars": 3621,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
@@ -923,7 +923,7 @@
                     "open_issues": 57,
                     "owner": "rtic-rs",
                     "repo": "rtic",
-                    "stars": 2414,
+                    "stars": 2416,
                     "topics": [
                       "arm",
                       "bare-metal",
@@ -1275,7 +1275,7 @@
             {
               "node_type": "item",
               "title": "mspm0-data",
-              "description": null,
+              "description": "mspm0-rs/mspm0-data",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1284,8 +1284,8 @@
                 "id": 917505512,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T15:11:51Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-02T20:12:19Z",
+                "open_issues": 9,
                 "owner": "mspm0-rs",
                 "repo": "mspm0-data",
                 "stars": 13,
@@ -1353,7 +1353,7 @@
             {
               "node_type": "item",
               "title": "esp-pacs",
-              "description": null,
+              "description": "esp-rs/esp-pacs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1362,7 +1362,7 @@
                 "id": 454514640,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T16:09:05Z",
+                "last_commit": "2026-10-02T11:54:42Z",
                 "open_issues": 14,
                 "owner": "esp-rs",
                 "repo": "esp-pacs",
@@ -1379,7 +1379,7 @@
             {
               "node_type": "item",
               "title": "esp-pacs",
-              "description": null,
+              "description": "esp-rs/esp-pacs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1388,7 +1388,7 @@
                 "id": 454514640,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T16:09:05Z",
+                "last_commit": "2026-10-02T11:54:42Z",
                 "open_issues": 14,
                 "owner": "esp-rs",
                 "repo": "esp-pacs",
@@ -1405,7 +1405,7 @@
             {
               "node_type": "item",
               "title": "esp-pacs",
-              "description": null,
+              "description": "esp-rs/esp-pacs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1414,7 +1414,7 @@
                 "id": 454514640,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T16:09:05Z",
+                "last_commit": "2026-10-02T11:54:42Z",
                 "open_issues": 14,
                 "owner": "esp-rs",
                 "repo": "esp-pacs",
@@ -1431,7 +1431,7 @@
             {
               "node_type": "item",
               "title": "esp-pacs",
-              "description": null,
+              "description": "esp-rs/esp-pacs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1440,7 +1440,7 @@
                 "id": 454514640,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T16:09:05Z",
+                "last_commit": "2026-10-02T11:54:42Z",
                 "open_issues": 14,
                 "owner": "esp-rs",
                 "repo": "esp-pacs",
@@ -1457,7 +1457,7 @@
             {
               "node_type": "item",
               "title": "esp-pacs",
-              "description": null,
+              "description": "esp-rs/esp-pacs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1466,7 +1466,7 @@
                 "id": 454514640,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T16:09:05Z",
+                "last_commit": "2026-10-02T11:54:42Z",
                 "open_issues": 14,
                 "owner": "esp-rs",
                 "repo": "esp-pacs",
@@ -1483,7 +1483,7 @@
             {
               "node_type": "item",
               "title": "esp-pacs",
-              "description": null,
+              "description": "esp-rs/esp-pacs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1492,7 +1492,7 @@
                 "id": 454514640,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T16:09:05Z",
+                "last_commit": "2026-10-02T11:54:42Z",
                 "open_issues": 14,
                 "owner": "esp-rs",
                 "repo": "esp-pacs",
@@ -1509,7 +1509,7 @@
             {
               "node_type": "item",
               "title": "esp-pacs",
-              "description": null,
+              "description": "esp-rs/esp-pacs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1518,7 +1518,7 @@
                 "id": 454514640,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T16:09:05Z",
+                "last_commit": "2026-10-02T11:54:42Z",
                 "open_issues": 14,
                 "owner": "esp-rs",
                 "repo": "esp-pacs",
@@ -1535,7 +1535,7 @@
             {
               "node_type": "item",
               "title": "esp-pacs",
-              "description": null,
+              "description": "esp-rs/esp-pacs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1544,7 +1544,7 @@
                 "id": 454514640,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T16:09:05Z",
+                "last_commit": "2026-10-02T11:54:42Z",
                 "open_issues": 14,
                 "owner": "esp-rs",
                 "repo": "esp-pacs",
@@ -1561,7 +1561,7 @@
             {
               "node_type": "item",
               "title": "esp-pacs",
-              "description": null,
+              "description": "esp-rs/esp-pacs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1570,7 +1570,7 @@
                 "id": 454514640,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T16:09:05Z",
+                "last_commit": "2026-10-02T11:54:42Z",
                 "open_issues": 14,
                 "owner": "esp-rs",
                 "repo": "esp-pacs",
@@ -1587,7 +1587,7 @@
             {
               "node_type": "item",
               "title": "esp-pacs",
-              "description": null,
+              "description": "esp-rs/esp-pacs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1596,7 +1596,7 @@
                 "id": 454514640,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T16:09:05Z",
+                "last_commit": "2026-10-02T11:54:42Z",
                 "open_issues": 14,
                 "owner": "esp-rs",
                 "repo": "esp-pacs",
@@ -1669,7 +1669,7 @@
             {
               "node_type": "item",
               "title": "xmc4300",
-              "description": null,
+              "description": "xmc-rs/xmc4300",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1697,7 +1697,7 @@
             {
               "node_type": "item",
               "title": "xmc4500",
-              "description": null,
+              "description": "xmc-rs/xmc4500",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1724,7 +1724,7 @@
             {
               "node_type": "item",
               "title": "xmc4700",
-              "description": null,
+              "description": "xmc-rs/xmc4700",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1752,7 +1752,7 @@
             {
               "node_type": "item",
               "title": "xmc4800",
-              "description": null,
+              "description": "xmc-rs/xmc4800",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1780,7 +1780,7 @@
             {
               "node_type": "item",
               "title": "xmc4200",
-              "description": null,
+              "description": "xmc-rs/xmc4200",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1807,7 +1807,7 @@
             {
               "node_type": "item",
               "title": "xmc4100",
-              "description": null,
+              "description": "xmc-rs/xmc4100",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1834,7 +1834,7 @@
             {
               "node_type": "item",
               "title": "xmc4400",
-              "description": null,
+              "description": "xmc-rs/xmc4400",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1869,7 +1869,7 @@
             {
               "node_type": "item",
               "title": "zynq7000-rs",
-              "description": null,
+              "description": "ustgt-irs/zynq7000-rs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1903,7 +1903,7 @@
             {
               "node_type": "item",
               "title": "vorago-rs",
-              "description": null,
+              "description": "ustgt-irs/vorago-rs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1913,7 +1913,7 @@
                 "language": "Rust",
                 "license": null,
                 "last_commit": "2026-09-28T12:17:18Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "ustgt-irs",
                 "repo": "vorago-rs",
                 "stars": 7,
@@ -1930,7 +1930,7 @@
             {
               "node_type": "item",
               "title": "vorago-rs",
-              "description": null,
+              "description": "ustgt-irs/vorago-rs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1940,7 +1940,7 @@
                 "language": "Rust",
                 "license": null,
                 "last_commit": "2026-09-28T12:17:18Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "ustgt-irs",
                 "repo": "vorago-rs",
                 "stars": 7,
@@ -2406,7 +2406,7 @@
             {
               "node_type": "item",
               "title": "stm32f1xx-hal",
-              "description": null,
+              "description": "stm32-rs/stm32f1xx-hal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2440,7 +2440,7 @@
             {
               "node_type": "item",
               "title": "embassy",
-              "description": null,
+              "description": "embassy-rs/embassy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2449,11 +2449,11 @@
                 "id": 297701481,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T05:27:26Z",
-                "open_issues": 619,
+                "last_commit": "2026-10-02T16:02:06Z",
+                "open_issues": 622,
                 "owner": "embassy-rs",
                 "repo": "embassy",
-                "stars": 9905,
+                "stars": 9908,
                 "topics": [
                   "async",
                   "drivers",
@@ -2468,7 +2468,7 @@
             {
               "node_type": "item",
               "title": "tm4c-hal",
-              "description": null,
+              "description": "rust-embedded-community/tm4c-hal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2496,7 +2496,7 @@
             {
               "node_type": "item",
               "title": "esp-hal",
-              "description": null,
+              "description": "esp-rs/esp-hal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2505,11 +2505,11 @@
                 "id": 429554022,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T07:24:31Z",
-                "open_issues": 264,
+                "last_commit": "2026-10-02T15:03:10Z",
+                "open_issues": 256,
                 "owner": "esp-rs",
                 "repo": "esp-hal",
-                "stars": 2130,
+                "stars": 2132,
                 "topics": [
                   "embedded",
                   "embedded-hal",
@@ -2522,7 +2522,7 @@
             {
               "node_type": "item",
               "title": "esp-idf",
-              "description": null,
+              "description": "esp-rs/esp-idf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2535,7 +2535,7 @@
                 "open_issues": 46,
                 "owner": "esp-rs",
                 "repo": "esp-idf",
-                "stars": 764,
+                "stars": 765,
                 "topics": [
                   "embedded",
                   "embedded-hal",
@@ -2556,7 +2556,7 @@
             {
               "node_type": "item",
               "title": "imtomu-rs",
-              "description": null,
+              "description": "fudanchii/imtomu-rs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2584,7 +2584,7 @@
             {
               "node_type": "item",
               "title": "xmc1100-hal",
-              "description": null,
+              "description": "david-sawatzke/xmc1100-hal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2605,7 +2605,7 @@
             {
               "node_type": "item",
               "title": "xmc4-hal",
-              "description": null,
+              "description": "xmc-rs/xmc4-hal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2638,7 +2638,7 @@
             {
               "node_type": "item",
               "title": "gd32vf103-hal",
-              "description": null,
+              "description": "gd32v-rust/gd32vf103-hal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2667,7 +2667,7 @@
             {
               "node_type": "item",
               "title": "gd32vf103xx-hal",
-              "description": null,
+              "description": "riscv-rust/gd32vf103xx-hal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2684,6 +2684,35 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
+            },
+            {
+              "node_type": "item",
+              "title": "gd32e2-hal",
+              "description": "Szizoid/gd32e2-hal",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Embedded Rust HAL for GD32E23x microcontrollers",
+                "homepage": "https://crates.io/crates/gd32e2-hal",
+                "id": 1293775363,
+                "language": "Rust",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-14T16:22:34Z",
+                "open_issues": 0,
+                "owner": "Szizoid",
+                "repo": "gd32e2-hal",
+                "stars": 2,
+                "topics": [
+                  "cortex-m",
+                  "embedded",
+                  "gd32",
+                  "gd32e230",
+                  "gd32e231",
+                  "gd32e23x",
+                  "rust"
+                ]
+              },
+              "first_seen": "2026-10-03T04:41:55.478Z"
             }
           ],
           "description": null,
@@ -2695,7 +2724,7 @@
             {
               "node_type": "item",
               "title": "vorago-rs",
-              "description": null,
+              "description": "ustgt-irs/vorago-rs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2705,7 +2734,7 @@
                 "language": "Rust",
                 "license": null,
                 "last_commit": "2026-09-28T12:17:18Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "ustgt-irs",
                 "repo": "vorago-rs",
                 "stars": 7,
@@ -2722,7 +2751,7 @@
             {
               "node_type": "item",
               "title": "vorago-rs",
-              "description": null,
+              "description": "ustgt-irs/vorago-rs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2732,7 +2761,7 @@
                 "language": "Rust",
                 "license": null,
                 "last_commit": "2026-09-28T12:17:18Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "ustgt-irs",
                 "repo": "vorago-rs",
                 "stars": 7,
@@ -2756,7 +2785,7 @@
             {
               "node_type": "item",
               "title": "zynq7000-rs",
-              "description": null,
+              "description": "ustgt-irs/zynq7000-rs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2869,7 +2898,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-19T10:34:32Z",
-                "open_issues": 18,
+                "open_issues": 20,
                 "owner": "rust-embedded",
                 "repo": "riscv",
                 "stars": 1129,
@@ -3727,7 +3756,7 @@
         {
           "node_type": "item",
           "title": "AnyLeaf - I2C - pH sensor module - github",
-          "description": null,
+          "description": "AnyLeaf/anyleaf-rust",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3748,7 +3777,7 @@
         {
           "node_type": "item",
           "title": "FH101RF - SPI - Wake-Up Radio - github",
-          "description": null,
+          "description": "trembel/fh101rf",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3769,7 +3798,7 @@
         {
           "node_type": "item",
           "title": "AHT20 - I2C - Humidity and temperature sensor - github",
-          "description": null,
+          "description": "fmckeogh/aht20",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -3790,7 +3819,7 @@
         {
           "node_type": "item",
           "title": "AEM10900 - I2C - Energy Harvester - github",
-          "description": null,
+          "description": "trembel/aem10900",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3811,7 +3840,7 @@
         {
           "node_type": "item",
           "title": "IS31FL3728 - I2C - LED dot matrix display mode (8×8, 5x11, 6x10,7x9) - github",
-          "description": null,
+          "description": "leonidv/is31fl3728-rs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3835,7 +3864,7 @@
         {
           "node_type": "item",
           "title": "epdsi - SPI - E-Paper Display driver framework (SSD1680/1681/1677, UC8253, JD79661, ED2208, Pervasive Displays) - examples",
-          "description": null,
+          "description": "melastmohican/rust-rpico2-discovery",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3873,11 +3902,11 @@
                 "id": 60667730,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-02T06:16:41Z",
-                "open_issues": 137,
+                "last_commit": "2026-10-02T18:20:05Z",
+                "open_issues": 142,
                 "owner": "lvgl",
                 "repo": "lvgl",
-                "stars": 24786,
+                "stars": 24785,
                 "topics": [
                   "arduino",
                   "c",
@@ -3926,8 +3955,8 @@
             "id": 75406961,
             "language": "Rust",
             "license": "0BSD",
-            "last_commit": "2026-08-18T13:17:47Z",
-            "open_issues": 111,
+            "last_commit": "2026-10-03T02:23:51Z",
+            "open_issues": 110,
             "owner": "smoltcp-rs",
             "repo": "smoltcp",
             "stars": 4611,
@@ -4035,7 +4064,7 @@
             "open_issues": 26,
             "owner": "ethercrab-rs",
             "repo": "ethercrab",
-            "stars": 444,
+            "stars": 445,
             "topics": [
               "ethercat",
               "ethercat-master",
@@ -4104,7 +4133,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T07:01:08Z",
-            "open_issues": 20,
+            "open_issues": 22,
             "owner": "embassy-rs",
             "repo": "embedded-tls",
             "stars": 246,
@@ -4601,11 +4630,11 @@
             "id": 688011037,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T02:48:17Z",
-            "open_issues": 72,
+            "last_commit": "2026-10-03T00:53:50Z",
+            "open_issues": 71,
             "owner": "rmk-rs",
             "repo": "rmk",
-            "stars": 1769,
+            "stars": 1771,
             "topics": [
               "cortex-m",
               "embedded",
@@ -4690,11 +4719,11 @@
             "id": 1266469959,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-25T22:08:50Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-02T22:48:26Z",
+            "open_issues": 18,
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 554,
+            "stars": 558,
             "topics": [
               "authenticator",
               "ccid",
@@ -5014,7 +5043,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:34:09.184Z",
+    "last_updated": "2026-10-03T04:41:55.478Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources for Embedded and Low-level development in the Rust programming language",
@@ -5022,11 +5051,11 @@
       "id": 127671976,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-09-11T09:02:06Z",
-      "open_issues": 17,
+      "last_commit": "2026-10-02T12:48:12Z",
+      "open_issues": 15,
       "owner": "rust-embedded",
       "repo": "awesome-embedded-rust",
-      "stars": 8122,
+      "stars": 8124,
       "topics": [
         "awesome",
         "awesome-list",
@@ -5036,7 +5065,7 @@
         "rust"
       ]
     },
-    "original_repository_sha": "f3f394a4d7c78413fae6b71287a4bad97bd5304b",
+    "original_repository_sha": "aa0f27b0021e967a2f1cf3f9109de9016b6ea899",
     "enhanced_repository": "enhansome/enhansome-embedded-rust",
     "enhanced_repository_description": null,
     "title": "Awesome Embedded Rust with stars"
