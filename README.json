@@ -203,7 +203,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-06T07:55:14Z",
-            "open_issues": 366,
+            "open_issues": 367,
             "owner": "probe-rs",
             "repo": "probe-rs",
             "stars": 2960,
@@ -2449,8 +2449,8 @@
                 "id": 297701481,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T04:23:51Z",
-                "open_issues": 615,
+                "last_commit": "2026-10-06T09:17:29Z",
+                "open_issues": 616,
                 "owner": "embassy-rs",
                 "repo": "embassy",
                 "stars": 9924,
@@ -3906,7 +3906,7 @@
                 "open_issues": 144,
                 "owner": "lvgl",
                 "repo": "lvgl",
-                "stars": 24797,
+                "stars": 24799,
                 "topics": [
                   "arduino",
                   "c",
@@ -5043,7 +5043,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T08:11:15.032Z",
+    "last_updated": "2026-10-06T10:15:37.512Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources for Embedded and Low-level development in the Rust programming language",
