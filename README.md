@@ -200,21 +200,21 @@ specifically endorsed or reviewed for accuracy or quality by the Embedded Workin
 
 ## Tools
 
-* [probe-rs](https://github.com/probe-rs/probe-rs) ⭐ 2,982 | 🐛 372 | 🌐 Rust | 📅 2026-10-23: a modern, embedded debugging toolkit, written in Rust
+* [probe-rs](https://github.com/probe-rs/probe-rs) ⭐ 2,984 | 🐛 371 | 🌐 Rust | 📅 2026-10-24: a modern, embedded debugging toolkit, written in Rust
 * [cargo-bloat](https://github.com/RazrFalcon/cargo-bloat) ⭐ 2,777 | 🐛 18 | 🌐 Rust | 📅 2024-05-10 Find out what takes most of the space in your executable.
-* [xargo](https://github.com/japaric/xargo) ⭐ 1,134 | 🐛 66 | 🌐 Rust | 📅 2023-05-02 Rust package manager with support for non-default std libraries — build Rust runtime for your embedded system.
+* [xargo](https://github.com/japaric/xargo) ⭐ 1,135 | 🐛 66 | 🌐 Rust | 📅 2023-05-02 Rust package manager with support for non-default std libraries — build Rust runtime for your embedded system.
   * xargo is great, but since it's in maintenance mode, [cargo-xbuild](https://github.com/rust-osdev/cargo-xbuild) ⭐ 266 | 🐛 15 | 🌐 Rust | 📅 2025-12-05 is catching up as its intended replacement.
-* [svd2rust](https://github.com/japaric/svd2rust) ⭐ 863 | 🐛 71 | 🌐 Rust | 📅 2026-08-23 Generate Rust structs with register mappings from SVD files.
-* [espflash](https://github.com/esp-rs/espflash) ⭐ 749 | 🐛 36 | 🌐 Rust | 📅 2026-10-23 Serial flasher utility for Espressif SoCs and modules. - [![crates.io](https://img.shields.io/crates/v/espflash.svg)](https://crates.io/crates/espflash)
+* [svd2rust](https://github.com/japaric/svd2rust) ⭐ 864 | 🐛 71 | 🌐 Rust | 📅 2026-08-23 Generate Rust structs with register mappings from SVD files.
+* [espflash](https://github.com/esp-rs/espflash) ⭐ 750 | 🐛 36 | 🌐 Rust | 📅 2026-10-23 Serial flasher utility for Espressif SoCs and modules. - [![crates.io](https://img.shields.io/crates/v/espflash.svg)](https://crates.io/crates/espflash)
 * [espup](https://github.com/esp-rs/espup) ⭐ 463 | 🐛 17 | 🌐 Rust | 📅 2026-10-21 Tool for installing and maintaining Espressif Rust ecosystem. - [![crates.io](https://img.shields.io/crates/v/espup.svg)](https://crates.io/crates/espup)
 * [embedded-test](https://github.com/probe-rs/embedded-test) ⭐ 196 | 🐛 12 | 🌐 Rust | 📅 2026-08-07: A versatile test harness for embedded devices, supporting unit tests, integration tests, async tests, and more.
 * [ferros](https://github.com/auxoncorp/ferros) ⭐ 121 | 🐛 26 | 🌐 Rust | 📅 2023-07-25 A Rust-based userland which also adds compile-time assurances to seL4 development.
 * [bobbin-cli](https://github.com/bobbin-rs/bobbin-cli) ⭐ 115 | 🐛 8 | 🌐 Rust | 📅 2020-01-12 A Rust command line tool to simplify embedded development and deployment.
-* [scope](https://github.com/matheuswhite/scope-rs) ⭐ 72 | 🐛 14 | 🌐 Rust | 📅 2026-10-16 Cross-platform serial-monitor TUI with an RTT interface (via `probe-rs`), hex/`@tag` input macros, search, session recording, and Lua plugins. - [![crates.io](https://img.shields.io/crates/v/scope-monitor.svg)](https://crates.io/crates/scope-monitor)
+* [scope](https://github.com/matheuswhite/scope-rs) ⭐ 72 | 🐛 15 | 🌐 Rust | 📅 2026-10-16 Cross-platform serial-monitor TUI with an RTT interface (via `probe-rs`), hex/`@tag` input macros, search, session recording, and Lua plugins. - [![crates.io](https://img.shields.io/crates/v/scope-monitor.svg)](https://crates.io/crates/scope-monitor)
 * [cargo-hf2](https://github.com/jacobrosenthal/hf2-rs) ⭐ 55 | 🐛 13 | 🌐 Rust | 📅 2023-09-27  A small cargo subcommand to download cargo builds to Microsoft UF2 bootloaders via HID USB . - [![crates.io](https://img.shields.io/crates/v/cargo-hf2.svg)](https://crates.io/crates/cargo-hf2)
-* [npnp](https://github.com/ref42/npnp) ⭐ 39 | 🐛 1 | 🌐 Rust | 📅 2026-10-20 CLI tool for batch-exporting LCSC/EasyEDA components to KiCad and Altium Designer libraries.
+* [npnp](https://github.com/ref42/npnp) ⭐ 39 | 🐛 1 | 🌐 Rust | 📅 2026-10-25 CLI tool for batch-exporting LCSC/EasyEDA components to KiCad and Altium Designer libraries.
 * [uf2](https://github.com/sajattack/uf2conv-rs) ⭐ 33 | 🐛 0 | 🌐 Rust | 📅 2021-12-17 Converts binary files to Microsoft's UF2 format for copying over to mass storage device uf2 bootloaders - [![crates.io](https://img.shields.io/crates/v/uf2.svg)](https://crates.io/crates/uf2)
-* [Embassy start](https://github.com/titanclass/embassy-start) ⭐ 27 | 🐛 0 | 🌐 Rust | 📅 2023-04-23 is a GitHub repo template for setting up async embedded Rust projects that use [Embassy](https://github.com/embassy-rs/embassy) ⭐ 10,001 | 🐛 580 | 🌐 Rust | 📅 2026-10-24. This particular template targets nRF hardware and networking using the Uarte for the purposes of illustration only.
+* [Embassy start](https://github.com/titanclass/embassy-start) ⭐ 27 | 🐛 0 | 🌐 Rust | 📅 2023-04-23 is a GitHub repo template for setting up async embedded Rust projects that use [Embassy](https://github.com/embassy-rs/embassy) ⭐ 10,007 | 🐛 581 | 🌐 Rust | 📅 2026-10-25. This particular template targets nRF hardware and networking using the Uarte for the purposes of illustration only.
 * [commitment-issues](https://github.com/dysonltd/commitment-issues) ⭐ 20 | 🐛 12 | 🌐 Rust | 📅 2026-03-02 Compile git metadata into your binary.
 * [embedded-hal-compat](https://github.com/ryankurte/embedded-hal-compat) ⭐ 19 | 🐛 3 | 🌐 Rust | 📅 2026-05-13, a compatibility layer to provide interoperability between `v0.2.x` and `v1.x.x` hal implementations and drivers
 * [edc2svd](https://github.com/kiffie/edc2svd) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2023-10-02 Generate SVD files for PIC32 devices from EDC files. - [![crates.io](https://img.shields.io/crates/v/edc2svd.svg)](https://crates.io/crates/edc2svd)
@@ -230,7 +230,7 @@ specifically endorsed or reviewed for accuracy or quality by the Embedded Workin
 * [Knurling Tools](https://knurling.ferrous-systems.com/tools/) are developed by [Ferrous Systems] to ease the development process for building, debugging, and testing embedded Rust systems. These tools include:
   * [defmt](https://github.com/knurling-rs/defmt) ⭐ 1,240 | 🐛 123 | 🌐 Rust | 📅 2026-10-18: a highly efficient logging framework that targets resource-constrained devices, like microcontrollers.
   * [app-template](https://github.com/knurling-rs/app-template) ⭐ 480 | 🐛 5 | 🌐 Rust | 📅 2025-08-19, a `cargo-generate` powered project template for quickly setting up new projects using the Knurling Tools.
-  * [flip-link](https://github.com/knurling-rs/flip-link) ⭐ 447 | 🐛 15 | 🌐 Rust | 📅 2026-10-15, a linker wrapper that provides stack overflow protection without an MMU by flipping the standard memory layout of ARM Cortex-M programs
+  * [flip-link](https://github.com/knurling-rs/flip-link) ⭐ 448 | 🐛 15 | 🌐 Rust | 📅 2026-10-15, a linker wrapper that provides stack overflow protection without an MMU by flipping the standard memory layout of ARM Cortex-M programs
   * [derive-mmio](https://github.com/knurling-rs/derive-mmio) ⭐ 25 | 🐛 3 | 🌐 Rust | 📅 2026-10-14: Creating MMIO-friendly APIs for embedded peripherals.
   * [defmt-test](https://github.com/knurling-rs/defmt-test) ⚠️ Archived, an embedded test harness that lets you write and run unit tests as if you were using the built-in `#[test]` attribute, but will run on an embedded target
 * [svd-generator](https://codeberg.org/weathered-steel/svd-generator) CLI tool to parse flattened device tree files, and create a SVD file. - [![crates.io](https://img.shields.io/crates/v/svd-generator.svg)](https://crates.io/crates/svd-generator)
@@ -241,7 +241,7 @@ specifically endorsed or reviewed for accuracy or quality by the Embedded Workin
 
 ### Real-time Operating System (RTOS)
 
-* [Hubris](https://github.com/oxidecomputer/hubris) ⭐ 3,638 | 🐛 364 | 🌐 Rust | 📅 2026-10-23 A real-time operating system built by Oxide Computer to run the Service Controller processor in the mainboards of their rack-mount servers.
+* [Hubris](https://github.com/oxidecomputer/hubris) ⭐ 3,639 | 🐛 365 | 🌐 Rust | 📅 2026-10-24 A real-time operating system built by Oxide Computer to run the Service Controller processor in the mainboards of their rack-mount servers.
 * [FreeRTOS-rust](https://github.com/lobaro/FreeRTOS-rust) ⭐ 485 | 🐛 11 | 🌐 Rust | 📅 2025-12-18 Rust interface for FreeRTOS with Rust entry point and build support crate.
 * [FreeRTOS.rs](https://github.com/hashmismatch/freertos.rs) ⭐ 245 | 🐛 10 | 🌐 C | 📅 2020-11-12 Rust interface for the FreeRTOS API
 * [Drone OS](https://drone-os.github.io) An Embedded Operating System for writing real-time applications in Rust.
@@ -355,7 +355,7 @@ The [`efm32-rs`](https://github.com/efm32-rs) project has peripheral access APIs
 
 ### STMicroelectronics
 
-The [`stm32-rs`](https://github.com/stm32-rs/stm32-rs) ⭐ 1,670 | 🐛 60 | 🌐 Python | 📅 2026-09-16 project has peripheral access APIs for most STM32 microcontrollers (generated using svd2rust):
+The [`stm32-rs`](https://github.com/stm32-rs/stm32-rs) ⭐ 1,671 | 🐛 60 | 🌐 Python | 📅 2026-09-16 project has peripheral access APIs for most STM32 microcontrollers (generated using svd2rust):
 
 * [`stm32f0`](https://crates.io/crates/stm32f0) - [![crates.io](https://img.shields.io/crates/v/stm32f0.svg)](https://crates.io/crates/stm32f0)
 * [`stm32f1`](https://crates.io/crates/stm32f1) - [![crates.io](https://img.shields.io/crates/v/stm32f1.svg)](https://crates.io/crates/stm32f1)
@@ -440,22 +440,22 @@ Peripheral access crates for the different XMC4xxx families of microcontrollers
 
 ### Renesas
 
-* [`ra2a1`](https://github.com/ra-rs/ra/tree/main/pac/ra2a1) ⭐ 24 | 🐛 9 | 🌐 Rust | 📅 2025-04-20 Peripheral Access Crate for ra2a1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra2a1.svg)](https://crates.io/crates/ra2a1)
-* [`ra2e1`](https://github.com/ra-rs/ra/tree/main/pac/ra2e1) ⭐ 24 | 🐛 9 | 🌐 Rust | 📅 2025-04-20 Peripheral Access Crate for ra2e1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra2e1.svg)](https://crates.io/crates/ra2e1)
-* [`ra2e2`](https://github.com/ra-rs/ra/tree/main/pac/ra2e2) ⭐ 24 | 🐛 9 | 🌐 Rust | 📅 2025-04-20 Peripheral Access Crate for ra2e2 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra2e2.svg)](https://crates.io/crates/ra2e2)
-* [`ra2l1`](https://github.com/ra-rs/ra/tree/main/pac/ra2l1) ⭐ 24 | 🐛 9 | 🌐 Rust | 📅 2025-04-20 Peripheral Access Crate for ra2l1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra2l1.svg)](https://crates.io/crates/ra2l1)
-* [`ra4e1`](https://github.com/ra-rs/ra/tree/main/pac/ra4e1) ⭐ 24 | 🐛 9 | 🌐 Rust | 📅 2025-04-20 Peripheral Access Crate for ra4e1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra4e1.svg)](https://crates.io/crates/ra4e1)
-* [`ra4m1`](https://github.com/ra-rs/ra/tree/main/pac/ra4m1) ⭐ 24 | 🐛 9 | 🌐 Rust | 📅 2025-04-20 Peripheral Access Crate for ra4m1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra4m1.svg)](https://crates.io/crates/ra4m1)
-* [`ra4m2`](https://github.com/ra-rs/ra/tree/main/pac/ra4m2) ⭐ 24 | 🐛 9 | 🌐 Rust | 📅 2025-04-20 Peripheral Access Crate for ra4m2 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra4m2.svg)](https://crates.io/crates/ra4m2)
-* [`ra4m3`](https://github.com/ra-rs/ra/tree/main/pac/ra4m3) ⭐ 24 | 🐛 9 | 🌐 Rust | 📅 2025-04-20 Peripheral Access Crate for ra4m3 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra4m3.svg)](https://crates.io/crates/ra4m3)
-* [`ra4w1`](https://github.com/ra-rs/ra/tree/main/pac/ra4w1) ⭐ 24 | 🐛 9 | 🌐 Rust | 📅 2025-04-20 Peripheral Access Crate for ra4w1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra4w1.svg)](https://crates.io/crates/ra4w1)
-* [`ra6e1`](https://github.com/ra-rs/ra/tree/main/pac/ra6e1) ⭐ 24 | 🐛 9 | 🌐 Rust | 📅 2025-04-20 Peripheral Access Crate for ra6e1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra6e1.svg)](https://crates.io/crates/ra6e1)
-* [`ra6m1`](https://github.com/ra-rs/ra/tree/main/pac/ra6m1) ⭐ 24 | 🐛 9 | 🌐 Rust | 📅 2025-04-20 Peripheral Access Crate for ra6m1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra6m1.svg)](https://crates.io/crates/ra6m1)
-* [`ra6m2`](https://github.com/ra-rs/ra/tree/main/pac/ra6m2) ⭐ 24 | 🐛 9 | 🌐 Rust | 📅 2025-04-20 Peripheral Access Crate for ra6m2 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra6m2.svg)](https://crates.io/crates/ra6m2)
-* [`ra6m3`](https://github.com/ra-rs/ra/tree/main/pac/ra6m3) ⭐ 24 | 🐛 9 | 🌐 Rust | 📅 2025-04-20 Peripheral Access Crate for ra6m3 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra6m3.svg)](https://crates.io/crates/ra6m3)
-* [`ra6m4`](https://github.com/ra-rs/ra/tree/main/pac/ra6m4) ⭐ 24 | 🐛 9 | 🌐 Rust | 📅 2025-04-20 Peripheral Access Crate for ra6m4 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra6m4.svg)](https://crates.io/crates/ra6m4)
-* [`ra6t1`](https://github.com/ra-rs/ra/tree/main/pac/ra6t1) ⭐ 24 | 🐛 9 | 🌐 Rust | 📅 2025-04-20 Peripheral Access Crate for ra6t1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra6t1.svg)](https://crates.io/crates/ra6t1)
-* [`ra6t2`](https://github.com/ra-rs/ra/tree/main/pac/ra6t2) ⭐ 24 | 🐛 9 | 🌐 Rust | 📅 2025-04-20 Peripheral Access Crate for ra6t2 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra6t2.svg)](https://crates.io/crates/ra6t2)
+* [`ra2a1`](https://github.com/ra-rs/ra/tree/main/pac/ra2a1) ⭐ 25 | 🐛 9 | 🌐 Rust | 📅 2025-04-20 Peripheral Access Crate for ra2a1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra2a1.svg)](https://crates.io/crates/ra2a1)
+* [`ra2e1`](https://github.com/ra-rs/ra/tree/main/pac/ra2e1) ⭐ 25 | 🐛 9 | 🌐 Rust | 📅 2025-04-20 Peripheral Access Crate for ra2e1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra2e1.svg)](https://crates.io/crates/ra2e1)
+* [`ra2e2`](https://github.com/ra-rs/ra/tree/main/pac/ra2e2) ⭐ 25 | 🐛 9 | 🌐 Rust | 📅 2025-04-20 Peripheral Access Crate for ra2e2 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra2e2.svg)](https://crates.io/crates/ra2e2)
+* [`ra2l1`](https://github.com/ra-rs/ra/tree/main/pac/ra2l1) ⭐ 25 | 🐛 9 | 🌐 Rust | 📅 2025-04-20 Peripheral Access Crate for ra2l1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra2l1.svg)](https://crates.io/crates/ra2l1)
+* [`ra4e1`](https://github.com/ra-rs/ra/tree/main/pac/ra4e1) ⭐ 25 | 🐛 9 | 🌐 Rust | 📅 2025-04-20 Peripheral Access Crate for ra4e1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra4e1.svg)](https://crates.io/crates/ra4e1)
+* [`ra4m1`](https://github.com/ra-rs/ra/tree/main/pac/ra4m1) ⭐ 25 | 🐛 9 | 🌐 Rust | 📅 2025-04-20 Peripheral Access Crate for ra4m1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra4m1.svg)](https://crates.io/crates/ra4m1)
+* [`ra4m2`](https://github.com/ra-rs/ra/tree/main/pac/ra4m2) ⭐ 25 | 🐛 9 | 🌐 Rust | 📅 2025-04-20 Peripheral Access Crate for ra4m2 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra4m2.svg)](https://crates.io/crates/ra4m2)
+* [`ra4m3`](https://github.com/ra-rs/ra/tree/main/pac/ra4m3) ⭐ 25 | 🐛 9 | 🌐 Rust | 📅 2025-04-20 Peripheral Access Crate for ra4m3 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra4m3.svg)](https://crates.io/crates/ra4m3)
+* [`ra4w1`](https://github.com/ra-rs/ra/tree/main/pac/ra4w1) ⭐ 25 | 🐛 9 | 🌐 Rust | 📅 2025-04-20 Peripheral Access Crate for ra4w1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra4w1.svg)](https://crates.io/crates/ra4w1)
+* [`ra6e1`](https://github.com/ra-rs/ra/tree/main/pac/ra6e1) ⭐ 25 | 🐛 9 | 🌐 Rust | 📅 2025-04-20 Peripheral Access Crate for ra6e1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra6e1.svg)](https://crates.io/crates/ra6e1)
+* [`ra6m1`](https://github.com/ra-rs/ra/tree/main/pac/ra6m1) ⭐ 25 | 🐛 9 | 🌐 Rust | 📅 2025-04-20 Peripheral Access Crate for ra6m1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra6m1.svg)](https://crates.io/crates/ra6m1)
+* [`ra6m2`](https://github.com/ra-rs/ra/tree/main/pac/ra6m2) ⭐ 25 | 🐛 9 | 🌐 Rust | 📅 2025-04-20 Peripheral Access Crate for ra6m2 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra6m2.svg)](https://crates.io/crates/ra6m2)
+* [`ra6m3`](https://github.com/ra-rs/ra/tree/main/pac/ra6m3) ⭐ 25 | 🐛 9 | 🌐 Rust | 📅 2025-04-20 Peripheral Access Crate for ra6m3 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra6m3.svg)](https://crates.io/crates/ra6m3)
+* [`ra6m4`](https://github.com/ra-rs/ra/tree/main/pac/ra6m4) ⭐ 25 | 🐛 9 | 🌐 Rust | 📅 2025-04-20 Peripheral Access Crate for ra6m4 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra6m4.svg)](https://crates.io/crates/ra6m4)
+* [`ra6t1`](https://github.com/ra-rs/ra/tree/main/pac/ra6t1) ⭐ 25 | 🐛 9 | 🌐 Rust | 📅 2025-04-20 Peripheral Access Crate for ra6t1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra6t1.svg)](https://crates.io/crates/ra6t1)
+* [`ra6t2`](https://github.com/ra-rs/ra/tree/main/pac/ra6t2) ⭐ 25 | 🐛 9 | 🌐 Rust | 📅 2025-04-20 Peripheral Access Crate for ra6t2 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra6t2.svg)](https://crates.io/crates/ra6t2)
 * [`da14531`](https://crates.io/crates/da14531) Peripheral Access Crate for DA14531 Ultra-Low Power BT 5.1 System-on-Chip - [![crates.io](https://img.shields.io/crates/v/da14531.svg)](https://crates.io/crates/da14531)
 
 ## HAL implementation crates
@@ -563,7 +563,7 @@ Also check the list of [STMicroelectronics board support crates][stm-bsc]!
 
 ### Texas Instruments
 
-* [`embassy-mspm0`](https://github.com/embassy-rs/embassy/tree/main/embassy-mspm0) ⭐ 10,001 | 🐛 580 | 🌐 Rust | 📅 2026-10-24
+* [`embassy-mspm0`](https://github.com/embassy-rs/embassy/tree/main/embassy-mspm0) ⭐ 10,007 | 🐛 581 | 🌐 Rust | 📅 2026-10-25
   * Embassy HAL implementation for all MSPM0 (and MSPS003) microcontrollers.
 * [`tm4c123x-hal`](https://github.com/rust-embedded-community/tm4c-hal/) ⭐ 45 | 🐛 12 | 🌐 Rust | 📅 2024-03-15
 
@@ -574,9 +574,9 @@ Also check the list of [STMicroelectronics board support crates][stm-bsc]!
 
 ### Espressif
 
-* [`esp-hal`](https://github.com/esp-rs/esp-hal) ⭐ 2,163 | 🐛 249 | 🌐 Rust | 📅 2026-10-23 - [![crates.io](https://img.shields.io/crates/v/esp-hal.svg)](https://crates.io/crates/esp-hal)
+* [`esp-hal`](https://github.com/esp-rs/esp-hal) ⭐ 2,162 | 🐛 251 | 🌐 Rust | 📅 2026-10-23 - [![crates.io](https://img.shields.io/crates/v/esp-hal.svg)](https://crates.io/crates/esp-hal)
   * A `no_std` Hardware Abstraction Layer for Espressif microcontrollers, officially supported by Espressif
-* [`esp-idf-hal`](https://github.com/esp-rs/esp-idf-hal) ⭐ 779 | 🐛 42 | 🌐 Rust | 📅 2026-10-24 - [![crates.io](https://img.shields.io/crates/v/esp-idf-hal.svg)](https://crates.io/crates/esp-idf-hal)
+* [`esp-idf-hal`](https://github.com/esp-rs/esp-idf-hal) ⭐ 779 | 🐛 41 | 🌐 Rust | 📅 2026-10-24 - [![crates.io](https://img.shields.io/crates/v/esp-idf-hal.svg)](https://crates.io/crates/esp-idf-hal)
   * A `std` embedded-hal implementation for Espressif microcontrollers built on top of ESP-IDF, fully supported by the community
 
 ### Silicon Labs
@@ -629,7 +629,7 @@ Crates tailored for general CPU architectures.
 
 ### ARM
 
-* [`cortex-m`](https://github.com/japaric/cortex-m) ⭐ 1,011 | 🐛 110 | 🌐 Rust | 📅 2026-10-22 Low-level access to Cortex-M processors - [![crates.io](https://img.shields.io/crates/v/cortex-m.svg)](https://crates.io/crates/cortex-m)
+* [`cortex-m`](https://github.com/japaric/cortex-m) ⭐ 1,010 | 🐛 110 | 🌐 Rust | 📅 2026-10-22 Low-level access to Cortex-M processors - [![crates.io](https://img.shields.io/crates/v/cortex-m.svg)](https://crates.io/crates/cortex-m)
 * [`cortex-a`](https://github.com/andre-richter/cortex-a) ⚠️ Archived Low-level access to Cortex-A processors (early state) - [![crates.io](https://img.shields.io/crates/v/cortex-a.svg)](https://crates.io/crates/cortex-a)
 
 ### RISC-V
@@ -1311,7 +1311,7 @@ keyword on crates.io!
 
 Work in progress drivers. Help the authors make these crates awesome!
 
-1. [lvgl] - no\_std [LittleVGL](https://github.com/littlevgl/lvgl) ⭐ 24,996 | 🐛 167 | 🌐 C | 📅 2026-10-22 port - [![crates.io](https://img.shields.io/crates/v/lvgl.svg)](https://crates.io/crates/lvgl)
+1. [lvgl] - no\_std [LittleVGL](https://github.com/littlevgl/lvgl) ⭐ 25,002 | 🐛 172 | 🌐 C | 📅 2026-10-22 port - [![crates.io](https://img.shields.io/crates/v/lvgl.svg)](https://crates.io/crates/lvgl)
 2. [AD9850] - Embedded driver for the AD9850 DDS synthesizer chip - [![crates.io](https://img.shields.io/crates/v/ad9850.svg)](https://crates.io/crates/ad9850)
 3. [AFE4400] - SPI - Pulse oximeter
 4. [APDS9960] - I2C - Proximity, ambient light, RGB, and gesture sensor - [![crates.io](https://img.shields.io/crates/v/apds9960.svg)](https://crates.io/crates/apds9960)
@@ -1631,9 +1631,9 @@ Work in progress drivers. Help the authors make these crates awesome!
 
 1. [smoltcp](https://github.com/m-labs/smoltcp) ⭐ 4,630 | 🐛 118 | 🌐 Rust | 📅 2026-10-23: a small TCP/IP stack that runs without `alloc`. [![crates.io](https://img.shields.io/crates/v/smoltcp.svg)](https://crates.io/crates/smoltcp)
 2. [micromath](https://github.com/NeoBirth/micromath) ⭐ 490 | 🐛 8 | 🌐 Rust | 📅 2024-09-07: Embedded Rust math library featuring fast, safe floating point approximations for common arithmetic operations, 2D and 3D vector types, and statistical analysis - [![crates.io](https://img.shields.io/crates/v/micromath.svg)](https://crates.io/crates/micromath)
-3. [lorawan-encoding](https://github.com/lora-rs/lora-rs/tree/main/lorawan-encoding) ⭐ 475 | 🐛 31 | 🌐 Rust | 📅 2026-10-21: A LoRaWAN packet codec.
-4. [lorawan-device](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device) ⭐ 475 | 🐛 31 | 🌐 Rust | 📅 2026-10-21: A LoRaWAN MAC implementation supporting both event-driven and async mode.
-5. [ethercrab](https://github.com/ethercrab-rs/ethercrab) ⭐ 458 | 🐛 27 | 🌐 Rust | 📅 2026-09-27: A Rust implementation of the [EtherCAT](https://ethercat.org) industrial automation protocol - [![crates.io](https://img.shields.io/crates/v/ethercrab.svg)](https://crates.io/crates/ethercrab)
+3. [lorawan-encoding](https://github.com/lora-rs/lora-rs/tree/main/lorawan-encoding) ⭐ 476 | 🐛 31 | 🌐 Rust | 📅 2026-10-21: A LoRaWAN packet codec.
+4. [lorawan-device](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device) ⭐ 476 | 🐛 31 | 🌐 Rust | 📅 2026-10-21: A LoRaWAN MAC implementation supporting both event-driven and async mode.
+5. [ethercrab](https://github.com/ethercrab-rs/ethercrab) ⭐ 459 | 🐛 27 | 🌐 Rust | 📅 2026-09-27: A Rust implementation of the [EtherCAT](https://ethercat.org) industrial automation protocol - [![crates.io](https://img.shields.io/crates/v/ethercrab.svg)](https://crates.io/crates/ethercrab)
 6. [wtx](https://github.com/c410-f3r/wtx) ⭐ 405 | 🐛 5 | 🌐 Rust | 📅 2026-10-23: Among other things, provides implementations to interact with HTTP, WebSockets and Databases.
 7. [embedded-tls](https://github.com/drogue-iot/embedded-tls) ⭐ 247 | 🐛 23 | 🌐 Rust | 📅 2026-10-23: A TLS 1.3 implementation that runs in a no-std environment.
 8. [drogue-device](https://github.com/drogue-iot/drogue-device) ⭐ 205 | 🐛 21 | 🌐 Rust | 📅 2023-10-06: A distribution of tools and examples for building embedded applications in Rust.
@@ -1809,10 +1809,10 @@ There are many ways to handle panics in embedded devices, these crates provide h
 
 ## Firmware projects
 
-* [oreboot](https://github.com/oreboot/oreboot) ⭐ 1,800 | 🐛 64 | 🌐 Rust | 📅 2026-07-13: platform initialization firmware (first code to run) to bring up application processors, a fork of coreboot with no C, all written in Rust, leveraging Rust Embedded traits and crates
-* [rmk](https://github.com/HaoboGu/rmk) ⭐ 1,787 | 🐛 109 | 🌐 Rust | 📅 2026-10-24: Mechanical keyboard firmware for stm32/rp2040, supports vial/dynamic keymap/eeprom, written in Rust
+* [oreboot](https://github.com/oreboot/oreboot) ⭐ 1,801 | 🐛 64 | 🌐 Rust | 📅 2026-07-13: platform initialization firmware (first code to run) to bring up application processors, a fork of coreboot with no C, all written in Rust, leveraging Rust Embedded traits and crates
+* [rmk](https://github.com/HaoboGu/rmk) ⭐ 1,789 | 🐛 115 | 🌐 Rust | 📅 2026-10-24: Mechanical keyboard firmware for stm32/rp2040, supports vial/dynamic keymap/eeprom, written in Rust
 * [μLA](https://github.com/dotcypress/ula) ⭐ 948 | 🐛 14 | 🌐 Rust | 📅 2025-02-10: Micro Logic Analyzer for RP2040
-* [🤖 RS-Key](https://github.com/TheMaxMur/RS-Key) ⭐ 627 | 🐛 20 | 🌐 Rust | 📅 2026-10-23: no\_std FIDO2/WebAuthn + U2F security-key firmware for the RP2350, built on embassy; also implements OpenPGP, PIV and OATH.
+* [🤖 RS-Key](https://github.com/TheMaxMur/RS-Key) ⭐ 629 | 🐛 20 | 🌐 Rust | 📅 2026-10-23: no\_std FIDO2/WebAuthn + U2F security-key firmware for the RP2350, built on embassy; also implements OpenPGP, PIV and OATH.
 * [anne-key](https://github.com/ah-/anne-key) ⭐ 572 | 🐛 25 | 🌐 Rust | 📅 2020-07-30: Alternate keyboard firmware for the Obins ANNE Pro
 * [prinThor](https://github.com/cbruiz/printhor) ⭐ 231 | 🐛 1 | 🌐 Rust | 📅 2025-03-28: 3DPrinter/CNC/Engraver firmware framework powered by rust embassy for stm32 families and rp2040.
 * [Stabilizer](https://github.com/quartiq/stabilizer) ⭐ 147 | 🐛 19 | 🌐 Rust | 📅 2026-08-20: Firmware for a DSP tool used in quantum physics experimentation, includes telemetry via MQTT and run-time configuration
@@ -1859,4 +1859,4 @@ to intervene to uphold that code of conduct.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
