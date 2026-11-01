@@ -21,7 +21,7 @@
                 "open_issues": 24,
                 "owner": "rust-embedded",
                 "repo": "rust-raspberrypi-OS-tutorials",
-                "stars": 14744,
+                "stars": 14743,
                 "topics": [
                   "aarch64",
                   "arm64",
@@ -80,7 +80,7 @@
                 "open_issues": 1,
                 "owner": "ImplFerris",
                 "repo": "esp32-book",
-                "stars": 223,
+                "stars": 224,
                 "topics": [
                   "embedded",
                   "embedded-rust",
@@ -113,7 +113,7 @@
                 "open_issues": 2,
                 "owner": "ImplFerris",
                 "repo": "pico-pico",
-                "stars": 171,
+                "stars": 173,
                 "topics": [
                   "embedded",
                   "embedded-systems",
@@ -202,11 +202,11 @@
             "id": 170021740,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T23:19:38Z",
-            "open_issues": 374,
+            "last_commit": "2026-10-31T23:35:57Z",
+            "open_issues": 370,
             "owner": "probe-rs",
             "repo": "probe-rs",
-            "stars": 2990,
+            "stars": 2991,
             "topics": [
               "arm",
               "arm-cores",
@@ -764,7 +764,7 @@
                 "open_issues": 5,
                 "owner": "knurling-rs",
                 "repo": "app-template",
-                "stars": 480,
+                "stars": 481,
                 "topics": [
                   "embedded-rust",
                   "ferrous-systems"
@@ -873,7 +873,7 @@
                 "open_issues": 362,
                 "owner": "oxidecomputer",
                 "repo": "hubris",
-                "stars": 3644,
+                "stars": 3645,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
@@ -959,7 +959,7 @@
                     "open_issues": 59,
                     "owner": "rtic-rs",
                     "repo": "rtic",
-                    "stars": 2429,
+                    "stars": 2428,
                     "topics": [
                       "arm",
                       "bare-metal",
@@ -2362,7 +2362,7 @@
                 "open_issues": 133,
                 "owner": "Rahix",
                 "repo": "avr-hal",
-                "stars": 1651,
+                "stars": 1652,
                 "topics": [
                   "arduino",
                   "avr",
@@ -2455,7 +2455,7 @@
                 "open_issues": 74,
                 "owner": "stm32-rs",
                 "repo": "stm32f1xx-hal",
-                "stars": 664,
+                "stars": 665,
                 "topics": [
                   "embedded",
                   "hacktoberfest",
@@ -2486,10 +2486,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-31T06:15:45Z",
-                "open_issues": 589,
+                "open_issues": 591,
                 "owner": "embassy-rs",
                 "repo": "embassy",
-                "stars": 10054,
+                "stars": 10055,
                 "topics": [
                   "async",
                   "drivers",
@@ -3138,7 +3138,7 @@
                 "open_issues": 133,
                 "owner": "Rahix",
                 "repo": "avr-hal",
-                "stars": 1651,
+                "stars": 1652,
                 "topics": [
                   "arduino",
                   "avr",
@@ -3939,10 +3939,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-10-30T20:39:49Z",
-                "open_issues": 169,
+                "open_issues": 170,
                 "owner": "lvgl",
                 "repo": "lvgl",
-                "stars": 25060,
+                "stars": 25065,
                 "topics": [
                   "arduino",
                   "c",
@@ -3995,7 +3995,7 @@
             "open_issues": 129,
             "owner": "smoltcp-rs",
             "repo": "smoltcp",
-            "stars": 4637,
+            "stars": 4638,
             "topics": [
               "embedded",
               "networking-stack"
@@ -4016,7 +4016,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2024-09-07T13:13:53Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "tarcieri",
             "repo": "micromath",
             "stars": 490,
@@ -4037,7 +4037,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-30T15:56:12Z",
-            "open_issues": 35,
+            "open_issues": 36,
             "owner": "lora-rs",
             "repo": "lora-rs",
             "stars": 477,
@@ -4067,7 +4067,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-30T15:56:12Z",
-            "open_issues": 35,
+            "open_issues": 36,
             "owner": "lora-rs",
             "repo": "lora-rs",
             "stars": 477,
@@ -4696,8 +4696,8 @@
             "id": 688011037,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T01:47:26Z",
-            "open_issues": 103,
+            "last_commit": "2026-11-01T04:10:56Z",
+            "open_issues": 107,
             "owner": "rmk-rs",
             "repo": "rmk",
             "stars": 1794,
@@ -4761,7 +4761,7 @@
             "open_issues": 24,
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 646,
+            "stars": 647,
             "topics": [
               "authenticator",
               "ccid",
@@ -5109,7 +5109,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T07:34:19.744Z",
+    "last_updated": "2026-11-01T08:13:52.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources for Embedded and Low-level development in the Rust programming language",
@@ -5118,10 +5118,10 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-10-27T09:25:54Z",
-      "open_issues": 15,
+      "open_issues": 16,
       "owner": "rust-embedded",
       "repo": "awesome-embedded-rust",
-      "stars": 8170,
+      "stars": 8172,
       "topics": [
         "awesome",
         "awesome-list",
