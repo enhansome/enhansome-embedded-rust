@@ -21,7 +21,7 @@
                 "open_issues": 24,
                 "owner": "rust-embedded",
                 "repo": "rust-raspberrypi-OS-tutorials",
-                "stars": 14749,
+                "stars": 14748,
                 "topics": [
                   "aarch64",
                   "arm64",
@@ -202,11 +202,11 @@
             "id": 170021740,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T08:23:19Z",
-            "open_issues": 368,
+            "last_commit": "2026-11-10T20:59:24Z",
+            "open_issues": 379,
             "owner": "probe-rs",
             "repo": "probe-rs",
-            "stars": 3007,
+            "stars": 3008,
             "topics": [
               "arm",
               "arm-cores",
@@ -265,7 +265,7 @@
                 "open_issues": 15,
                 "owner": "rust-osdev",
                 "repo": "cargo-xbuild",
-                "stars": 266,
+                "stars": 265,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.949Z"
@@ -282,7 +282,7 @@
             "open_issues": 66,
             "owner": "japaric",
             "repo": "xargo",
-            "stars": 1134,
+            "stars": 1135,
             "topics": [
               "bare-metal",
               "cargo",
@@ -310,7 +310,7 @@
             "open_issues": 72,
             "owner": "rust-embedded",
             "repo": "svd2rust",
-            "stars": 867,
+            "stars": 868,
             "topics": [
               "arm",
               "cmsis-svd",
@@ -334,11 +334,11 @@
             "id": 292104906,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T16:07:33Z",
+            "last_commit": "2026-11-10T15:05:41Z",
             "open_issues": 40,
             "owner": "esp-rs",
             "repo": "espflash",
-            "stars": 755,
+            "stars": 757,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
@@ -359,7 +359,7 @@
             "open_issues": 12,
             "owner": "esp-rs",
             "repo": "espup",
-            "stars": 469,
+            "stars": 470,
             "topics": [
               "embedded",
               "embedded-systems",
@@ -458,7 +458,7 @@
             "open_issues": 18,
             "owner": "matheuswhite",
             "repo": "scope-rs",
-            "stars": 73,
+            "stars": 76,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
@@ -500,7 +500,7 @@
             "open_issues": 4,
             "owner": "ref42",
             "repo": "npnp",
-            "stars": 47,
+            "stars": 48,
             "topics": [
               "allegro",
               "altium",
@@ -788,7 +788,7 @@
                 "open_issues": 15,
                 "owner": "knurling-rs",
                 "repo": "flip-link",
-                "stars": 449,
+                "stars": 450,
                 "topics": [
                   "embedded",
                   "embedded-rust",
@@ -869,8 +869,8 @@
                 "id": 252314296,
                 "language": "Rust",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-09T22:20:50Z",
-                "open_issues": 366,
+                "last_commit": "2026-11-10T21:10:53Z",
+                "open_issues": 364,
                 "owner": "oxidecomputer",
                 "repo": "hubris",
                 "stars": 3647,
@@ -894,7 +894,7 @@
                 "open_issues": 11,
                 "owner": "lobaro",
                 "repo": "FreeRTOS-rust",
-                "stars": 484,
+                "stars": 485,
                 "topics": [
                   "embedded",
                   "freertos",
@@ -955,11 +955,11 @@
                     "id": 83947369,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-09T16:22:50Z",
+                    "last_commit": "2026-11-10T23:05:28Z",
                     "open_issues": 60,
                     "owner": "rtic-rs",
                     "repo": "rtic",
-                    "stars": 2433,
+                    "stars": 2435,
                     "topics": [
                       "arm",
                       "bare-metal",
@@ -1025,7 +1025,7 @@
                 "open_issues": 92,
                 "owner": "atsamd-rs",
                 "repo": "atsamd",
-                "stars": 662,
+                "stars": 663,
                 "topics": [
                   "atmel",
                   "embedded",
@@ -1056,7 +1056,7 @@
                 "open_issues": 92,
                 "owner": "atsamd-rs",
                 "repo": "atsamd",
-                "stars": 662,
+                "stars": 663,
                 "topics": [
                   "atmel",
                   "embedded",
@@ -1087,7 +1087,7 @@
                 "open_issues": 92,
                 "owner": "atsamd-rs",
                 "repo": "atsamd",
-                "stars": 662,
+                "stars": 663,
                 "topics": [
                   "atmel",
                   "embedded",
@@ -1118,7 +1118,7 @@
                 "open_issues": 92,
                 "owner": "atsamd-rs",
                 "repo": "atsamd",
-                "stars": 662,
+                "stars": 663,
                 "topics": [
                   "atmel",
                   "embedded",
@@ -1149,7 +1149,7 @@
                 "open_issues": 92,
                 "owner": "atsamd-rs",
                 "repo": "atsamd",
-                "stars": 662,
+                "stars": 663,
                 "topics": [
                   "atmel",
                   "embedded",
@@ -2455,7 +2455,7 @@
                 "open_issues": 74,
                 "owner": "stm32-rs",
                 "repo": "stm32f1xx-hal",
-                "stars": 665,
+                "stars": 666,
                 "topics": [
                   "embedded",
                   "hacktoberfest",
@@ -2485,11 +2485,11 @@
                 "id": 297701481,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T08:25:07Z",
-                "open_issues": 551,
+                "last_commit": "2026-11-11T01:40:50Z",
+                "open_issues": 552,
                 "owner": "embassy-rs",
                 "repo": "embassy",
-                "stars": 10093,
+                "stars": 10097,
                 "topics": [
                   "async",
                   "drivers",
@@ -2541,11 +2541,11 @@
                 "id": 429554022,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T20:07:26Z",
-                "open_issues": 250,
+                "last_commit": "2026-11-10T20:21:16Z",
+                "open_issues": 290,
                 "owner": "esp-rs",
                 "repo": "esp-hal",
-                "stars": 2192,
+                "stars": 2194,
                 "topics": [
                   "embedded",
                   "embedded-hal",
@@ -2571,7 +2571,7 @@
                 "open_issues": 43,
                 "owner": "esp-rs",
                 "repo": "esp-idf",
-                "stars": 791,
+                "stars": 793,
                 "topics": [
                   "embedded",
                   "embedded-hal",
@@ -2870,11 +2870,11 @@
                 "id": 69407378,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-07T16:56:25Z",
-                "open_issues": 114,
+                "last_commit": "2026-11-10T19:07:02Z",
+                "open_issues": 115,
                 "owner": "rust-embedded",
                 "repo": "cortex-m",
-                "stars": 1013,
+                "stars": 1014,
                 "topics": [
                   "arm",
                   "cortex-m",
@@ -2901,7 +2901,7 @@
                 "open_issues": 0,
                 "owner": "rust-embedded",
                 "repo": "cortex-a",
-                "stars": 122,
+                "stars": 121,
                 "topics": [
                   "aarch64",
                   "arm",
@@ -3501,7 +3501,7 @@
                 "open_issues": 4,
                 "owner": "mciantyre",
                 "repo": "teensy4-rs",
-                "stars": 374,
+                "stars": 375,
                 "topics": [
                   "rust",
                   "rust-embedded"
@@ -3939,10 +3939,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-11-09T08:35:46Z",
-                "open_issues": 201,
+                "open_issues": 213,
                 "owner": "lvgl",
                 "repo": "lvgl",
-                "stars": 25133,
+                "stars": 25143,
                 "topics": [
                   "arduino",
                   "c",
@@ -3992,10 +3992,10 @@
             "language": "Rust",
             "license": "0BSD",
             "last_commit": "2026-11-04T12:11:10Z",
-            "open_issues": 133,
+            "open_issues": 135,
             "owner": "smoltcp-rs",
             "repo": "smoltcp",
-            "stars": 4647,
+            "stars": 4649,
             "topics": [
               "embedded",
               "networking-stack"
@@ -4019,7 +4019,7 @@
             "open_issues": 9,
             "owner": "tarcieri",
             "repo": "micromath",
-            "stars": 490,
+            "stars": 491,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
@@ -4036,11 +4036,11 @@
             "id": 106746673,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-10T05:59:58Z",
-            "open_issues": 30,
+            "last_commit": "2026-11-10T16:44:44Z",
+            "open_issues": 28,
             "owner": "lora-rs",
             "repo": "lora-rs",
-            "stars": 480,
+            "stars": 481,
             "topics": [
               "embedded-rust",
               "embedded-systems",
@@ -4066,11 +4066,11 @@
             "id": 106746673,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-10T05:59:58Z",
-            "open_issues": 30,
+            "last_commit": "2026-11-10T16:44:44Z",
+            "open_issues": 28,
             "owner": "lora-rs",
             "repo": "lora-rs",
-            "stars": 480,
+            "stars": 481,
             "topics": [
               "embedded-rust",
               "embedded-systems",
@@ -4100,7 +4100,7 @@
             "open_issues": 24,
             "owner": "ethercrab-rs",
             "repo": "ethercrab",
-            "stars": 462,
+            "stars": 463,
             "topics": [
               "ethercat",
               "ethercat-master",
@@ -4130,7 +4130,7 @@
             "open_issues": 5,
             "owner": "c410-f3r",
             "repo": "wtx",
-            "stars": 406,
+            "stars": 407,
             "topics": [
               "api",
               "certificate",
@@ -4169,10 +4169,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T07:37:02Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "embassy-rs",
             "repo": "embedded-tls",
-            "stars": 248,
+            "stars": 249,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.949Z"
@@ -4274,7 +4274,7 @@
             "open_issues": 5,
             "owner": "Michael-F-Bryan",
             "repo": "gcode-rs",
-            "stars": 109,
+            "stars": 108,
             "topics": [
               "3d-printing",
               "embedded",
@@ -4552,7 +4552,7 @@
                 "open_issues": 41,
                 "owner": "jonas-schievink",
                 "repo": "rubble",
-                "stars": 402,
+                "stars": 403,
                 "topics": [
                   "ble",
                   "bluetooth",
@@ -4696,11 +4696,11 @@
             "id": 688011037,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T08:51:03Z",
-            "open_issues": 109,
+            "last_commit": "2026-11-11T07:56:54Z",
+            "open_issues": 105,
             "owner": "rmk-rs",
             "repo": "rmk",
-            "stars": 1805,
+            "stars": 1807,
             "topics": [
               "cortex-m",
               "embedded",
@@ -4735,7 +4735,7 @@
             "open_issues": 14,
             "owner": "dotcypress",
             "repo": "ula",
-            "stars": 951,
+            "stars": 952,
             "topics": [
               "embedded",
               "logic-analyzer",
@@ -4757,11 +4757,11 @@
             "id": 1266469959,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-10T02:02:04Z",
-            "open_issues": 21,
+            "last_commit": "2026-11-11T07:21:08Z",
+            "open_issues": 22,
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 678,
+            "stars": 681,
             "topics": [
               "authenticator",
               "ccid",
@@ -5109,7 +5109,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T08:52:04.244Z",
+    "last_updated": "2026-11-11T08:27:46.688Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources for Embedded and Low-level development in the Rust programming language",
@@ -5121,7 +5121,7 @@
       "open_issues": 17,
       "owner": "rust-embedded",
       "repo": "awesome-embedded-rust",
-      "stars": 8192,
+      "stars": 8193,
       "topics": [
         "awesome",
         "awesome-list",
